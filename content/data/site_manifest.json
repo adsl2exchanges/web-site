@@ -51,21 +51,6 @@
       ]
     },
     {
-      "page_key": "bendigo smartphone repairs",
-      "slug": "bendigo-smartphone-repairs",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 460,
-      "keywords": [
-        "bendigo smartphone repairs",
-        "mobile phone repairs bendigo"
-      ],
-      "intents": [
-        "Commercial"
-      ]
-    },
-    {
       "page_key": "busted phone screen",
       "slug": "busted-phone-screen",
       "topic_key": "iphone screen replacement",
@@ -444,22 +429,6 @@
       ]
     },
     {
-      "page_key": "ipad repairs adelaide",
-      "slug": "ipad-repairs-adelaide",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 170,
-      "keywords": [
-        "ipad repairs adelaide",
-        "fix ipad screen adelaide",
-        "ipad screen repairs adelaide"
-      ],
-      "intents": [
-        "Commercial"
-      ]
-    },
-    {
       "page_key": "ipad screen change cost",
       "slug": "ipad-screen-change-cost",
       "topic_key": "iphone screen replacement",
@@ -750,57 +719,6 @@
       ]
     },
     {
-      "page_key": "iphone repairs launceston tasmania",
-      "slug": "iphone-repairs-launceston-tasmania",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 190,
-      "keywords": [
-        "iphone repairs launceston tasmania",
-        "iphone repairs launceston",
-        "mobile phone repairs launceston"
-      ],
-      "intents": [
-        "Commercial"
-      ]
-    },
-    {
-      "page_key": "iphone repairs newcastle",
-      "slug": "iphone-repairs-newcastle",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 360,
-      "keywords": [
-        "iphone repairs newcastle",
-        "mobile phone repairs newcastle nsw",
-        "phone fix newcastle",
-        "phone repairs newcastle",
-        "iphone screen repairs newcastle",
-        "iphone fix newcastle"
-      ],
-      "intents": [
-        "Commercial"
-      ]
-    },
-    {
-      "page_key": "ipod repair near me",
-      "slug": "ipod-repair-near-me",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 140,
-      "keywords": [
-        "ipod repair near me",
-        "ipod fix"
-      ],
-      "intents": [
-        "Commercial",
-        "Transactional"
-      ]
-    },
-    {
       "page_key": "licensed battery replacement near me",
       "slug": "licensed-battery-replacement-near-me",
       "topic_key": "iphone battery replacement",
@@ -904,175 +822,6 @@
       ]
     },
     {
-      "page_key": "mac repairs braybrook",
-      "slug": "mac-repairs-braybrook",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 230,
-      "keywords": [
-        "mac repairs braybrook",
-        "computer repairs braybrook north"
-      ],
-      "intents": [
-        "Commercial"
-      ]
-    },
-    {
-      "page_key": "mac repairs camberwell",
-      "slug": "mac-repairs-camberwell",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 300,
-      "keywords": [
-        "mac repairs camberwell",
-        "mac repairs middle camberwell"
-      ],
-      "intents": [
-        "Commercial"
-      ]
-    },
-    {
-      "page_key": "mac repairs coburg north",
-      "slug": "mac-repairs-coburg-north",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 200,
-      "keywords": [
-        "mac repairs coburg north",
-        "mac repairs pascoe vale"
-      ],
-      "intents": [
-        "Commercial"
-      ]
-    },
-    {
-      "page_key": "mac repairs cranbourne",
-      "slug": "mac-repairs-cranbourne",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 410,
-      "keywords": [
-        "mac repairs cranbourne",
-        "mac repairs cranbourne east",
-        "mac repairs cranbourne west",
-        "phone repair cranbourne"
-      ],
-      "intents": [
-        "Commercial"
-      ]
-    },
-    {
-      "page_key": "mac repairs frankston east",
-      "slug": "mac-repairs-frankston-east",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 740,
-      "keywords": [
-        "mac repairs frankston east",
-        "mac repairs frankston south",
-        "computer repairs frankston south",
-        "mac repairs frankston north",
-        "computer repairs frankston north",
-        "computer repairs frankston east"
-      ],
-      "intents": [
-        "Commercial"
-      ]
-    },
-    {
-      "page_key": "mac repairs hanging rock",
-      "slug": "mac-repairs-hanging-rock",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 200,
-      "keywords": [
-        "mac repairs hanging rock",
-        "macs repair shop"
-      ],
-      "intents": [
-        "Commercial",
-        "Informational, Commercial"
-      ]
-    },
-    {
-      "page_key": "mac repairs jordanville",
-      "slug": "mac-repairs-jordanville",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 1050,
-      "keywords": [
-        "mac repairs melbourne",
-        "macbook repairs melbourne",
-        "mac repairs five ways",
-        "mac repairs jordanville",
-        "mac repairs royal melbourne hospital",
-        "mac repairs tullamarine",
-        "mac repairs melbourne cbd",
-        "mac repairs laburnum"
-      ],
-      "intents": [
-        "Commercial",
-        "Informational"
-      ]
-    },
-    {
-      "page_key": "mac repairs pakenham",
-      "slug": "mac-repairs-pakenham",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 500,
-      "keywords": [
-        "mac repairs pakenham",
-        "computer repairs pakenham south",
-        "mac repairs pakenham upper",
-        "mac repairs pakenham south"
-      ],
-      "intents": [
-        "Commercial"
-      ]
-    },
-    {
-      "page_key": "mac repairs sunshine north",
-      "slug": "mac-repairs-sunshine-north",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 390,
-      "keywords": [
-        "mac repairs sunshine north",
-        "mac repairs sunshine",
-        "mac repairs wilsons promontory"
-      ],
-      "intents": [
-        "Commercial",
-        "Informational",
-        "Informational, Commercial"
-      ]
-    },
-    {
-      "page_key": "mac repairs west footscray",
-      "slug": "mac-repairs-west-footscray",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 220,
-      "keywords": [
-        "mac repairs west footscray",
-        "mac repairs footscray"
-      ],
-      "intents": [
-        "Commercial"
-      ]
-    },
-    {
       "page_key": "mobile experts parramatta reviews",
       "slug": "mobile-experts-parramatta-reviews",
       "topic_key": "local iphone repair services",
@@ -1110,21 +859,6 @@
       ]
     },
     {
-      "page_key": "mobile phone repairs coffs harbour",
-      "slug": "mobile-phone-repairs-coffs-harbour",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 280,
-      "keywords": [
-        "mobile phone repairs coffs harbour",
-        "phone repairs coffs harbour"
-      ],
-      "intents": [
-        "Commercial"
-      ]
-    },
-    {
       "page_key": "mobile repair blacktown",
       "slug": "mobile-repair-blacktown",
       "topic_key": "local iphone repair services",
@@ -1134,21 +868,6 @@
       "keywords": [
         "mobile repair blacktown",
         "mobile phone repairs blacktown"
-      ],
-      "intents": [
-        "Commercial"
-      ]
-    },
-    {
-      "page_key": "monitor screen repair",
-      "slug": "monitor-screen-repair",
-      "topic_key": "iphone screen replacement",
-      "topic_slug": "screen-replacement",
-      "topic_name": "Screen Replacement & Repair",
-      "total_volume": 200,
-      "keywords": [
-        "monitor screen repair",
-        "computer monitor screen repair"
       ],
       "intents": [
         "Commercial"
@@ -1228,43 +947,6 @@
       ]
     },
     {
-      "page_key": "phone fix brisbane",
-      "slug": "phone-fix-brisbane",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 950,
-      "keywords": [
-        "phone fix brisbane",
-        "brisbane iphone repairs",
-        "iphone fix brisbane",
-        "fix iphone screen brisbane",
-        "mobile iphone repairs brisbane",
-        "screen repair brisbane"
-      ],
-      "intents": [
-        "Commercial"
-      ]
-    },
-    {
-      "page_key": "phone fix fountain gate",
-      "slug": "phone-fix-fountain-gate",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 430,
-      "keywords": [
-        "phone fix fountain gate",
-        "phone repair frankston",
-        "mobile phone repairs frankston",
-        "iphone repair melrose parl"
-      ],
-      "intents": [
-        "Commercial",
-        "Informational"
-      ]
-    },
-    {
       "page_key": "phone mechanic parramatta",
       "slug": "phone-mechanic-parramatta",
       "topic_key": "local iphone repair services",
@@ -1282,117 +964,6 @@
       "intents": [
         "Commercial",
         "Informational"
-      ]
-    },
-    {
-      "page_key": "phone repair adelaide",
-      "slug": "phone-repair-adelaide",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 4730,
-      "keywords": [
-        "phone repair adelaide",
-        "smartphone repairs adelaide",
-        "phone screen repair adelaide",
-        "iphone fix adelaide",
-        "fix iphone screen adelaide",
-        "phone fix adelaide",
-        "phone repair shop adelaide",
-        "mobile phone repairs adelaide",
-        "iphone screen repairs adelaide",
-        "fix phone screen adelaide",
-        "mobile phone repairs adelaide sa",
-        "quick phone repair port adelaide road"
-      ],
-      "intents": [
-        "Commercial"
-      ]
-    },
-    {
-      "page_key": "phone repair chermside",
-      "slug": "phone-repair-chermside",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 140,
-      "keywords": [
-        "phone repair chermside",
-        "phone shop chermside"
-      ],
-      "intents": [
-        "Commercial"
-      ]
-    },
-    {
-      "page_key": "phone repairs cairns",
-      "slug": "phone-repairs-cairns",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 540,
-      "keywords": [
-        "phone repairs cairns",
-        "iphone repairs cairns",
-        "phone screen repair cairns",
-        "mobile phone repairs cairns"
-      ],
-      "intents": [
-        "Commercial"
-      ]
-    },
-    {
-      "page_key": "phone repairs canberra",
-      "slug": "phone-repairs-canberra",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 300,
-      "keywords": [
-        "phone repairs canberra",
-        "iphone repairs canberra",
-        "mobile phone repairs canberra"
-      ],
-      "intents": [
-        "Commercial"
-      ]
-    },
-    {
-      "page_key": "phone repairs hobart",
-      "slug": "phone-repairs-hobart",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 1040,
-      "keywords": [
-        "phone repairs hobart",
-        "iphone repairs hobart",
-        "iphone repairs hobart tasmania",
-        "mobile phone repairs hobart",
-        "iphone repairs hobart tas",
-        "mobile phone repairs hobart tas",
-        "mobile repairs hobart"
-      ],
-      "intents": [
-        "Commercial"
-      ]
-    },
-    {
-      "page_key": "phone repairs mackay",
-      "slug": "phone-repairs-mackay",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 600,
-      "keywords": [
-        "phone repairs mackay",
-        "mobile phone repairs mackay",
-        "iphone repairs mackay",
-        "iphone repairs mackay qld",
-        "mackay screen repairs"
-      ],
-      "intents": [
-        "Commercial"
       ]
     },
     {
@@ -1441,21 +1012,6 @@
       ]
     },
     {
-      "page_key": "phone repairs pakenham",
-      "slug": "phone-repairs-pakenham",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 120,
-      "keywords": [
-        "phone repairs pakenham",
-        "30 minutes fix gadget repair experts pakenham reviews"
-      ],
-      "intents": [
-        "Commercial"
-      ]
-    },
-    {
       "page_key": "phone repairs sydney",
       "slug": "phone-repairs-sydney",
       "topic_key": "local iphone repair services",
@@ -1470,41 +1026,6 @@
       ],
       "intents": [
         "Commercial"
-      ]
-    },
-    {
-      "page_key": "phone repairs taree",
-      "slug": "phone-repairs-taree",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 120,
-      "keywords": [
-        "phone repairs taree",
-        "mobile phone repairs taree"
-      ],
-      "intents": [
-        "Commercial"
-      ]
-    },
-    {
-      "page_key": "phone repairs townsville",
-      "slug": "phone-repairs-townsville",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 1170,
-      "keywords": [
-        "phone repairs townsville",
-        "phone screen repair townsville",
-        "iphone repairs townsville",
-        "mobile phone repairs townsville",
-        "quickfix phone repairs",
-        "iphone screen repairs townsville"
-      ],
-      "intents": [
-        "Commercial",
-        "Informational"
       ]
     },
     {
@@ -1537,75 +1058,6 @@
         "Commercial",
         "Informational, Commercial",
         "Transactional"
-      ]
-    },
-    {
-      "page_key": "phone screen repair geelong",
-      "slug": "phone-screen-repair-geelong",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 510,
-      "keywords": [
-        "phone screen repair geelong",
-        "phone repair geelong",
-        "ipad repairs in geelong",
-        "mac repairs geelong",
-        "apple computer repairs geelong"
-      ],
-      "intents": [
-        "Commercial"
-      ]
-    },
-    {
-      "page_key": "phone screen repair perth",
-      "slug": "phone-screen-repair-perth",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 840,
-      "keywords": [
-        "phone screen repair perth",
-        "fix your phone perth",
-        "mobile phone repairs perth wa",
-        "ipad screen repair perth"
-      ],
-      "intents": [
-        "Commercial",
-        "Informational"
-      ]
-    },
-    {
-      "page_key": "phone screen repairs toowoomba",
-      "slug": "phone-screen-repairs-toowoomba",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 330,
-      "keywords": [
-        "phone screen repairs toowoomba",
-        "iphone repairs toowoomba"
-      ],
-      "intents": [
-        "Commercial"
-      ]
-    },
-    {
-      "page_key": "phone screen repair sunshine coast",
-      "slug": "phone-screen-repair-sunshine-coast",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 480,
-      "keywords": [
-        "phone screen repair sunshine coast",
-        "iphone repairs sunshine coast",
-        "mobile phone repairs sunshine coast",
-        "phone repair sunshine coast",
-        "phone repairs maroochydore"
-      ],
-      "intents": [
-        "Commercial"
       ]
     },
     {
@@ -1804,24 +1256,6 @@
       ]
     },
     {
-      "page_key": "smartphone repairs ballarat",
-      "slug": "smartphone-repairs-ballarat",
-      "topic_key": "local iphone repair services",
-      "topic_slug": "find-a-repair-shop",
-      "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 650,
-      "keywords": [
-        "smartphone repairs ballarat",
-        "phone repairs ballarat",
-        "ballarat mobile phone repairs",
-        "mobile phone repairs ballarat vic",
-        "ipad repairs ballarat"
-      ],
-      "intents": [
-        "Commercial"
-      ]
-    },
-    {
       "page_key": "surface pro screen repair",
       "slug": "surface-pro-screen-repair",
       "topic_key": "iphone screen replacement",
@@ -1854,34 +1288,538 @@
       ]
     },
     {
-      "page_key": "tech backpacks service near me",
-      "slug": "tech-backpacks-service-near-me",
+      "page_key": "phone repair Ermington",
+      "slug": "phone-repair-ermington",
       "topic_key": "local iphone repair services",
       "topic_slug": "find-a-repair-shop",
       "topic_name": "Finding a Local Repair Shop",
-      "total_volume": 90,
+      "total_volume": 4730,
       "keywords": [
-        "tech backpacks service near me",
-        "technology help near me"
+        "phone repair Ermington",
+        "smartphone repairs Ermington",
+        "phone screen repair Ermington",
+        "iphone fix Ermington",
+        "fix iphone screen Ermington",
+        "phone fix Ermington",
+        "phone repair shop Ermington",
+        "mobile phone repairs Ermington",
+        "iphone screen repairs Ermington",
+        "fix phone screen Ermington",
+        "mobile phone repairs Ermington sa",
+        "quick phone repair port Ermington road"
       ],
       "intents": [
-        "Transactional"
+        "Commercial"
       ]
     },
     {
-      "page_key": "tv screen replacement",
-      "slug": "tv-screen-replacement",
-      "topic_key": "iphone screen replacement",
-      "topic_slug": "screen-replacement",
-      "topic_name": "Screen Replacement & Repair",
-      "total_volume": 140,
+      "page_key": "phone repairs Dundas",
+      "slug": "phone-repairs-dundas",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 1170,
       "keywords": [
-        "tv screen replacement",
-        "cracked tv screen repair"
+        "phone repairs Dundas",
+        "phone screen repair Dundas",
+        "iphone repairs Dundas",
+        "mobile phone repairs Dundas",
+        "quickfix phone repairs",
+        "iphone screen repairs Dundas"
       ],
       "intents": [
         "Commercial",
         "Informational"
+      ]
+    },
+    {
+      "page_key": "phone repairs Rydalmere",
+      "slug": "phone-repairs-rydalmere",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 1040,
+      "keywords": [
+        "phone repairs Rydalmere",
+        "iphone repairs Rydalmere",
+        "iphone repairs Rydalmere tasmania",
+        "mobile phone repairs Rydalmere",
+        "iphone repairs Rydalmere tas",
+        "mobile phone repairs Rydalmere tas",
+        "mobile repairs Rydalmere"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "phone fix Carlingford",
+      "slug": "phone-fix-carlingford",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 950,
+      "keywords": [
+        "phone fix Carlingford",
+        "Carlingford iphone repairs",
+        "iphone fix Carlingford",
+        "fix iphone screen Carlingford",
+        "mobile iphone repairs Carlingford",
+        "screen repair Carlingford"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "phone screen repair North Rocks",
+      "slug": "phone-screen-repair-north-rocks",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 840,
+      "keywords": [
+        "phone screen repair North Rocks",
+        "fix your phone North Rocks",
+        "mobile phone repairs North Rocks wa",
+        "ipad screen repair North Rocks"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational"
+      ]
+    },
+    {
+      "page_key": "smartphone repairs Eastwood",
+      "slug": "smartphone-repairs-eastwood",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 650,
+      "keywords": [
+        "smartphone repairs Eastwood",
+        "phone repairs Eastwood",
+        "Eastwood mobile phone repairs",
+        "mobile phone repairs Eastwood vic",
+        "ipad repairs Eastwood"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "phone repairs West Ryde",
+      "slug": "phone-repairs-west-ryde",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 600,
+      "keywords": [
+        "phone repairs West Ryde",
+        "mobile phone repairs West Ryde",
+        "iphone repairs West Ryde",
+        "iphone repairs West Ryde qld",
+        "West Ryde screen repairs"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "phone repairs Meadowbank",
+      "slug": "phone-repairs-meadowbank",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 540,
+      "keywords": [
+        "phone repairs Meadowbank",
+        "iphone repairs Meadowbank",
+        "phone screen repair Meadowbank",
+        "mobile phone repairs Meadowbank"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "phone screen repair Denistone",
+      "slug": "phone-screen-repair-denistone",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 510,
+      "keywords": [
+        "phone screen repair Denistone",
+        "phone repair Denistone",
+        "ipad repairs in Denistone",
+        "mac repairs Denistone",
+        "apple computer repairs Denistone"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "phone screen repair North Ryde",
+      "slug": "phone-screen-repair-north-ryde",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 480,
+      "keywords": [
+        "phone screen repair North Ryde",
+        "iphone repairs North Ryde",
+        "mobile phone repairs North Ryde",
+        "phone repair North Ryde",
+        "phone repairs maroochydore"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "Auburn smartphone repairs",
+      "slug": "auburn-smartphone-repairs",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 460,
+      "keywords": [
+        "Auburn smartphone repairs",
+        "mobile phone repairs Auburn"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "phone fix Ryde",
+      "slug": "phone-fix-ryde",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 430,
+      "keywords": [
+        "phone fix Ryde",
+        "phone repair frankston",
+        "mobile phone repairs frankston",
+        "iphone repair melrose parl"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational"
+      ]
+    },
+    {
+      "page_key": "iphone repairs Burwood",
+      "slug": "iphone-repairs-burwood",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 360,
+      "keywords": [
+        "iphone repairs Burwood",
+        "mobile phone repairs Burwood nsw",
+        "phone fix Burwood",
+        "phone repairs Burwood",
+        "iphone screen repairs Burwood",
+        "iphone fix Burwood"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "phone screen repairs Strathfield",
+      "slug": "phone-screen-repairs-strathfield",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 330,
+      "keywords": [
+        "phone screen repairs Strathfield",
+        "iphone repairs Strathfield"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "phone repairs Macquarie Park",
+      "slug": "phone-repairs-macquarie-park",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 300,
+      "keywords": [
+        "phone repairs Macquarie Park",
+        "iphone repairs Macquarie Park",
+        "mobile phone repairs Macquarie Park"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "mobile phone repairs Gladesville",
+      "slug": "mobile-phone-repairs-gladesville",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 280,
+      "keywords": [
+        "mobile phone repairs Gladesville",
+        "phone repairs Gladesville"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "iphone repairs Hunters Hill Hunters Hill",
+      "slug": "iphone-repairs-hunters-hill",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 190,
+      "keywords": [
+        "iphone repairs Hunters Hill Hunters Hill",
+        "iphone repairs Hunters Hill",
+        "mobile phone repairs Hunters Hill"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "phone repair Putney",
+      "slug": "phone-repair-putney",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 140,
+      "keywords": [
+        "phone repair Putney",
+        "phone shop Putney"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "phone repairs Harris Park",
+      "slug": "phone-repairs-harris-park",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 120,
+      "keywords": [
+        "phone repairs Harris Park",
+        "30 minutes fix gadget repair experts Harris Park reviews"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "phone repairs Rosehill",
+      "slug": "phone-repairs-rosehill",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 120,
+      "keywords": [
+        "phone repairs Rosehill",
+        "mobile phone repairs Rosehill"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "mac repairs Epping",
+      "slug": "mac-repairs-epping",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 1050,
+      "keywords": [
+        "mac repairs melbourne",
+        "macbook repairs melbourne",
+        "mac repairs five ways",
+        "mac repairs Epping",
+        "mac repairs royal melbourne hospital",
+        "mac repairs tullamarine",
+        "mac repairs melbourne cbd",
+        "mac repairs laburnum"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational"
+      ]
+    },
+    {
+      "page_key": "mac repairs Silverwater",
+      "slug": "mac-repairs-silverwater",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 740,
+      "keywords": [
+        "mac repairs Silverwater",
+        "mac repairs Silverwater south",
+        "computer repairs Silverwater south",
+        "mac repairs Silverwater north",
+        "computer repairs Silverwater north",
+        "computer repairs Silverwater"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "mac repairs Newington",
+      "slug": "mac-repairs-newington",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 500,
+      "keywords": [
+        "mac repairs Newington",
+        "computer repairs Newington south",
+        "mac repairs Newington upper",
+        "mac repairs Newington south"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "mac repairs Sydney Olympic Park",
+      "slug": "mac-repairs-sydney-olympic-park",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 410,
+      "keywords": [
+        "mac repairs Sydney Olympic Park",
+        "mac repairs Sydney Olympic Park east",
+        "mac repairs Sydney Olympic Park west",
+        "phone repair Sydney Olympic Park"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "mac repairs Wentworth Point",
+      "slug": "mac-repairs-wentworth-point",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 390,
+      "keywords": [
+        "mac repairs Wentworth Point",
+        "mac repairs sunshine",
+        "mac repairs wilsons promontory"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational",
+        "Informational, Commercial"
+      ]
+    },
+    {
+      "page_key": "mac repairs Westmead",
+      "slug": "mac-repairs-westmead",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 300,
+      "keywords": [
+        "mac repairs Westmead",
+        "mac repairs middle Westmead"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "mac repairs Merrylands",
+      "slug": "mac-repairs-merrylands",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 230,
+      "keywords": [
+        "mac repairs Merrylands",
+        "computer repairs Merrylands north"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "mac repairs Granville",
+      "slug": "mac-repairs-granville",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 220,
+      "keywords": [
+        "mac repairs Granville",
+        "mac repairs Granville"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "mac repairs Lidcombe",
+      "slug": "mac-repairs-lidcombe",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 200,
+      "keywords": [
+        "mac repairs Lidcombe",
+        "mac repairs pascoe vale"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "mac repairs Concord",
+      "slug": "mac-repairs-concord",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 200,
+      "keywords": [
+        "mac repairs Concord",
+        "macs repair shop"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational, Commercial"
+      ]
+    },
+    {
+      "page_key": "ipad repairs Drummoyne",
+      "slug": "ipad-repairs-drummoyne",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 170,
+      "keywords": [
+        "ipad repairs Drummoyne",
+        "fix ipad screen Drummoyne",
+        "ipad screen repairs Drummoyne"
+      ],
+      "intents": [
+        "Commercial"
       ]
     }
   ]

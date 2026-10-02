@@ -1,0 +1,84 @@
+{
+  "title": "Mac Repairs in Merrylands: What to Know Before You Book",
+  "meta_title": "Mac Repairs Merrylands: A Practical Guide",
+  "meta_description": "Planning Mac repairs in Merrylands? Learn what typically goes wrong, what to ask a repairer, and how to protect your data before handing your Mac over.",
+  "intro_html": "<p>If your Mac in Merrylands needs repair, the first step is identifying whether the fault is the logic board, battery, screen or keyboard, since each requires different parts, skills and turnaround times. Getting a clear diagnosis before you commit to a repair saves you from paying for the wrong fix.</p><p>This guide explains what tends to go wrong with MacBooks and iMacs, how repairers in outer Sydney suburbs like Merrylands typically handle these jobs, and what questions protect you as a customer.</p>",
+  "key_takeaways": [
+    "Logic board, battery, screen and keyboard faults each need different diagnosis and parts",
+    "Always back up via Time Machine or iCloud before any Mac repair, especially logic board work",
+    "Apple-authorised service and independent repairers both have trade-offs worth understanding",
+    "Liquid damage needs urgent attention — corrosion worsens the longer a wet Mac sits unpowered-off",
+    "Ask whether a repairer works on your specific Mac generation, since architecture changed significantly after Apple Silicon"
+  ],
+  "sections": [
+    {
+      "heading": "What are the most common Mac repair issues?",
+      "html": "<p>For laptops (MacBook Air and MacBook Pro), the most frequent issues are battery swelling or degraded capacity, cracked or delaminating screens, sticky or unresponsive keys, and charging faults related to the USB-C/MagSafe port or internal connector. For desktop Macs (iMac, Mac mini, Mac Studio), typical issues are failing storage drives, fan noise from dust build-up, and power supply faults.</p><p>Liquid spills are a separate and more serious category. A small amount of liquid can cause corrosion on the logic board that only becomes visible — and causes failures — days or weeks later, which is why quick action matters more than it might seem at the time.</p>"
+    },
+    {
+      "heading": "What should you do before taking your Mac in for repair?",
+      "html": "<p>Back up your data first, every time. Time Machine (Mac's built-in backup tool) or iCloud are the simplest options, and both should be done before any hardware work, even something as routine as a battery replacement. If your Mac won't turn on, don't try to force a diagnosis yourself — a repairer can usually recover data from a dead Mac's storage even when the machine itself won't boot, but this gets harder the more a non-professional tinkers with it first.</p><p>Also check if your Mac is still under Apple's standard warranty or AppleCare, since this affects whether you should go to an Apple-authorised provider or an independent repairer.</p>"
+    },
+    {
+      "heading": "Apple-authorised repair vs independent repairer: what's the difference?",
+      "html": "<p>Apple-authorised service providers use genuine Apple parts and follow Apple's repair procedures, which matters most if your Mac is under warranty or AppleCare, since independent repair can sometimes void remaining cover. Independent repairers can often be faster and more flexible, particularly for older Macs that Apple itself has stopped supporting (Apple limits vintage and obsolete product support to around 5-7 years after a model stops being sold).</p><p>For a Mac well outside its warranty period, an independent repairer in Merrylands or nearby western Sydney suburbs may be the more practical and cost-effective choice, provided they have genuine experience with your specific Mac generation.</p>"
+    },
+    {
+      "heading": "What drives the cost of a Mac repair?",
+      "html": "<p>Cost depends heavily on which component failed and how integrated it is with the rest of the machine. On newer MacBooks, the battery is glued in rather than clipped, and the screen assembly often includes the camera and sensors as one unit, which raises both parts cost and labour time compared to older, more modular designs. Logic board repairs (as opposed to full replacement) vary enormously depending on which component failed and whether it's component-level repairable at all.</p><p>Because pricing differs so much by model, generation and fault, it's best to get a written quote after diagnosis and check a current, itemised price list rather than assume a fixed figure.</p>"
+    },
+    {
+      "heading": "How do you choose a reliable Mac repairer in a suburb like Merrylands?",
+      "html": "<p>Ask specifically whether they service your Mac's generation — Apple Silicon Macs (M1 and later) use different architecture to Intel Macs, and not every repairer who handles older Intel MacBooks is equipped for the newer chips. Ask about their diagnostic process, whether they charge a fee if they can't fix it, and what warranty applies to the repair itself.</p><p>It's also worth asking how they handle data during the repair — a trustworthy repairer will explain their data-handling policy clearly rather than brushing off the question.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Apple-authorised vs independent Mac repair",
+    "headers": [
+      "Factor",
+      "Apple-authorised",
+      "Independent repairer"
+    ],
+    "rows": [
+      [
+        "Parts",
+        "Genuine Apple parts only",
+        "May offer genuine or quality aftermarket"
+      ],
+      [
+        "Warranty impact",
+        "Preserves AppleCare/warranty",
+        "Can affect remaining Apple warranty"
+      ],
+      [
+        "Older Mac support",
+        "Limited after ~5-7 years",
+        "Often still serviced"
+      ],
+      [
+        "Turnaround flexibility",
+        "Can be rigid, booking-dependent",
+        "Often more flexible scheduling"
+      ]
+    ]
+  },
+  "faq": [
+    {
+      "q": "Can a Mac with liquid damage be repaired?",
+      "a": "<p>Often yes, especially if the Mac is powered off immediately and brought in for cleaning and diagnosis quickly, but outcomes depend on how much liquid reached the logic board and how long it sat before being addressed.</p>"
+    },
+    {
+      "q": "Do I need to back up before a Mac repair?",
+      "a": "<p>Yes, always back up via Time Machine or iCloud before any repair, since even routine work like a battery swap carries some risk and more involved repairs may require wiping the drive.</p>"
+    },
+    {
+      "q": "Will repairing my Mac myself void the warranty?",
+      "a": "<p>It can, particularly for Macs still under AppleCare or standard Apple warranty, since unauthorised repairs may not be covered if something goes wrong afterward.</p>"
+    },
+    {
+      "q": "How long does a typical Mac repair take?",
+      "a": "<p>Simple jobs like a battery or screen swap on a common model can often be done within a day or two if parts are in stock, while logic board diagnosis or rare parts can take considerably longer.</p>"
+    }
+  ],
+  "word_count_estimate": 790
+}

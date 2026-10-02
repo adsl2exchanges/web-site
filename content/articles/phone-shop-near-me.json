@@ -13,7 +13,7 @@
   "sections": [
     {
       "heading": "The three types of \"phone shop\" you'll find nearby",
-      "html": "<p>Telco or carrier stores focus on new handsets tied to a plan or outright purchase, along with account and SIM support. Independent phone retailers typically sell a mix of new, used, and refurbished (\"licensed\") devices across multiple brands, often with more room to negotiate on trade-ins. Repair-focused shops primarily fix existing phones but frequently stock cases, screen protectors, chargers and cables as well.</p><p>Searching \"phone shop near me\" in a capital city like Perth, Melbourne or on the Gold Coast will typically return a blend of all three — it pays to check which type a listing actually is before visiting, especially if you're short on time.</p>"
+      "html": "<p>Telco or carrier stores focus on new handsets tied to a plan or outright purchase, along with account and SIM support. Independent phone retailers typically sell a mix of new, used, and refurbished (\"licensed\") devices across multiple brands, often with more room to negotiate on trade-ins. Repair-focused shops primarily fix existing phones but frequently stock cases, screen protectors, chargers and cables as well.</p><p>Searching \"phone shop near me\" around Sydney will typically return a blend of all three — it pays to check which type a listing actually is before visiting, especially if you're short on time.</p>"
     },
     {
       "heading": "What \"licensed\" or certified smartphones actually means",
@@ -34,10 +34,22 @@
   ],
   "table": null,
   "faq": [
-    {"q": "What does a \"licensed smartphone\" mean?", "a": "<p>It generally refers to a used phone that's been inspected, repaired where needed, and sold with some form of warranty, rather than sold privately with no guarantee. Exact standards vary between sellers, so it's worth asking what testing and warranty specifically apply.</p>"},
-    {"q": "Is it better to buy from a carrier store or an independent phone shop?", "a": "<p>Carrier stores are straightforward for a new plan and handset bundle, while independent shops often offer more flexibility on used devices, trade-ins and brand choice. Compare warranty terms and return policies rather than assuming one type is always better.</p>"},
-    {"q": "Should I repair my phone or buy a new one?", "a": "<p>If the phone has a single fixable fault and is otherwise working well, repairing it is usually the more economical option. If it has multiple issues or is significantly outdated, replacement may make more sense — a good shop will discuss both options honestly.</p>"},
-    {"q": "Can a phone shop fix my phone as well as sell devices?", "a": "<p>Many independent phone shops offer both sales and repairs, while dedicated repair stores focus mainly on fixing existing devices and selling accessories. Check what services a specific store actually offers before visiting, since not every \"phone shop\" does repairs.</p>"}
+    {
+      "q": "What does a \"licensed smartphone\" mean?",
+      "a": "<p>It generally refers to a used phone that's been inspected, repaired where needed, and sold with some form of warranty, rather than sold privately with no guarantee. Exact standards vary between sellers, so it's worth asking what testing and warranty specifically apply.</p>"
+    },
+    {
+      "q": "Is it better to buy from a carrier store or an independent phone shop?",
+      "a": "<p>Carrier stores are straightforward for a new plan and handset bundle, while independent shops often offer more flexibility on used devices, trade-ins and brand choice. Compare warranty terms and return policies rather than assuming one type is always better.</p>"
+    },
+    {
+      "q": "Should I repair my phone or buy a new one?",
+      "a": "<p>If the phone has a single fixable fault and is otherwise working well, repairing it is usually the more economical option. If it has multiple issues or is significantly outdated, replacement may make more sense — a good shop will discuss both options honestly.</p>"
+    },
+    {
+      "q": "Can a phone shop fix my phone as well as sell devices?",
+      "a": "<p>Many independent phone shops offer both sales and repairs, while dedicated repair stores focus mainly on fixing existing devices and selling accessories. Check what services a specific store actually offers before visiting, since not every \"phone shop\" does repairs.</p>"
+    }
   ],
   "word_count_estimate": 760
 }

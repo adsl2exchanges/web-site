@@ -1,4 +1,30 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://your-username.github.io/your-repo/sitemap.xml
+# Known AI/LLM crawlers — explicitly allowed (GEO: this site wants to be
+# retrieved and cited by AI answer engines, not just traditional search).
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://dsl2exchanges.com.au/sitemap.xml

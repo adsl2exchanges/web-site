@@ -1,0 +1,55 @@
+{
+  "title": "Mac Repairs in Westmead: What to Expect",
+  "meta_title": "Mac Repairs in Westmead: A Quick Guide",
+  "meta_description": "Planning a Mac repair in Westmead? Here's how to choose between an authorised provider and an independent, and what to ask first.",
+  "intro_html": "<p>In an established area like Westmead, you'll typically have access to both Apple Authorised Service Providers and experienced independent repairers, and the right choice mostly comes down to your Mac's warranty status and how specialised the fault is.</p>",
+  "key_takeaways": [
+    "Check your AppleCare or warranty status before choosing between an authorised provider and an independent repairer.",
+    "Back up your Mac and sign out of iCloud before any repair, regardless of who you choose.",
+    "Established suburbs often have more choice, so comparing two or three quotes is worthwhile.",
+    "Ask how a repairer protects your data and privacy while your Mac is in their care.",
+    "A written quote separating diagnostic fees, parts and labour makes comparing options much easier."
+  ],
+  "sections": [
+    {
+      "heading": "Common reasons people bring in a Mac for repair",
+      "html": "<p>Battery degradation, cracked or faulty screens, keyboard and trackpad issues, liquid spill damage and slow performance from an ageing or failing drive are the most common reasons people seek out a Mac repair. Some of these — like a battery nearing the end of its useful life — are a normal, expected part of owning a laptop for several years rather than a sign of a defect.</p>"
+    },
+    {
+      "heading": "Authorised Service Provider or independent repairer?",
+      "html": "<p>If your Mac is still under AppleCare or standard warranty, an Authorised Service Provider keeps that cover intact and guarantees genuine Apple parts. Once a Mac is out of warranty, an experienced independent repairer can often be a quicker and more flexible option, particularly for older models that Apple may no longer actively service. Ask any repairer directly about their experience with your specific Mac model before booking.</p>"
+    },
+    {
+      "heading": "What drives the cost of a Mac repair?",
+      "html": "<p>The model and age of the Mac, whether genuine or aftermarket parts are used, and the complexity of the fault all affect price — logic board or liquid damage repairs typically take more diagnostic time than a straightforward battery or screen swap. Because this varies so much, it's worth checking a current, itemised price list for your exact model rather than relying on a number you've seen elsewhere.</p>"
+    },
+    {
+      "heading": "Data privacy during a Mac repair",
+      "html": "<p>Back up your Mac fully before handing it over, and sign out of iCloud and disable Find My Mac so it can be properly tested. Ask the repairer how they handle access to your data during diagnosis and repair — a professional business should only need the minimum access required to test and fix the specific fault.</p>"
+    },
+    {
+      "heading": "How to compare quotes fairly",
+      "html": "<p>Get a written quote that separates any diagnostic fee from the cost of parts and labour, and ask the same questions of each repairer you compare: what parts they use, what warranty applies, and how long the repair will take. A clear, confident answer to all three is a good sign regardless of which type of business you're dealing with.</p><p>It's also reasonable to ask whether a loan device is available for longer repairs, and to check recent reviews for the specific type of repair you need rather than the business's overall rating alone.</p>"
+    }
+  ],
+  "table": null,
+  "faq": [
+    {
+      "q": "Is it better to use an Apple Authorised Service Provider for an out-of-warranty Mac?",
+      "a": "<p>Not necessarily — once a Mac is out of warranty, an experienced independent repairer can be just as capable and often more flexible, though an authorised provider still guarantees genuine parts.</p>"
+    },
+    {
+      "q": "What should I do before dropping off my Mac for repair?",
+      "a": "<p>Back up your data, sign out of iCloud, and disable Find My Mac so the device can be fully tested during and after the repair.</p>"
+    },
+    {
+      "q": "How do I compare Mac repair quotes fairly?",
+      "a": "<p>Ask each repairer the same questions about parts, warranty and turnaround, and get a written quote that separates diagnostic fees from parts and labour so you can compare like for like.</p>"
+    },
+    {
+      "q": "How long does a typical Mac battery or screen repair take?",
+      "a": "<p>With the part in stock, a straightforward battery or screen swap is often completed within a day or two; more complex faults needing diagnosis can take longer.</p>"
+    }
+  ],
+  "word_count_estimate": 663
+}

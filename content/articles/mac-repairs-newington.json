@@ -1,0 +1,51 @@
+{
+  "title": "Mac Repairs in Newington: What to Know First",
+  "meta_title": "Mac Repairs in Newington: A Buyer's Guide",
+  "meta_description": "Planning a Mac repair in Newington? Here's what affects cost, how to prepare your Mac, and what to ask before booking.",
+  "intro_html": "<p>Before booking a Mac repair anywhere around Newington, back up your data and confirm whether your device is still under AppleCare, since that single detail determines whether an Authorised Service Provider or an independent repairer is the better starting point. Fast-growing outer suburbs can also mean busier local booking schedules, so it pays to call ahead.</p>",
+  "key_takeaways": [
+    "Check your AppleCare or warranty status before deciding between an Authorised Service Provider and an independent repairer.",
+    "A swollen battery should be treated carefully — stop using the Mac and have it assessed rather than continuing to charge it.",
+    "Always back up your Mac before a repair, since logic board or storage issues can mean data loss.",
+    "Sign out of iCloud and Find My Mac before drop-off so the device can be freely tested and repaired.",
+    "In fast-growing areas, booking ahead can save time compared with trying to get a same-day appointment."
+  ],
+  "sections": [
+    {
+      "heading": "Common MacBook and iMac problems",
+      "html": "<p>Battery swelling is one of the more serious issues to watch for — ageing lithium-ion batteries can expand slightly, sometimes pushing against the trackpad or case. If you notice a trackpad that's become hard to click or a case that no longer sits flat, stop using the device and have it looked at rather than continuing to charge it. Other common issues include keyboard and trackpad failures, particularly on older butterfly-mechanism keyboards, cracked or faulty screens, liquid spill damage, and storage or performance problems as drives age.</p>"
+    },
+    {
+      "heading": "AppleCare and warranty vs independent repair",
+      "html": "<p>If your Mac is still covered by AppleCare or Apple's standard warranty, using an Authorised Service Provider keeps that cover intact and ensures genuine parts are used. Once a Mac is out of warranty, an independent repairer can often be quicker to book and more flexible about economical repairs on older hardware, including models Apple itself may no longer service.</p>"
+    },
+    {
+      "heading": "What affects the cost of a Mac repair?",
+      "html": "<p>The model and its age, whether genuine or aftermarket parts are used, and the complexity of the fault all influence price — a logic board repair needing component-level diagnosis takes considerably more time than a straightforward battery or screen swap. Because these factors shift the cost so much, it's worth checking a current, itemised price list for your exact model instead of relying on a figure you've seen for a different Mac.</p>"
+    },
+    {
+      "heading": "Preparing your Mac before drop-off",
+      "html": "<p>Back up your data with Time Machine or a cloud backup first, since some repairs — particularly anything touching the logic board or storage — can result in data loss. Sign out of iCloud and disable Find My Mac, since an active Activation Lock can prevent a repairer from fully testing the device after the repair. If you know your admin password will be needed for testing, be ready to provide it, or ask the repairer what access they actually require.</p>"
+    },
+    {
+      "heading": "Choosing a repairer in a fast-growing area",
+      "html": "<p>Suburbs in a growth corridor can see repair bookings fill up quickly as the local population grows faster than service capacity. If you can't get a timely appointment close to home, it's often worth checking options slightly further out, including mail-in services for less urgent repairs. Whichever you choose, confirm the warranty on parts and labour, and ask for a written quote before committing.</p>"
+    }
+  ],
+  "table": null,
+  "faq": [
+    {
+      "q": "Is it safe to keep using a MacBook with a swollen battery?",
+      "a": "<p>No — a swollen lithium-ion battery should be treated as a safety concern. Stop using and charging the device and have it assessed by a repairer as soon as practical.</p>"
+    },
+    {
+      "q": "Should I back up before a Mac repair?",
+      "a": "<p>Yes — always back up your Mac before any repair, since issues affecting the logic board or storage can result in data loss during the repair process.</p>"
+    },
+    {
+      "q": "Do independent repairers void Apple's warranty?",
+      "a": "<p>Having an independent repairer work on a Mac that's still under Apple's warranty or AppleCare can void that remaining cover, so check your warranty status before choosing where to take it.</p>"
+    }
+  ],
+  "word_count_estimate": 658
+}

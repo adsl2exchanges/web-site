@@ -1,0 +1,80 @@
+{
+  "title": "Mac Repairs in Silverwater: What to Check First",
+  "meta_title": "Mac Repairs in Silverwater: A Buyer's Guide",
+  "meta_description": "Comparing Mac repair options in Silverwater? Here's what drives the cost, how to vet a repairer, and exactly what to ask before booking.",
+  "intro_html": "<p>Getting a Mac repaired well comes down to matching the fault to the right kind of repairer: an Apple Authorised Service Provider for warranty-covered or complex board-level work, or an independent specialist for faster, often more flexible out-of-warranty jobs. Silverwater, South and North are all part of the same local market, so widening your search across the wider Silverwater area usually gives you more options to compare.</p>",
+  "key_takeaways": [
+    "Back up your Mac before drop-off — major repairs can involve wiping or replacing storage.",
+    "Authorised Service Providers use Apple-genuine parts and preserve any remaining AppleCare cover; independents can be quicker for older, out-of-warranty Macs.",
+    "Liquid damage, swollen batteries and logic board faults usually need a proper diagnostic before anyone can give an accurate quote.",
+    "Ask for a written quote that separates diagnostic fees, parts and labour so you can compare offers fairly.",
+    "Silverwater, South and North share the same pool of repairers, so don't limit yourself to one exact suburb when searching."
+  ],
+  "sections": [
+    {
+      "heading": "What are the most common Mac repair issues?",
+      "html": "<p>Most Mac repair jobs fall into a handful of categories. Screens get cracked or develop display lines after a knock; batteries swell or lose capacity with age and charge cycles; keyboards and trackpads fail, particularly on older butterfly-mechanism MacBook models; and liquid spills cause corrosion that can affect the logic board, keyboard and speakers all at once.</p><p>Storage and performance problems are also common — a Mac that's slowed to a crawl often has a failing drive or a storage volume that's nearly full, rather than a fault that needs opening the case at all.</p>"
+    },
+    {
+      "heading": "Apple Authorised Service Provider or independent repairer?",
+      "html": "<p>Both can do good work; the right choice depends on your Mac's age and warranty status. An Authorised Service Provider is the safer default if your Mac is still under AppleCare or standard warranty, since using one keeps that cover intact and guarantees genuine parts.</p><p>Once a Mac is well out of warranty, an independent repairer is often faster to book, more willing to attempt economical fixes on older hardware, and sometimes the only realistic option for models Apple has stopped servicing. The table below sums up the trade-offs.</p>"
+    },
+    {
+      "heading": "What affects the cost of a Mac repair?",
+      "html": "<p>Price isn't fixed — it moves with several factors. The model and its age matter, since parts for current MacBooks and iMacs are usually easier to source than for discontinued ones. Whether a part is genuine Apple stock or a quality aftermarket equivalent also changes the price, as does the extent of damage: a single cracked screen is far simpler than a logic board affected by liquid corrosion. Because these variables shift the final number so much, it's worth checking a current, itemised price list for your exact model rather than relying on a figure you saw somewhere else.</p>"
+    },
+    {
+      "heading": "DIY vs professional repair for a Mac",
+      "html": "<p>Some older MacBooks and iMacs have user-accessible RAM or storage, making a self-managed upgrade realistic. Most current Macs solder memory and storage directly to the logic board, which takes DIY battery, screen or storage swaps off the table for most people.</p><p>Opening a Mac yourself also risks static damage, voiding any remaining warranty, and — on True Tone models — needing specialist calibration after a screen swap. For anything beyond adding external storage, professional repair is the safer route.</p>"
+    },
+    {
+      "heading": "How to compare quotes and choose a repairer",
+      "html": "<p>Get at least two or three quotes before committing, and ask each repairer the same questions: what parts they use, whether there's a warranty on the repair itself, how long the job will take, and what happens to your data during the process. A repairer who answers clearly and in writing is generally one worth trusting with your hardware.</p><p>Check how long the business has been operating, look at recent reviews rather than just the overall star rating, and confirm whether a loan device is available if you'll be without your Mac for more than a day or two.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Apple Authorised Service Provider vs independent Mac repairer",
+    "headers": [
+      "Factor",
+      "Authorised Service Provider",
+      "Independent repairer"
+    ],
+    "rows": [
+      [
+        "Parts used",
+        "Genuine Apple parts only",
+        "Genuine or quality aftermarket, repairer's choice"
+      ],
+      [
+        "Effect on warranty/AppleCare",
+        "Preserves remaining cover",
+        "May void remaining Apple warranty"
+      ],
+      [
+        "Best suited to",
+        "In-warranty or newer Macs",
+        "Older or out-of-warranty Macs"
+      ],
+      [
+        "Logic board micro-soldering",
+        "Limited — often a full-unit swap",
+        "Sometimes offered as a cheaper alternative"
+      ]
+    ]
+  },
+  "faq": [
+    {
+      "q": "Is there a real difference between computer repairs in Silverwater, South and North?",
+      "a": "<p>Not in any meaningful sense — these are neighbouring parts of the same Silverwater area, and the same repairers generally service all of them. Searching across the wider area rather than one exact suburb will usually give you more options.</p>"
+    },
+    {
+      "q": "How long does a Mac repair usually take?",
+      "a": "<p>A straightforward part swap like a battery or screen can often be done within a day or two once parts are on hand, while logic board diagnosis or waiting on a less common part can take noticeably longer.</p>"
+    },
+    {
+      "q": "Will repairing my own Mac void the warranty?",
+      "a": "<p>Opening a Mac that's still under Apple's warranty or AppleCare yourself, or having anyone other than an Authorised Service Provider work on it, can void the remaining cover, so check your warranty status before attempting anything yourself.</p>"
+    }
+  ],
+  "word_count_estimate": 871
+}

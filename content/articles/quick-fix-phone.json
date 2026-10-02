@@ -17,7 +17,7 @@
     },
     {
       "heading": "Why CBD and city-centre repair shops often advertise speed",
-      "html": "<p>Shops in busy city centres, including Melbourne's CBD, often structure their service around people who are working nearby and want a repair done within a lunch break or between meetings. This pushes them toward keeping common parts in stock and streamlining the while-you-wait process.</p><p>That said, a suburban shop with the right part in stock can be just as fast as a CBD one — location affects convenience and foot traffic, not the technical speed of the repair itself.</p>"
+      "html": "<p>Shops in busy city centres, including Sydney's CBD, often structure their service around people who are working nearby and want a repair done within a lunch break or between meetings. This pushes them toward keeping common parts in stock and streamlining the while-you-wait process.</p><p>That doesn't mean a suburban repairer can't be just as fast — it's worth asking directly about typical turnaround rather than assuming a CBD location is always quicker.</p>"
     },
     {
       "heading": "What actually determines if your repair can be quick",
@@ -34,10 +34,22 @@
   ],
   "table": null,
   "faq": [
-    {"q": "Can I get my iPhone screen fixed the same day in Melbourne's CBD?", "a": "<p>Often yes, for common iPhone models, provided the shop has the part in stock. Calling ahead to confirm stock for your exact model is the most reliable way to guarantee same-day service.</p>"},
-    {"q": "Is a quick phone repair lower quality than a longer one?", "a": "<p>Not necessarily — a fast turnaround usually just reflects that the fault and part are common, not that any steps were skipped. A rushed job only becomes a concern if a shop skips checking the phone before and after the repair.</p>"},
-    {"q": "Why do some phone repairs take days instead of hours?", "a": "<p>Usually because the required part isn't in stock and needs to be ordered, the model is less common, or the fault needs proper diagnosis before a repair plan can even be decided, as with water damage.</p>"},
-    {"q": "Does it cost more to get a phone fixed quickly?", "a": "<p>Not always — most of the cost comes from the device, part quality and fault type rather than speed. Some shops do charge extra for urgent or after-hours service, so it's worth asking before booking.</p>"}
+    {
+      "q": "Can I get my iPhone screen fixed the same day in the CBD?",
+      "a": "<p>Often yes, for common iPhone models, provided the shop has the part in stock. Calling ahead to confirm stock for your exact model is the most reliable way to guarantee same-day service.</p>"
+    },
+    {
+      "q": "Is a quick phone repair lower quality than a longer one?",
+      "a": "<p>Not necessarily — a fast turnaround usually just reflects that the fault and part are common, not that any steps were skipped. A rushed job only becomes a concern if a shop skips checking the phone before and after the repair.</p>"
+    },
+    {
+      "q": "Why do some phone repairs take days instead of hours?",
+      "a": "<p>Usually because the required part isn't in stock and needs to be ordered, the model is less common, or the fault needs proper diagnosis before a repair plan can even be decided, as with water damage.</p>"
+    },
+    {
+      "q": "Does it cost more to get a phone fixed quickly?",
+      "a": "<p>Not always — most of the cost comes from the device, part quality and fault type rather than speed. Some shops do charge extra for urgent or after-hours service, so it's worth asking before booking.</p>"
+    }
   ],
   "word_count_estimate": 790
 }

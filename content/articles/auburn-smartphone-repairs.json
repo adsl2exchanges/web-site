@@ -1,0 +1,80 @@
+{
+  "title": "Smartphone Repairs in Auburn: Repair or Replace?",
+  "meta_title": "Smartphone Repairs in Auburn: Repair or Replace",
+  "meta_description": "Trying to decide whether to repair or replace your phone in Auburn? Here's how to diagnose the fault, weigh up the decision, and what to ask a repairer.",
+  "intro_html": "<p>Whether to repair or replace a smartphone usually comes down to the age of the device, the type of fault, and how the device performs otherwise — a single isolated issue like a cracked screen or tired battery is normally worth repairing, while multiple compounding faults on an older phone may not be. Working out exactly what's wrong is the first step either way.</p>",
+  "key_takeaways": [
+    "A single, isolated fault — like a screen or battery — is usually worth repairing even on an older phone.",
+    "Multiple faults at once, or a phone several generations behind current software support, tip the decision toward replacing.",
+    "Battery drain that happens gradually over time is normal lithium-ion wear, not necessarily a fault needing urgent attention.",
+    "A charging port that needs the cable wiggled is often caused by lint rather than a damaged port.",
+    "A reasonable warranty on parts and labour should be standard with any phone repair."
+  ],
+  "sections": [
+    {
+      "heading": "Working out what's actually wrong",
+      "html": "<p>Before deciding anything, pin down the fault. A screen that's visibly cracked is obvious, but a phone that's slow, hot, or losing charge quickly could be a battery issue, a software problem, or simply a storage drive that's nearly full. Try a restart and a software update first for performance issues — it costs nothing and sometimes resolves what looks like a hardware fault.</p><p>For charging issues, check the port for lint or debris before assuming the port itself has failed, since a blocked port is a very common and easily fixed cause of unreliable charging.</p>"
+    },
+    {
+      "heading": "Repair or replace: how to weigh it up",
+      "html": "<p>A single, contained fault on a phone that otherwise works well is usually worth repairing, especially if the phone still receives current software updates and meets your needs. The calculation shifts once a phone has multiple issues at once, is several years old, or is no longer supported with security updates — in those cases, the cumulative cost and effort of repeated repairs can outweigh the benefit.</p><p>There's no universal rule here; it depends on your own use of the phone and how much life you expect to get out of it afterward.</p>"
+    },
+    {
+      "heading": "What affects the cost of a phone repair?",
+      "html": "<p>Cost depends on the phone model, whether genuine or aftermarket parts are used, and how much of the device is affected. A straightforward screen or battery swap on a common model is usually the simplest and most predictable repair, while anything involving water exposure or multiple components takes more diagnostic time. Because pricing varies so much by device, it's worth checking a current, itemised price list for your specific model rather than going by a figure you've heard elsewhere.</p>"
+    },
+    {
+      "heading": "Choosing a repairer in Auburn",
+      "html": "<p>Auburn has reasonable access to mainstream phone repair services, though less common models or parts may occasionally need to be ordered in. Ask a prospective repairer whether they have your part in stock, what warranty applies to the repair, and whether they can show you the part before fitting it.</p>"
+    },
+    {
+      "heading": "Warranty and consumer protections to expect",
+      "html": "<p>A reasonable repairer will offer a warranty covering both the part and the labour for a defined period, and will be upfront about what that warranty does and doesn't cover — for example, it typically won't cover new physical damage after the repair. Beyond any shop-specific warranty, Australian Consumer Law guarantees also apply to repair services generally, giving you a baseline level of protection if a repair isn't carried out with reasonable care and skill.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Repair vs replace: factors to weigh",
+    "headers": [
+      "Factor",
+      "Leans toward repair",
+      "Leans toward replace"
+    ],
+    "rows": [
+      [
+        "Number of faults",
+        "One isolated issue",
+        "Several faults at once"
+      ],
+      [
+        "Device age",
+        "Recent, well-supported model",
+        "Several years old, limited software support"
+      ],
+      [
+        "Battery health",
+        "Otherwise healthy device",
+        "Multiple ageing components"
+      ],
+      [
+        "Your plans for the device",
+        "Want to keep it longer-term",
+        "Was already planning an upgrade"
+      ]
+    ]
+  },
+  "faq": [
+    {
+      "q": "How do I know if it's my battery or my charging port?",
+      "a": "<p>If the phone charges fine once plugged in but drains quickly during use, it's usually the battery; if it struggles to make a reliable connection or needs the cable adjusted, the charging port or cable is the more likely cause.</p>"
+    },
+    {
+      "q": "Is it worth repairing an old phone?",
+      "a": "<p>Usually yes, if the fault is isolated and the phone still meets your needs and receives software updates — it's less worthwhile if the phone has multiple issues or is no longer supported.</p>"
+    },
+    {
+      "q": "What warranty should I expect on a phone repair in Auburn?",
+      "a": "<p>A clear warranty covering the part and the workmanship for a set period is standard practice — confirm the length and what's included before agreeing to the repair.</p>"
+    }
+  ],
+  "word_count_estimate": 771
+}

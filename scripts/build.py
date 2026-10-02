@@ -32,6 +32,28 @@ BUILD_DATE = date.today().isoformat()
 PRICE_REFERENCE_URL = "https://zoom-fones.com.au/prices"
 PRICE_REFERENCE_LABEL = "zoom-fones.com.au/prices"
 
+# --- Freshness dates (avoid "freshness spam": only bump dateModified when a
+# page's own content actually changed, never on every rebuild — SEO-GEO.txt
+# section 1.5 / 9.3). datePublished is recorded the first time a slug is seen
+# and then kept stable; dateModified tracks that file's real mtime.
+PUBLISH_DATES_PATH = os.path.join(CONTENT, "data", "publish_dates.json")
+
+
+def file_date(path):
+    return date.fromtimestamp(os.path.getmtime(path)).isoformat()
+
+
+def load_publish_dates():
+    if os.path.exists(PUBLISH_DATES_PATH):
+        with open(PUBLISH_DATES_PATH, encoding="utf-8") as f:
+            return json.load(f)
+    return {}
+
+
+def save_publish_dates(data):
+    with open(PUBLISH_DATES_PATH, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2, sort_keys=True)
+
 
 def load_json(path):
     with open(path, encoding="utf-8") as f:
@@ -75,7 +97,7 @@ def as_html_block(value, fallback=""):
     return v
 
 
-def normalize_article(slug, data, meta):
+def normalize_article(slug, data, meta, date_published, date_modified):
     errors = []
     title = data.get("title") or meta["page_key"].title()
     if not data.get("title"):
@@ -141,9 +163,13 @@ def normalize_article(slug, data, meta):
         "table": table,
         "faq": faq,
         "word_count_estimate": int(word_count),
+        "date_published": date_published,
+        "date_modified": date_modified,
         "_meta": meta,
     }
 
+
+publish_dates = load_publish_dates()
 
 articles = {}
 missing = []
@@ -158,7 +184,14 @@ for a in ARTICLES_META:
         print(f"[build] ERROR: {a['slug']}.json is not valid JSON ({e}); skipped.")
         missing.append(a["slug"])
         continue
-    articles[a["slug"]] = normalize_article(a["slug"], raw, a)
+    mtime_date = file_date(path)
+    if a["slug"] not in publish_dates:
+        publish_dates[a["slug"]] = mtime_date
+    date_published = publish_dates[a["slug"]]
+    date_modified = mtime_date
+    articles[a["slug"]] = normalize_article(a["slug"], raw, a, date_published, date_modified)
+
+save_publish_dates(publish_dates)
 
 if missing:
     print(f"[build] WARNING: {len(missing)} article content file(s) missing, skipped:")
@@ -317,7 +350,7 @@ def topic_card(depth, topic_slug, topic_name, count):
     href = rel(depth, f"topics/{topic_slug}/")
     desc_map = {
         "battery-replacement": "Battery health, replacement costs and how to make a battery last longer.",
-        "find-a-repair-shop": "How to find, vet and compare a trustworthy repairer near you across Australia.",
+        "find-a-repair-shop": "How to find, vet and compare a trustworthy repairer near you in Sydney.",
         "screen-replacement": "Cracked screen costs, LCD vs OEM parts, and what to expect from a screen repair.",
         "charging-port-repair": "Diagnosing and fixing charging port faults on phones and tablets.",
         "face-id-repair": "Troubleshooting and repairing Face ID and other biometric sensors.",
@@ -443,7 +476,7 @@ def build_topics():
   {crumbs_html}
   <header class="page-header">
     <h1>{esc(info['name'])}</h1>
-    <p class="lede">{len(items)} guides covering the most common questions people search about {esc(info['name'].lower())} in Australia.</p>
+    <p class="lede">{len(items)} guides covering the most common questions people search about {esc(info['name'].lower())} in Sydney.</p>
   </header>
 </div>
 <section class="section">
@@ -455,7 +488,7 @@ def build_topics():
 </section>
 """
         title = f"{info['name']} — Guides | {site['site_name']}"
-        desc = f"Browse {len(items)} independent guides on {info['name'].lower()}: costs, how-to steps and what to expect, written for Australian readers."
+        desc = f"Browse {len(items)} independent guides on {info['name'].lower()}: costs, how-to steps and what to expect, written for Sydney readers."
         head = render_head(depth, title, desc, f"topics/{slug}/", extra_schema=schema)
         html_out = page_shell(depth, head, render_header(depth), body, render_footer(depth))
         write_file(f"topics/{slug}/index.html", html_out)
@@ -575,8 +608,8 @@ def build_articles():
             "@type": "Article",
             "headline": data["title"],
             "description": data["meta_description"],
-            "datePublished": BUILD_DATE,
-            "dateModified": BUILD_DATE,
+            "datePublished": data["date_published"],
+            "dateModified": data["date_modified"],
             "author": {"@type": "Organization", "name": site["author_name"]},
             "publisher": {
                 "@type": "Organization",
@@ -594,7 +627,7 @@ def build_articles():
   {crumbs_html}
   <header class="page-header">
     <h1>{esc(data['title'])}</h1>
-    <p class="meta-row"><span>Updated {BUILD_DATE}</span><span>&middot;</span><span>{esc(topic_info['name'])}</span>{f'<span>&middot;</span><span>~{word_count} words</span>' if word_count else ''}</p>
+    <p class="meta-row"><span>Updated {data['date_modified']}</span><span>&middot;</span><span>{esc(topic_info['name'])}</span>{f'<span>&middot;</span><span>~{word_count} words</span>' if word_count else ''}</p>
   </header>
 </div>
 <section class="section" style="padding-top:20px;">
@@ -642,7 +675,7 @@ def build_static_pages():
   <header class="page-header"><h1>About {esc(site['site_name'])}</h1></header>
 </div>
 <section class="section"><div class="container article-body">
-<p>{esc(site['site_name'])} is an independent, reader-supported resource that helps people in Australia understand
+<p>{esc(site['site_name'])} is an independent, reader-supported resource that helps people in Sydney understand
 phone, tablet and laptop repair options &mdash; what a repair typically involves, what it costs, and the questions
 worth asking before you book one in.</p>
 <p>We are not a repair shop, and we are not affiliated with Apple, Samsung, Google, Microsoft or any device manufacturer
@@ -656,7 +689,7 @@ context needed to make a good decision &mdash; see our <a href="{rel(depth, 'edi
 or pull request on the project's repository.</p>
 </div></section>
 """
-    head = render_head(depth, f"About | {site['site_name']}", f"About {site['site_name']}, an independent Australian guide to device repairs.", "about/")
+    head = render_head(depth, f"About | {site['site_name']}", f"About {site['site_name']}, an independent Sydney guide to device repairs.", "about/")
     write_file("about/index.html", page_shell(depth, head, render_header(depth, "/about/"), about_body, render_footer(depth)))
 
     editorial_body = f"""
@@ -670,7 +703,7 @@ or pull request on the project's repository.</p>
 rankings or recommendations. We are not a repair business ourselves.</p>
 <h2>Accuracy</h2>
 <p>Repair costs, timeframes and part availability change often and vary by region, device model and repairer. Figures
-in our guides are general Australian market ranges intended for comparison, not quotes. We recommend getting a written
+in our guides are general Sydney market ranges intended for comparison, not quotes. We recommend getting a written
 quote from at least two repairers before booking any work.</p>
 <h2>Corrections</h2>
 <p>We update guides when we become aware of outdated or incorrect information. Every article shows the date it was
@@ -718,12 +751,17 @@ for details of their practices.</p>
 # ---------------------------------------------------------------------------
 def build_sitemap_robots():
     base = site["base_url"].rstrip("/")
-    urls = ["", "about/", "editorial-policy/", "privacy/"]
-    urls += [f"topics/{slug}/" for slug in by_topic]
-    urls += [f"articles/{a['slug']}/" for a in ALL_SORTED]
+    # (url, lastmod) pairs — article/topic lastmod reflects real content changes
+    # (file mtime), not the build date, to avoid false freshness signals.
+    url_dates = [(u, BUILD_DATE) for u in ("", "about/", "editorial-policy/", "privacy/")]
+    for slug, items in by_topic.items():
+        topic_lastmod = max((articles[a["slug"]]["date_modified"] for a in items), default=BUILD_DATE)
+        url_dates.append((f"topics/{slug}/", topic_lastmod))
+    for a in ALL_SORTED:
+        url_dates.append((f"articles/{a['slug']}/", articles[a["slug"]]["date_modified"]))
 
     entries = "\n".join(
-        f"  <url><loc>{esc(base + '/' + u)}</loc><lastmod>{BUILD_DATE}</lastmod></url>" for u in urls
+        f"  <url><loc>{esc(base + '/' + u)}</loc><lastmod>{lastmod}</lastmod></url>" for u, lastmod in url_dates
     )
     sitemap = f"""<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
@@ -735,9 +773,74 @@ def build_sitemap_robots():
     robots = f"""User-agent: *
 Allow: /
 
+# Known AI/LLM crawlers — explicitly allowed (GEO: this site wants to be
+# retrieved and cited by AI answer engines, not just traditional search).
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
 Sitemap: {base}/sitemap.xml
 """
     write_file("robots.txt", robots)
+
+
+# ---------------------------------------------------------------------------
+# llms.txt — https://llmstxt.org/ — a plain-language, link-annotated map of the
+# site for LLM-based crawlers/answer engines, kept in sync with the sitemap.
+# ---------------------------------------------------------------------------
+def build_llms_txt():
+    base = site["base_url"].rstrip("/")
+    lines = [f"# {site['site_name']}", "", f"> {site['description']}", ""]
+    lines.append(
+        "Independent publication, not affiliated with Apple, Samsung, Google, Microsoft or any device "
+        "manufacturer or repair chain. Guides avoid fixed-dollar price claims, since repair prices change "
+        "often and vary by repairer, device model and condition."
+    )
+    lines.append("")
+
+    for slug, info in TOPICS_BY_SLUG.items():
+        items = by_topic.get(slug, [])
+        if not items:
+            continue
+        lines.append(f"## {info['name']}")
+        lines.append("")
+        lines.append(f"- [{info['name']} — all guides]({base}/topics/{slug}/)")
+        for a in items:
+            data = articles[a["slug"]]
+            url = f"{base}/articles/{a['slug']}/"
+            desc = data["meta_description"].strip()
+            lines.append(f"- [{data['title']}]({url}): {desc}")
+        lines.append("")
+
+    lines.append("## Optional")
+    lines.append("")
+    lines.append(f"- [About]({base}/about/): who writes these guides and why.")
+    lines.append(f"- [Editorial Policy]({base}/editorial-policy/): independence, accuracy and correction policy.")
+    lines.append(f"- [Privacy]({base}/privacy/)")
+    lines.append(f"- [Sitemap]({base}/sitemap.xml)")
+    lines.append("")
+
+    write_file("llms.txt", "\n".join(lines))
 
 
 # ---------------------------------------------------------------------------
@@ -747,6 +850,7 @@ def main():
     build_articles()
     build_static_pages()
     build_sitemap_robots()
+    build_llms_txt()
     print("[build] done.")
     if missing:
         print(f"[build] NOTE: {len(missing)} articles still missing content and were skipped — rerun after adding them.")

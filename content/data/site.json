@@ -1,10 +1,10 @@
 {
   "site_name": "Device Repair Guide",
-  "site_tagline": "Australia's independent guide to phone, tablet & laptop repairs",
-  "base_url": "https://your-username.github.io/your-repo",
+  "site_tagline": "Sydney's independent guide to phone, Mac, laptop & tablet repairs",
+  "base_url": "https://dsl2exchanges.com.au",
   "language": "en-AU",
   "locale": "en_AU",
-  "description": "Independent, in-depth guides to iPhone, phone, tablet and laptop repairs: screen and battery replacement, charging port and Face ID fixes, repair costs, and how to choose a repairer in Australia.",
+  "description": "Independent, in-depth guides to iPhone, phone, iPad, tablet, Mac and laptop repairs for Sydney readers: screen and battery replacement, charging port and Face ID fixes, repair costs, and how to choose a repairer.",
   "author_name": "Device Repair Guide Editorial Team",
   "twitter_handle": "",
   "nav": [
@@ -20,7 +20,7 @@
     {"label": "Privacy", "url": "/privacy/"},
     {"label": "Sitemap", "url": "/sitemap.xml"}
   ],
-  "disclaimer": "Device Repair Guide is an independent publication and is not affiliated with Apple, Samsung, Google, Microsoft or any device manufacturer or repair chain. Prices and timeframes mentioned are general Australian market estimates for comparison purposes only and will vary by repairer, device model and condition. Always get a written quote before booking a repair.",
+  "disclaimer": "Device Repair Guide is an independent publication and is not affiliated with Apple, Samsung, Google, Microsoft or any device manufacturer or repair chain. Prices and timeframes mentioned are general Sydney market estimates for comparison purposes only and will vary by repairer, device model and condition. Always get a written quote before booking a repair.",
   "help_cta": {
     "heading": "Need professional help?",
     "text": "If you'd rather leave it to a specialist, Zoom Fones can take care of the repair for you.",

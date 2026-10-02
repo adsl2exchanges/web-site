@@ -1,0 +1,55 @@
+{
+  "title": "Mac Repairs in Granville: Protecting Your Data First",
+  "meta_title": "Mac Repairs Granville: Data-Safe Guide",
+  "meta_description": "Need Mac repairs in Granville? Here's how to protect your data, choose a repairer, and understand what affects turnaround and cost.",
+  "intro_html": "<p>Before any Mac repair in Granville, the single most important step is backing up your data, because even a routine screen or battery job carries a small chance of data loss and a logic board repair may require wiping the drive entirely. Get that sorted first, then focus on finding a repairer who can actually diagnose the fault correctly.</p><p>This guide walks through how to protect your files, what commonly fails on MacBooks and iMacs, and how to evaluate a local repairer around Granville and Granville.</p>",
+  "key_takeaways": [
+    "Back up with Time Machine or iCloud before any Mac repair — don't skip this even for \"simple\" jobs",
+    "If your Mac won't boot at all, stop trying DIY fixes — further attempts can make data recovery harder",
+    "Ask a repairer directly how they handle your data during diagnosis and repair",
+    "FileVault encryption (Mac's built-in disk encryption) affects how data recovery works if the Mac fails",
+    "A repairer who offers a genuine diagnostic step before quoting is generally more trustworthy than one who quotes blind"
+  ],
+  "sections": [
+    {
+      "heading": "Why does data protection matter so much for Mac repairs?",
+      "html": "<p>Unlike a phone, a Mac is often the single device holding years of documents, photos and project files, frequently without automatic cloud backup turned on for every folder. A repair that goes wrong, or even one that goes exactly to plan but requires a drive reformat, can mean permanent loss of anything not backed up elsewhere.</p><p>The fix is simple: before booking any repair, connect an external drive and run a Time Machine backup, or confirm your important folders are synced to iCloud Drive. This takes a few minutes and removes nearly all of the risk from the repair process.</p>"
+    },
+    {
+      "heading": "What if your Mac won't turn on at all?",
+      "html": "<p>A Mac that won't power on could be a battery, logic board, or power supply fault — and crucially, in most cases the storage drive itself is still intact even when the rest of the machine has failed. This means data recovery is often possible, but it gets harder, not easier, if an inexperienced person keeps restarting, resetting, or opening the machine trying to self-diagnose.</p><p>If your Mac is dead, the safest move is to stop troubleshooting and take it to a repairer for a proper diagnostic before more is attempted. Ask upfront whether data recovery is included in their diagnostic process or billed separately.</p>"
+    },
+    {
+      "heading": "How does FileVault encryption affect repair and recovery?",
+      "html": "<p>FileVault is Apple's built-in full-disk encryption, and if it's enabled (which is the default suggestion on most new Macs), only someone with your password or recovery key can access the data, even if the drive itself is physically intact. This is good for security but means you must know your FileVault recovery key before handing your Mac to anyone for repair — without it, legitimate data recovery becomes effectively impossible.</p><p>Check your Apple ID account or written records for this recovery key before your Mac goes in for any repair that might involve the storage drive.</p>"
+    },
+    {
+      "heading": "What drives the cost of a Mac repair in this situation?",
+      "html": "<p>Cost depends on what's actually broken — a battery or screen swap is generally more predictable than a logic board fault, which may require specialist component-level diagnosis. Data recovery, if needed separately from the repair itself, is typically quoted on its own because the techniques (and time involved) vary enormously depending on the type of failure.</p><p>Rather than guessing at cost upfront, ask for a diagnostic first, then a written quote broken into repair and (if applicable) recovery components, and check a current, itemised price list for specifics.</p>"
+    },
+    {
+      "heading": "How do you choose a repairer for a Mac with important data on it?",
+      "html": "<p>Ask directly: do they back up the drive before attempting any repair that touches the logic board or storage? Do they have experience with your specific Mac generation (Apple Silicon versus Intel differs significantly in both hardware and recovery tools)? And what happens to your data and drive if they can't fix the problem?</p><p>A repairer who treats these questions seriously, rather than brushing them off, is a strong signal they'll handle your Mac carefully.</p>"
+    }
+  ],
+  "table": null,
+  "faq": [
+    {
+      "q": "Can data be recovered from a Mac that won't turn on?",
+      "a": "<p>Often yes, because the storage drive is frequently intact even when the rest of the Mac has failed, though recovery is harder or impossible if the drive itself is physically damaged or encrypted without the recovery key.</p>"
+    },
+    {
+      "q": "Do I need my FileVault password before a repair?",
+      "a": "<p>Yes — if FileVault encryption is enabled on your Mac, you'll need your password or recovery key for anyone to access your data during diagnosis or recovery.</p>"
+    },
+    {
+      "q": "What's the difference between mac repairs in Granville and Granville generally?",
+      "a": "<p>There's no technical difference — the same repair considerations (diagnosis, data backup, parts, warranty) apply regardless of which side of the suburb boundary a repairer is located in.</p>"
+    },
+    {
+      "q": "Should I back up my Mac before a simple battery replacement?",
+      "a": "<p>Yes, it's good practice for any repair, since even low-risk jobs carry some chance of an issue, and backing up takes only a few minutes with Time Machine or iCloud.</p>"
+    }
+  ],
+  "word_count_estimate": 760
+}

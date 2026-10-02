@@ -2,18 +2,18 @@
   "title": "Phone Repairs Near Me: How to Choose the Right Repairer",
   "meta_title": "Phone Repairs Near Me: Choosing a Repairer",
   "meta_description": "Searching \"phone repairs near me\"? Learn how to compare local repairers, what questions to ask before booking, and what affects turnaround and warranty.",
-  "intro_html": "<p>Typing \"phone repairs near me\" into Google mostly surfaces whoever is closest and best reviewed on Google Maps — not necessarily the repairer best suited to your phone or your situation. The right choice depends on your device, how urgent the fix is, and whether speed or warranty matters more to you.</p><p>This guide covers what actually matters when picking from a list of nearby repairers, whether you're searching from a capital city CBD or a regional centre.</p>",
+  "intro_html": "<p>Typing \"phone repairs near me\" into Google mostly surfaces whoever is closest and best reviewed on Google Maps — not necessarily the repairer best suited to your phone or your situation. The right choice depends on your device, how urgent the fix is, and whether speed or warranty matters more to you.</p><p>This guide covers what actually matters when picking from a list of nearby repairers.</p>",
   "key_takeaways": [
     "Map ranking reflects proximity and review volume, not repair quality — read a handful of recent reviews rather than trusting the star average alone.",
     "Ask what type of replacement part is used (OEM, OEM-grade/aftermarket, or refurbished) before you book, since this affects the outcome and any warranty.",
     "Simple jobs like a cracked screen or an old battery are often same-day; water damage, bent frames or rare models can take longer.",
     "A written warranty on parts and labour tells you more about a repairer's confidence than how close their shop is.",
-    "This same vetting process applies whether you're searching from a capital city CBD, a suburb, or a regional town — the underlying search results work the same way everywhere."
+    "This same vetting process applies wherever you're searching from — the underlying search results work the same way everywhere."
   ],
   "sections": [
     {
       "heading": "What actually comes up when you search \"near me\"",
-      "html": "<p>A \"near me\" search blends three kinds of results: independent repair shops, phone accessory/repair chains, and mobile or on-site repairers who come to you. These are ranked mostly on distance and review signals, not on who does the best technical work.</p><p>That makes the top result a reasonable starting point, not a verdict. Treat the map as a shortlist generator — open three or four listings before deciding, rather than just the first one.</p><p>This holds true whether you're searching from a capital city, a regional hub, or a specific shopping strip — the way these results are generated doesn't change by location.</p>"
+      "html": "<p>A \"near me\" search blends three kinds of results: independent repair shops, phone accessory/repair chains, and mobile or on-site repairers who come to you. These are ranked mostly on distance and review signals, not on who does the best technical work.</p><p>That makes the top result a reasonable starting point, not a verdict. Treat the map as a shortlist generator — open three or four listings before deciding, rather than just the first one.</p>"
     },
     {
       "heading": "How to shortlist a repairer before you book",
@@ -34,19 +34,51 @@
   ],
   "table": {
     "caption": "Mall kiosk or chain vs independent specialist: what differs",
-    "headers": ["Factor", "Mall kiosk or chain", "Independent specialist"],
+    "headers": [
+      "Factor",
+      "Mall kiosk or chain",
+      "Independent specialist"
+    ],
     "rows": [
-      ["Range of devices", "Usually current, popular models", "Often broader, including older or less common models"],
-      ["Turnaround", "Fast for simple while-you-wait jobs", "Varies; may need the device left with them"],
-      ["Parts transparency", "Not always stated upfront", "More likely to disclose OEM vs aftermarket options"],
-      ["Diagnostics", "Often a quick visual check", "Frequently a more thorough bench diagnostic"]
+      [
+        "Range of devices",
+        "Usually current, popular models",
+        "Often broader, including older or less common models"
+      ],
+      [
+        "Turnaround",
+        "Fast for simple while-you-wait jobs",
+        "Varies; may need the device left with them"
+      ],
+      [
+        "Parts transparency",
+        "Not always stated upfront",
+        "More likely to disclose OEM vs aftermarket options"
+      ],
+      [
+        "Diagnostics",
+        "Often a quick visual check",
+        "Frequently a more thorough bench diagnostic"
+      ]
     ]
   },
   "faq": [
-    {"q": "How do I know if a phone repair shop near me is any good?", "a": "<p>Check recent reviews rather than just the overall rating, confirm they run a diagnostic before quoting, and ask what warranty applies to parts and labour. A repairer who is upfront about part quality and warranty terms is generally more trustworthy than one that only advertises being fast or cheap.</p>"},
-    {"q": "How long does a phone screen repair take?", "a": "<p>Most popular phone models can have a screen replaced within an hour or two if the part is in stock. Less common models, or parts that need to be ordered in, can take a few days.</p>"},
-    {"q": "Do mobile phone repair shops fix water damage?", "a": "<p>Many do, but outcomes vary depending on how much liquid got in and how long the phone stayed on before being switched off. It's usually treated as a diagnostic job first, since a technician needs to check for corrosion before promising a straightforward fix.</p>"},
-    {"q": "Is an independent repairer or a repair chain better?", "a": "<p>Neither is automatically better — it comes down to the individual shop. Independents sometimes handle a wider range of older or less common models, while chains may have more consistent stock. Compare reviews and warranty terms for the specific location rather than judging by the brand name alone.</p>"}
+    {
+      "q": "How do I know if a phone repair shop near me is any good?",
+      "a": "<p>Check recent reviews rather than just the overall rating, confirm they run a diagnostic before quoting, and ask what warranty applies to parts and labour. A repairer who is upfront about part quality and warranty terms is generally more trustworthy than one that only advertises being fast or cheap.</p>"
+    },
+    {
+      "q": "How long does a phone screen repair take?",
+      "a": "<p>Most popular phone models can have a screen replaced within an hour or two if the part is in stock. Less common models, or parts that need to be ordered in, can take a few days.</p>"
+    },
+    {
+      "q": "Do mobile phone repair shops fix water damage?",
+      "a": "<p>Many do, but outcomes vary depending on how much liquid got in and how long the phone stayed on before being switched off. It's usually treated as a diagnostic job first, since a technician needs to check for corrosion before promising a straightforward fix.</p>"
+    },
+    {
+      "q": "Is an independent repairer or a repair chain better?",
+      "a": "<p>Neither is automatically better — it comes down to the individual shop. Independents sometimes handle a wider range of older or less common models, while chains may have more consistent stock. Compare reviews and warranty terms for the specific location rather than judging by the brand name alone.</p>"
+    }
   ],
   "word_count_estimate": 820
 }
