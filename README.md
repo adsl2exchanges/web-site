@@ -41,14 +41,14 @@ modified time, and the first time a slug is seen its publish date is recorded pe
   (see `SEO-GEO.txt`, "Freshness Spam"), so don't delete `publish_dates.json` or hand-edit dates to look
   fresher than the content actually is.
 
-## Domain: dsl2exchanges.com.au
+## Domain: adsl2exchanges.com.au
 
-This site is configured to publish at **https://dsl2exchanges.com.au** (a custom domain, not a
+This site is configured to publish at **https://adsl2exchanges.com.au** (a custom domain, not a
 `username.github.io` URL):
 
-- `content/data/site.json` → `"base_url": "https://dsl2exchanges.com.au"` — used for canonical tags, Open
+- `content/data/site.json` → `"base_url": "https://adsl2exchanges.com.au"` — used for canonical tags, Open
   Graph tags, JSON-LD and `sitemap.xml`.
-- `CNAME` (repo root, already present, contains `dsl2exchanges.com.au`) — this is what tells GitHub Pages
+- `CNAME` (repo root, already present, contains `adsl2exchanges.com.au`) — this is what tells GitHub Pages
   which custom domain to serve the site on. Required for any custom domain.
 - All internal links are relative, so this would also work unchanged if published without the custom domain
   (e.g. at a `username.github.io/repo-name/` URL) — only `base_url` would need to change back.
@@ -59,10 +59,10 @@ If the domain ever changes, update both `base_url` in `site.json` and the `CNAME
 python scripts/build.py
 ```
 
-### DNS records needed for dsl2exchanges.com.au
+### DNS records needed for adsl2exchanges.com.au
 
 Since this is an apex/root domain (not `www.`), at your domain registrar/DNS provider add **A records**
-pointing `dsl2exchanges.com.au` to GitHub Pages' IPs:
+pointing `adsl2exchanges.com.au` to GitHub Pages' IPs:
 
 ```
 185.199.108.153
@@ -71,7 +71,7 @@ pointing `dsl2exchanges.com.au` to GitHub Pages' IPs:
 185.199.111.153
 ```
 
-(If you also want `www.dsl2exchanges.com.au` to work, add a `CNAME` record for `www` pointing to
+(If you also want `www.adsl2exchanges.com.au` to work, add a `CNAME` record for `www` pointing to
 `<your-github-username>.github.io`, and enable the redirect in the GitHub Pages settings.)
 
 DNS changes can take anywhere from a few minutes to a few hours to propagate. Once GitHub detects the DNS
@@ -101,7 +101,7 @@ This folder is already a git repository with commits. To publish it:
    git push -u origin main
    ```
 3. In the GitHub repo: **Settings → Pages → Source → Deploy from a branch → `main` / `/ (root)`**.
-4. Add the custom domain under **Settings → Pages → Custom domain**: `dsl2exchanges.com.au` (GitHub will
+4. Add the custom domain under **Settings → Pages → Custom domain**: `adsl2exchanges.com.au` (GitHub will
    detect the `CNAME` file already in the repo). See the DNS section above before this will resolve.
 5. Once DNS is verified, tick **Enforce HTTPS**.
 

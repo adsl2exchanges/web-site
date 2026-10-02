@@ -27,4 +27,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://dsl2exchanges.com.au/sitemap.xml
+Sitemap: https://adsl2exchanges.com.au/sitemap.xml
