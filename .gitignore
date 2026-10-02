@@ -3,3 +3,11 @@ __pycache__/
 .DS_Store
 Thumbs.db
 .claude/
+
+# Internal-use only — keep local, never publish to the public repo.
+/SEO-GEO.txt
+/iphone-repair_pages_2026-10-02.xlsx
+/content/data/batches/
+/content/data/writing-guidelines.md
+*.token
+.env
