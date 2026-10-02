@@ -809,6 +809,10 @@ Sitemap: {base}/sitemap.xml
 # site for LLM-based crawlers/answer engines, kept in sync with the sitemap.
 # ---------------------------------------------------------------------------
 def build_llms_txt():
+    # llms.txt is hand-edited after the initial generation — never overwrite it once it exists.
+    if os.path.exists(os.path.join(ROOT, "llms.txt")):
+        print("[build] llms.txt already exists — skipping (hand-edited; delete the file to regenerate).")
+        return
     base = site["base_url"].rstrip("/")
     lines = [f"# {site['site_name']}", "", f"> {site['description']}", ""]
     lines.append(
