@@ -20,5 +20,16 @@
     {"label": "Privacy", "url": "/privacy/"},
     {"label": "Sitemap", "url": "/sitemap.xml"}
   ],
-  "disclaimer": "Device Repair Guide is an independent publication and is not affiliated with Apple, Samsung, Google, Microsoft or any device manufacturer or repair chain. Prices and timeframes mentioned are general Australian market estimates for comparison purposes only and will vary by repairer, device model and condition. Always get a written quote before booking a repair."
+  "disclaimer": "Device Repair Guide is an independent publication and is not affiliated with Apple, Samsung, Google, Microsoft or any device manufacturer or repair chain. Prices and timeframes mentioned are general Australian market estimates for comparison purposes only and will vary by repairer, device model and condition. Always get a written quote before booking a repair.",
+  "help_cta": {
+    "heading": "Need professional help?",
+    "text": "If you'd rather leave it to a specialist, Zoom Fones can take care of the repair for you.",
+    "button_label": "Get help at Zoom Fones",
+    "button_url": "https://zoom-fones.com.au",
+    "locations": [
+      {"label": "Leppington", "url": "https://zoom-fones.com.au/leppington"},
+      {"label": "Melrose Park", "url": "https://zoom-fones.com.au/melrose-park"},
+      {"label": "Birkenhead Point", "url": null, "note": "Coming soon"}
+    ]
+  }
 }

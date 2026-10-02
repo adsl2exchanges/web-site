@@ -494,6 +494,24 @@ def render_table(table):
 </table>"""
 
 
+def render_help_box():
+    cta = site.get("help_cta")
+    if not cta:
+        return ""
+    tags = ""
+    for loc in cta.get("locations", []):
+        if loc.get("url"):
+            tags += f'<a class="tag" href="{esc(loc["url"])}" rel="noopener" target="_blank">{esc(loc["label"])}</a>'
+        else:
+            note = esc(loc.get("note", "Coming soon"))
+            tags += f'<span class="tag tag--soon">{esc(loc["label"])} <small>({note})</small></span>'
+    return f"""<div class="help-box">
+  <h2>{esc(cta['heading'])}</h2>
+  <p>{esc(cta['text'])} <a class="btn" href="{esc(cta['button_url'])}" rel="noopener" target="_blank">{esc(cta['button_label'])}</a></p>
+  <div class="location-tags">{tags}</div>
+</div>"""
+
+
 def related_articles(meta, n=3):
     pool = [a for a in by_topic.get(meta["topic_slug"], []) if a["slug"] != meta["slug"]]
     return pool[:n]
@@ -589,6 +607,7 @@ def build_articles():
         {table_html}
         {faq_html}
         <div class="disclaimer-box">{esc(site['disclaimer'])}</div>
+        {render_help_box()}
       </div>
       <aside class="sidebar">
         {'<div class="sidebar-box toc"><h2>On this page</h2><ul>' + toc_items + '</ul></div>' if toc_items else ''}
