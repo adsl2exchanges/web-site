@@ -1,0 +1,55 @@
+{
+  "title": "Cell Phone Screen Repair: Everything You Need to Know",
+  "meta_title": "Cell Phone Screen Repair: Complete Guide",
+  "meta_description": "Cracked phone screen? Here's how cell phone screen repair works, what affects the outcome, and how to decide between DIY, a repair shop or a replacement.",
+  "intro_html": "<p>Cell phone screen repair involves replacing the damaged display assembly (the glass, LCD or OLED panel, and touch digitizer, usually as one combined unit) with a new or refurbished part, and in most cases it's quicker and cheaper than replacing the whole phone. The right choice depends on your phone's age, the extent of the damage, and whether you value getting back exactly original performance.</p><p>This guide covers how screen repair actually works, what determines quality and cost, and how to find help nearby.</p>",
+  "key_takeaways": [
+    "Most phone screens are replaced as a single assembly (glass, panel and touch sensor together), not just the glass alone",
+    "A cracked but still-functioning screen is a different repair than one with dead pixels or unresponsive touch areas",
+    "OEM, OEM-refurbished and aftermarket screens differ in color accuracy, touch sensitivity and durability",
+    "DIY screen replacement kits exist but carry real risk of damaging ribbon cables or losing water resistance",
+    "A repair shop's warranty length and parts transparency matter more than how fast they claim to be"
+  ],
+  "sections": [
+    {
+      "heading": "What actually happens during a cell phone screen repair?",
+      "html": "<p>A technician opens the phone (methods vary by brand — some use adhesive that needs heating or a solvent, others have more accessible fasteners), disconnects the battery for safety, then unplugs the damaged display assembly from the logic board and replaces it with a new one. On many modern phones, the display assembly includes more than just glass — the OLED or LCD panel, touch digitizer layer, and sometimes the earpiece speaker and proximity sensor are built into the same unit.</p><p>After installation, a proper repair includes resealing the phone (replacing adhesive strips, especially important for water-resistant models) and testing touch response, brightness, and any integrated sensors before handing it back.</p>"
+    },
+    {
+      "heading": "How do you know if you need a screen repair or something else?",
+      "html": "<p>If the glass is visibly cracked or shattered but touch still works and the display shows colours correctly, it's a straightforward cosmetic-and-functional screen repair. If you see dead pixels, dark patches, flickering, or areas where touch doesn't register, the damage may extend to the display panel itself or its connector — still a screen repair, just a more involved diagnosis.</p><p>If the phone shows no display at all but still makes sounds (notifications, vibration), the issue could be the screen, its connecting cable, or in rarer cases the logic board itself — worth a proper diagnostic rather than assuming it's definitely the screen.</p>"
+    },
+    {
+      "heading": "OEM vs aftermarket screens: what's the real difference?",
+      "html": "<p>OEM (original equipment manufacturer) screens are made to the phone maker's exact specifications, usually offering the closest match to original brightness, colour accuracy and touch responsiveness. OEM-refurbished screens are genuine original parts that have been restored, often a solid middle-ground option. Aftermarket screens are third-party manufactured and vary widely in quality — some are very close to original, others show weaker touch sensitivity, dimmer brightness, or less accurate colour.</p><p>Ask your repairer specifically which category they're offering and whether they can show you the difference, since reputable shops are usually happy to explain their parts sourcing.</p>"
+    },
+    {
+      "heading": "Can you repair a phone screen yourself?",
+      "html": "<p>DIY screen replacement kits are widely sold online and can work for a confident, careful person on older or simpler phone models. The risks increase with newer phones: ribbon cables are thinner and tear easily, adhesive seals that maintain water resistance are easy to damage, and on iPhones in particular, Face ID components behind the screen require careful handling to keep working correctly.</p><p>If you attempt it yourself, work on a clean, well-lit surface, keep track of every screw (sizes often differ), and avoid forcing any connector — a torn ribbon cable can turn a simple repair into a much more expensive one.</p>"
+    },
+    {
+      "heading": "What affects the cost of a screen repair?",
+      "html": "<p>Cost is driven by the phone model (flagship phones generally have pricier screen assemblies than budget models), the part type (OEM versus aftermarket), and whether other components were damaged in the same incident, such as the frame or back glass. Folding phone screens are a category of their own, generally far more complex and costly than a standard rigid screen due to the flexible panel technology involved.</p><p>Because pricing shifts often and varies by model, check a current, itemised price list for your exact phone rather than relying on a number you've seen for a different device.</p>"
+    },
+    {
+      "heading": "How do you choose where to get your screen repaired?",
+      "html": "<p>Compare repairers on warranty length, part transparency, and whether they test the full phone (not just the screen) before returning it. Ask whether the repair is done on-site while you wait or sent elsewhere, and whether water resistance is restored if your phone originally had an IP rating.</p><p>A shop willing to explain trade-offs between part types, rather than just pushing the cheapest option, is usually the better choice long-term.</p>"
+    }
+  ],
+  "table": {
+    "caption": "OEM vs OEM-refurbished vs aftermarket screens",
+    "headers": ["Type", "Typical quality", "Best for"],
+    "rows": [
+      ["OEM (new)", "Closest to original performance", "Newer or higher-value phones"],
+      ["OEM-refurbished", "Genuine part, restored condition", "Good balance of cost and quality"],
+      ["Aftermarket", "Variable — ranges from good to noticeably lower quality", "Older or lower-value phones"]
+    ]
+  },
+  "faq": [
+    {"q": "How long does cell phone screen repair take?", "a": "<p>Most common phone models with the part in stock can be repaired within an hour or two, though less common models needing an ordered-in part can take several days.</p>"},
+    {"q": "Will a screen repair affect my phone's water resistance?", "a": "<p>It can, unless the repairer properly replaces the adhesive seals during reassembly — ask specifically whether water resistance is restored as part of the service.</p>"},
+    {"q": "Is it worth repairing a cracked screen or just living with it?", "a": "<p>A cracked screen that still functions can be used, but sharp edges risk cuts, moisture can enter through the crack over time, and touch sensitivity often degrades further, so repairing sooner generally prevents bigger problems.</p>"},
+    {"q": "Where can I get mobile phone help near me for a screen issue?", "a": "<p>Search for local phone repair shops, check their reviews and warranty terms, and call ahead to confirm they stock a screen for your specific model before visiting.</p>"}
+  ],
+  "word_count_estimate": 850
+}

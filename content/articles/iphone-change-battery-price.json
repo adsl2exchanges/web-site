@@ -1,0 +1,43 @@
+{
+  "title": "iPhone Battery Replacement Price: What Affects It",
+  "meta_title": "iPhone Battery Replacement: What Drives the Price",
+  "meta_description": "There's no single iPhone battery replacement price. Here's what actually affects the cost, from model and part type to warranty status, and how to compare.",
+  "intro_html": "<p>There's no single, fixed price for changing an iPhone battery — the real cost depends on your specific model, whether you choose a genuine Apple battery or a third-party alternative, and whether your phone is covered by AppleCare+. Rather than relying on a number you've seen quoted for a different model or a different year, it's worth understanding what actually moves the price.</p><p>This covers the main factors that affect iPhone battery replacement cost, including why newer Pro models typically cost more to service than older or entry-level ones.</p>",
+  "key_takeaways": [
+    "Newer and Pro-model iPhones generally cost more to service than older or standard models, due to larger batteries and more complex internals",
+    "A genuine Apple battery costs more than a third-party equivalent, but preserves accurate battery health reporting and manufacturer standards",
+    "AppleCare+ typically covers battery replacement for free once health has dropped below Apple's stated threshold",
+    "Independent repairers are usually cheaper than Apple or an Authorised Service Provider, but may use third-party batteries and can affect your remaining warranty",
+    "Checking a current, itemised price list for your exact model is more reliable than comparing against a number quoted for a different phone"
+  ],
+  "sections": [
+    {
+      "heading": "Why isn't there a single iPhone battery replacement price?",
+      "html": "<p>Battery replacement cost varies because it depends on several independent factors at once: which iPhone model you have, whether the part is genuine or third-party, whether you go through Apple, an Authorised Service Provider, or an independent repairer, and whether your device still qualifies for free or discounted service under AppleCare+. Two people with different iPhone models, or the same model serviced by different repairers, can end up with quite different costs for what looks like the same job.</p>"
+    },
+    {
+      "heading": "Does the iPhone model affect the price?",
+      "html": "<p>Yes, significantly. Pro and Pro Max models generally use larger, higher-capacity batteries and more complex internal assembly than standard models, which typically makes them more expensive to service. The iPhone 13 Pro, for example, generally costs more to have its battery replaced than a standard iPhone 13 or an older iPhone SE, reflecting both the part cost and the labour involved.</p><p>Older, discontinued models can sometimes cost more too, if genuine parts are harder to source and the repairer needs to use a third-party alternative or order the part in specially.</p>"
+    },
+    {
+      "heading": "Does AppleCare+ cover battery replacement?",
+      "html": "<p>Yes — AppleCare+ typically covers a battery replacement at no extra cost once the battery's maximum capacity has dropped below Apple's stated threshold (shown under Battery Health & Charging). Without AppleCare+, an out-of-warranty battery replacement through Apple or an Authorised Service Provider is a standard paid service.</p><p>If you're not sure whether you still have AppleCare+ active, check the Apple Support app or your Apple ID account page, since coverage details and the service threshold are something Apple manages directly rather than something a third party can verify for you.</p>"
+    },
+    {
+      "heading": "Genuine vs third-party battery: how does that affect price and outcome?",
+      "html": "<p>A genuine Apple battery generally costs more than a third-party equivalent, but it's manufactured to Apple's original specifications and keeps Battery Health reporting as accurate as Apple intends. Third-party batteries vary in quality — some reputable third-party batteries perform very close to genuine, while cheaper ones may degrade faster or trigger a battery health warning in iOS regardless of actual condition.</p><p>If resale value or long-term accuracy of battery reporting matters to you, a genuine part is usually worth the premium. If you just need the phone functional at the lowest reasonable cost, a quality third-party battery is a reasonable trade-off.</p>"
+    },
+    {
+      "heading": "How should you compare iPhone battery replacement quotes?",
+      "html": "<p>Ask each repairer the same questions: is the battery genuine or third-party, what's the warranty on the work, and is there a diagnostic fee if something else turns out to be the actual issue. Because prices are updated often and vary by model and repairer, it's worth checking a current, itemised price list for your exact iPhone rather than going by a figure you saw somewhere else.</p>"
+    }
+  ],
+  "table": null,
+  "faq": [
+    {"q": "How much does it cost to change an iPhone battery?", "a": "<p>It depends on the model, whether the part is genuine or third-party, and the repairer, so it's best to check a current, itemised price list for your specific iPhone rather than a general number.</p>"},
+    {"q": "How much is an iPhone 13 Pro battery replacement?", "a": "<p>Pro models generally cost more than standard models to service due to larger batteries and more complex assembly, but the exact figure varies by repairer and part type, so check an up-to-date price list.</p>"},
+    {"q": "Does AppleCare+ cover a battery replacement?", "a": "<p>Yes, typically at no extra cost once the battery's maximum capacity has dropped below Apple's stated service threshold, as shown in Battery Health & Charging.</p>"},
+    {"q": "Is a third-party iPhone battery worth it over a genuine one?", "a": "<p>It can be a reasonable budget option, but quality varies, and a genuine battery generally keeps battery health reporting more accurate and matches Apple's original specifications.</p>"}
+  ],
+  "word_count_estimate": 780
+}

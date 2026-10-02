@@ -1,0 +1,1888 @@
+{
+  "topics": {
+    "iphone battery replacement": {
+      "slug": "battery-replacement",
+      "name": "Battery Replacement & Battery Health"
+    },
+    "local iphone repair services": {
+      "slug": "find-a-repair-shop",
+      "name": "Finding a Local Repair Shop"
+    },
+    "iphone screen replacement": {
+      "slug": "screen-replacement",
+      "name": "Screen Replacement & Repair"
+    },
+    "iphone charging port repair": {
+      "slug": "charging-port-repair",
+      "name": "Charging Port Repair"
+    },
+    "iphone face id repair": {
+      "slug": "face-id-repair",
+      "name": "Face ID & Sensor Issues"
+    },
+    "iphone back glass repair": {
+      "slug": "back-glass-repair",
+      "name": "Back Glass Repair"
+    },
+    "iphone speaker and microphone repair": {
+      "slug": "speaker-mic-repair",
+      "name": "Speaker & Microphone Repair"
+    }
+  },
+  "articles": [
+    {
+      "page_key": "battery replacements near me",
+      "slug": "battery-replacements-near-me",
+      "topic_key": "iphone battery replacement",
+      "topic_slug": "battery-replacement",
+      "topic_name": "Battery Replacement & Battery Health",
+      "total_volume": 630,
+      "keywords": [
+        "battery replacements near me",
+        "battery replacement cost",
+        "how much is a battery replacement",
+        "how much does a battery replacement cost",
+        "how much does a new battery cost"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational",
+        "Transactional"
+      ]
+    },
+    {
+      "page_key": "bendigo smartphone repairs",
+      "slug": "bendigo-smartphone-repairs",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 460,
+      "keywords": [
+        "bendigo smartphone repairs",
+        "mobile phone repairs bendigo"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "busted phone screen",
+      "slug": "busted-phone-screen",
+      "topic_key": "iphone screen replacement",
+      "topic_slug": "screen-replacement",
+      "topic_name": "Screen Replacement & Repair",
+      "total_volume": 11330,
+      "keywords": [
+        "screen cracked screen",
+        "cracked the screen",
+        "telephone screen repair",
+        "fixing phone screen",
+        "cellphone screen fix",
+        "broken phone screen",
+        "cracked phone screen",
+        "screen smashed",
+        "phone screen shattered",
+        "chipped phone screen",
+        "smashed screen phone",
+        "busted phone screen",
+        "cracks in phone",
+        "cracked phone screen repair",
+        "smashed phone screen repair",
+        "crack repair phone",
+        "fix cracks on phone screen",
+        "shattered screen repair",
+        "broken phone screen repair",
+        "cracked screen repair",
+        "how to fix a shattered phone screen",
+        "how to fix a smashed phone screen",
+        "how to fix a chipped phone screen",
+        "shattered screen",
+        "how can you fix a cracked phone screen",
+        "phone damage screen",
+        "how to fix phone screen damage",
+        "how to fix broken phone screen",
+        "screen broken screen",
+        "broke phone screen"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational",
+        "Informational, Transactional"
+      ]
+    },
+    {
+      "page_key": "cell phone screen repair",
+      "slug": "cell-phone-screen-repair",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 180,
+      "keywords": [
+        "cell phone screen repair",
+        "mobile phone help near me"
+      ],
+      "intents": [
+        "Commercial",
+        "Transactional"
+      ]
+    },
+    {
+      "page_key": "change iphone 8 screen",
+      "slug": "change-iphone-8-screen",
+      "topic_key": "iphone screen replacement",
+      "topic_slug": "screen-replacement",
+      "topic_name": "Screen Replacement & Repair",
+      "total_volume": 200,
+      "keywords": [
+        "change iphone 8 screen",
+        "screen of iphone 8"
+      ],
+      "intents": [
+        "Informational",
+        "Informational, Transactional"
+      ]
+    },
+    {
+      "page_key": "charging jack repair",
+      "slug": "charging-jack-repair",
+      "topic_key": "iphone charging port repair",
+      "topic_slug": "charging-port-repair",
+      "topic_name": "Charging Port Repair",
+      "total_volume": 160,
+      "keywords": [
+        "fix charging port",
+        "charging jack repair"
+      ],
+      "intents": [
+        "Informational"
+      ]
+    },
+    {
+      "page_key": "computer and laptop repair services",
+      "slug": "computer-and-laptop-repair-services",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 2040,
+      "keywords": [
+        "pc repair service",
+        "computer and laptop repair services",
+        "fix laptop near me",
+        "pc screen repair",
+        "fix computer screen near me",
+        "it repair near me",
+        "it specialists near me",
+        "computer repair store near me",
+        "laptop repair shops",
+        "laptop fixers near me",
+        "technology repair shops"
+      ],
+      "intents": [
+        "Commercial",
+        "Transactional"
+      ]
+    },
+    {
+      "page_key": "cost of new battery for ipad",
+      "slug": "cost-of-new-battery-for-ipad",
+      "topic_key": "iphone battery replacement",
+      "topic_slug": "battery-replacement",
+      "topic_name": "Battery Replacement & Battery Health",
+      "total_volume": 160,
+      "keywords": [
+        "cost of new battery for ipad",
+        "can a battery be replaced on an ipad"
+      ],
+      "intents": [
+        "Informational"
+      ]
+    },
+    {
+      "page_key": "face id not working",
+      "slug": "face-id-not-working",
+      "topic_key": "iphone face id repair",
+      "topic_slug": "face-id-repair",
+      "topic_name": "Face ID & Sensor Issues",
+      "total_volume": 7760,
+      "keywords": [
+        "face id not working",
+        "facial id not working",
+        "why is my face id not working",
+        "face identification not working",
+        "face i d not working",
+        "why is my facial id not working",
+        "face id not available",
+        "how to reset face id",
+        "face id stopped working",
+        "face recognition not working",
+        "facial recognition not working",
+        "why has my face id stopped working",
+        "why is face id not available",
+        "why does my face id not work",
+        "why is my face id not working on my iphone",
+        "how to fix face id"
+      ],
+      "intents": [
+        "Informational"
+      ]
+    },
+    {
+      "page_key": "fix cell phones near me",
+      "slug": "fix-cell-phones-near-me",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 9760,
+      "keywords": [
+        "fix cell phones near me",
+        "cell screen repair",
+        "fix mobile phone near me",
+        "fix mobile near me",
+        "screen fixing places near me",
+        "fix phone screen cheap near me",
+        "iphone fix shop near me",
+        "iphone repairs geelong",
+        "fix cell phone screen near me",
+        "iphone phone repairs near me",
+        "screen repair service",
+        "fix mobile screen near me",
+        "mobile phone repairs geelong",
+        "ipod fixers near me",
+        "mobile repairs geelong",
+        "best phone repairs near me",
+        "apple repairs geelong",
+        "cheap screen fix"
+      ],
+      "intents": [
+        "Commercial",
+        "Transactional"
+      ]
+    },
+    {
+      "page_key": "fonefix bondi",
+      "slug": "fonefix-bondi",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 140,
+      "keywords": [
+        "fonefix bondi",
+        "fone fix bondi"
+      ],
+      "intents": [
+        "Informational, Transactional"
+      ]
+    },
+    {
+      "page_key": "how long does an ipad battery last",
+      "slug": "how-long-does-an-ipad-battery-last",
+      "topic_key": "iphone battery replacement",
+      "topic_slug": "battery-replacement",
+      "topic_name": "Battery Replacement & Battery Health",
+      "total_volume": 330,
+      "keywords": [
+        "how long does an ipad battery last",
+        "ipad battery lifetime",
+        "battery life of ipad"
+      ],
+      "intents": [
+        "Informational"
+      ]
+    },
+    {
+      "page_key": "how long do iphones last",
+      "slug": "how-long-do-iphones-last",
+      "topic_key": "iphone battery replacement",
+      "topic_slug": "battery-replacement",
+      "topic_name": "Battery Replacement & Battery Health",
+      "total_volume": 2060,
+      "keywords": [
+        "how long do iphones last",
+        "how long can an iphone last",
+        "how long will an iphone last",
+        "how long does the iphone last",
+        "how long does a n iphone last",
+        "how long does an iphone battery last",
+        "how long will an iphone battery last",
+        "how long can a iphone battery last",
+        "how long should iphone battery last"
+      ],
+      "intents": [
+        "Informational"
+      ]
+    },
+    {
+      "page_key": "how long should a phone battery last",
+      "slug": "how-long-should-a-phone-battery-last",
+      "topic_key": "iphone battery replacement",
+      "topic_slug": "battery-replacement",
+      "topic_name": "Battery Replacement & Battery Health",
+      "total_volume": 140,
+      "keywords": [
+        "how long should a phone battery last",
+        "how long can a phone battery last"
+      ],
+      "intents": [
+        "Informational"
+      ]
+    },
+    {
+      "page_key": "how much does a laptop screen repair cost",
+      "slug": "how-much-does-a-laptop-screen-repair-cost",
+      "topic_key": "iphone screen replacement",
+      "topic_slug": "screen-replacement",
+      "topic_name": "Screen Replacement & Repair",
+      "total_volume": 490,
+      "keywords": [
+        "laptop screen repair cost",
+        "how much does a laptop screen repair cost",
+        "laptop display replacement cost",
+        "cost to replace laptop screen",
+        "how much does it cost to replace a laptop screen",
+        "how much does it cost to change laptop screen"
+      ],
+      "intents": [
+        "Informational",
+        "Informational, Commercial"
+      ]
+    },
+    {
+      "page_key": "how much does it cost to repair a phone screen",
+      "slug": "how-much-does-it-cost-to-repair-a-phone-screen",
+      "topic_key": "iphone screen replacement",
+      "topic_slug": "screen-replacement",
+      "topic_name": "Screen Replacement & Repair",
+      "total_volume": 1850,
+      "keywords": [
+        "screen fix",
+        "replace phone screen",
+        "how much does it cost to fix a phone screen",
+        "how much does it cost to repair a phone screen",
+        "phone screen repair cost",
+        "how much to fix a phone screen",
+        "fixing phone screen cost",
+        "how much does it cost to replace a phone screen",
+        "how much is a screen replacement",
+        "how much is a phone screen repair",
+        "screen replacement cost",
+        "glass phone replacement",
+        "how much does a screen replacement cost",
+        "mobile repairing cost",
+        "phone screen replacement cost",
+        "cost of phone repair",
+        "screen repair cost",
+        "phone fix prices"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational",
+        "Informational, Commercial",
+        "Transactional"
+      ]
+    },
+    {
+      "page_key": "how to activate face id",
+      "slug": "how-to-activate-face-id",
+      "topic_key": "iphone face id repair",
+      "topic_slug": "face-id-repair",
+      "topic_name": "Face ID & Sensor Issues",
+      "total_volume": 250,
+      "keywords": [
+        "how to activate face id",
+        "how to turn on face id",
+        "how to change face id"
+      ],
+      "intents": [
+        "Informational"
+      ]
+    },
+    {
+      "page_key": "how to fix cracked smartphone screen",
+      "slug": "how-to-fix-cracked-smartphone-screen",
+      "topic_key": "iphone screen replacement",
+      "topic_slug": "screen-replacement",
+      "topic_name": "Screen Replacement & Repair",
+      "total_volume": 180,
+      "keywords": [
+        "how to fix cracked smartphone screen",
+        "how to fix broken display on phone"
+      ],
+      "intents": [
+        "Informational"
+      ]
+    },
+    {
+      "page_key": "how to preserve phone battery",
+      "slug": "how-to-preserve-phone-battery",
+      "topic_key": "iphone battery replacement",
+      "topic_slug": "battery-replacement",
+      "topic_name": "Battery Replacement & Battery Health",
+      "total_volume": 260,
+      "keywords": [
+        "how to preserve phone battery",
+        "improve battery life",
+        "how to make phone battery last longer"
+      ],
+      "intents": [
+        "Informational"
+      ]
+    },
+    {
+      "page_key": "ipad air 2 display replacement",
+      "slug": "ipad-air-2-display-replacement",
+      "topic_key": "iphone screen replacement",
+      "topic_slug": "screen-replacement",
+      "topic_name": "Screen Replacement & Repair",
+      "total_volume": 180,
+      "keywords": [
+        "ipad air 2 display replacement",
+        "ipad air 2 lcd replacement"
+      ],
+      "intents": [
+        "Informational, Transactional",
+        "Transactional"
+      ]
+    },
+    {
+      "page_key": "ipad repairs adelaide",
+      "slug": "ipad-repairs-adelaide",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 170,
+      "keywords": [
+        "ipad repairs adelaide",
+        "fix ipad screen adelaide",
+        "ipad screen repairs adelaide"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "ipad screen change cost",
+      "slug": "ipad-screen-change-cost",
+      "topic_key": "iphone screen replacement",
+      "topic_slug": "screen-replacement",
+      "topic_name": "Screen Replacement & Repair",
+      "total_volume": 4670,
+      "keywords": [
+        "fix ipad screen",
+        "ipad screen repair cost",
+        "ipad repairs",
+        "fixing an ipad screen cost",
+        "ipad screen replacement cost",
+        "new ipad screen cost",
+        "ipad screen change cost",
+        "ipad screen cost",
+        "ipad screen price",
+        "ipad screen replacement cost australia",
+        "how much to replace ipad screen",
+        "ipad repair melbourne",
+        "ipad fix melbourne",
+        "new screens for ipads",
+        "fix ipad screen brisbane",
+        "new ipad screen price",
+        "how much does it cost to replace an ipad screen",
+        "ipad 9 screen replacement",
+        "ipad pro screen replacement cost",
+        "ipad 9th generation screen replacement price",
+        "ipad screen repair brisbane",
+        "ipad 7th gen screen replacement",
+        "ipad screen repair cost australia",
+        "ipad 8th gen screen replacement",
+        "ipad 6th gen screen replacement",
+        "fix ipad screen price",
+        "how much to fix an ipad screen"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational",
+        "Informational, Commercial",
+        "Transactional"
+      ]
+    },
+    {
+      "page_key": "iphone 12 battery life",
+      "slug": "iphone-12-battery-life",
+      "topic_key": "iphone battery replacement",
+      "topic_slug": "battery-replacement",
+      "topic_name": "Battery Replacement & Battery Health",
+      "total_volume": 520,
+      "keywords": [
+        "iphone 13 battery life",
+        "iphone 12 battery life",
+        "iphone battery size",
+        "iphone 14 pro battery life"
+      ],
+      "intents": [
+        "Informational"
+      ]
+    },
+    {
+      "page_key": "iphone 14 charge port",
+      "slug": "iphone-14-charge-port",
+      "topic_key": "iphone charging port repair",
+      "topic_slug": "charging-port-repair",
+      "topic_name": "Charging Port Repair",
+      "total_volume": 1020,
+      "keywords": [
+        "iphone 14 charge port",
+        "iphone 14 charger port",
+        "iphone 11 charging port",
+        "iphone 12 charge port",
+        "how to fix an iphone charger port",
+        "iphone 14 pro charging port",
+        "iphone 14 pro max charge port",
+        "iphone 14 pro charger port",
+        "iphone 14 pro max charger port"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational",
+        "Informational, Commercial"
+      ]
+    },
+    {
+      "page_key": "iphone 14 pro max back glass replacement price",
+      "slug": "iphone-14-pro-max-back-glass-replacement-price",
+      "topic_key": "iphone back glass repair",
+      "topic_slug": "back-glass-repair",
+      "topic_name": "Back Glass Repair",
+      "total_volume": 440,
+      "keywords": [
+        "iphone repair melbourne",
+        "iphone 14 pro max back glass replacement price",
+        "iphone 14 pro back glass replacement cost australia",
+        "iphone 14 pro back glass replacement price",
+        "replace phone camera lens"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational",
+        "Transactional"
+      ]
+    },
+    {
+      "page_key": "iphone 14 pro max screen",
+      "slug": "iphone-14-pro-max-screen",
+      "topic_key": "iphone screen replacement",
+      "topic_slug": "screen-replacement",
+      "topic_name": "Screen Replacement & Repair",
+      "total_volume": 320,
+      "keywords": [
+        "iphone 14 pro max screen",
+        "iphone 14 pro screen",
+        "14 pro max screen replacement"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational"
+      ]
+    },
+    {
+      "page_key": "iphone 15 pro max battery mah",
+      "slug": "iphone-15-pro-max-battery-mah",
+      "topic_key": "iphone battery replacement",
+      "topic_slug": "battery-replacement",
+      "topic_name": "Battery Replacement & Battery Health",
+      "total_volume": 310,
+      "keywords": [
+        "iphone 15 pro max battery mah",
+        "iphone 15 battery capacity"
+      ],
+      "intents": [
+        "Informational"
+      ]
+    },
+    {
+      "page_key": "iphone 6 battery swap",
+      "slug": "iphone-6-battery-swap",
+      "topic_key": "iphone battery replacement",
+      "topic_slug": "battery-replacement",
+      "topic_name": "Battery Replacement & Battery Health",
+      "total_volume": 410,
+      "keywords": [
+        "iphone 6s battery swap",
+        "iphone 6 battery swap",
+        "change battery iphone 6",
+        "replace battery iphone 6"
+      ],
+      "intents": [
+        "Informational, Commercial",
+        "Informational, Transactional"
+      ]
+    },
+    {
+      "page_key": "iphone 6 screen replacement",
+      "slug": "iphone-6-screen-replacement",
+      "topic_key": "iphone screen replacement",
+      "topic_slug": "screen-replacement",
+      "topic_name": "Screen Replacement & Repair",
+      "total_volume": 310,
+      "keywords": [
+        "iphone 6 screen replacement",
+        "iphone 6 display replacement",
+        "iphone 6s screen replacement",
+        "iphone 6s lcd replacement",
+        "change iphone 6s screen"
+      ],
+      "intents": [
+        "Informational, Commercial",
+        "Informational, Transactional"
+      ]
+    },
+    {
+      "page_key": "iphone 7 lcd replacement",
+      "slug": "iphone-7-lcd-replacement",
+      "topic_key": "iphone screen replacement",
+      "topic_slug": "screen-replacement",
+      "topic_name": "Screen Replacement & Repair",
+      "total_volume": 160,
+      "keywords": [
+        "iphone 7 lcd replacement",
+        "change iphone 7 plus screen"
+      ],
+      "intents": [
+        "Informational, Transactional",
+        "Transactional"
+      ]
+    },
+    {
+      "page_key": "iphone 8 battery replacement",
+      "slug": "iphone-8-battery-replacement",
+      "topic_key": "iphone battery replacement",
+      "topic_slug": "battery-replacement",
+      "topic_name": "Battery Replacement & Battery Health",
+      "total_volume": 370,
+      "keywords": [
+        "iphone 8 battery replacement",
+        "battery in iphone 8"
+      ],
+      "intents": [
+        "Informational",
+        "Informational, Transactional"
+      ]
+    },
+    {
+      "page_key": "iphone battery for 6s",
+      "slug": "iphone-battery-for-6s",
+      "topic_key": "iphone battery replacement",
+      "topic_slug": "battery-replacement",
+      "topic_name": "Battery Replacement & Battery Health",
+      "total_volume": 180,
+      "keywords": [
+        "iphone battery for 6s",
+        "iphone 6s phone battery"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational, Transactional"
+      ]
+    },
+    {
+      "page_key": "iphone change battery price",
+      "slug": "iphone-change-battery-price",
+      "topic_key": "iphone battery replacement",
+      "topic_slug": "battery-replacement",
+      "topic_name": "Battery Replacement & Battery Health",
+      "total_volume": 350,
+      "keywords": [
+        "iphone change battery price",
+        "13 pro battery replacement",
+        "how much for iphone battery replacement"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational",
+        "Informational, Commercial"
+      ]
+    },
+    {
+      "page_key": "iphone charging port fix cost",
+      "slug": "iphone-charging-port-fix-cost",
+      "topic_key": "iphone charging port repair",
+      "topic_slug": "charging-port-repair",
+      "topic_name": "Charging Port Repair",
+      "total_volume": 440,
+      "keywords": [
+        "charging port replacement cost",
+        "iphone charging port fix cost",
+        "iphone charging port repair cost australia",
+        "charger port repair",
+        "iphone 13 charging port replacement cost"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational",
+        "Informational, Commercial"
+      ]
+    },
+    {
+      "page_key": "iphone mobile parts",
+      "slug": "iphone-mobile-parts",
+      "topic_key": "iphone speaker and microphone repair",
+      "topic_slug": "speaker-mic-repair",
+      "topic_name": "Speaker & Microphone Repair",
+      "total_volume": 280,
+      "keywords": [
+        "iphone mobile parts",
+        "iphone parts"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "iphone repair",
+      "slug": "iphone-repair",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 4440,
+      "keywords": [
+        "iphone repair",
+        "fix iphone sydney"
+      ],
+      "intents": [
+        "Commercial",
+        "Navigational"
+      ]
+    },
+    {
+      "page_key": "iphone repairs launceston tasmania",
+      "slug": "iphone-repairs-launceston-tasmania",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 190,
+      "keywords": [
+        "iphone repairs launceston tasmania",
+        "iphone repairs launceston",
+        "mobile phone repairs launceston"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "iphone repairs newcastle",
+      "slug": "iphone-repairs-newcastle",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 360,
+      "keywords": [
+        "iphone repairs newcastle",
+        "mobile phone repairs newcastle nsw",
+        "phone fix newcastle",
+        "phone repairs newcastle",
+        "iphone screen repairs newcastle",
+        "iphone fix newcastle"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "ipod repair near me",
+      "slug": "ipod-repair-near-me",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 140,
+      "keywords": [
+        "ipod repair near me",
+        "ipod fix"
+      ],
+      "intents": [
+        "Commercial",
+        "Transactional"
+      ]
+    },
+    {
+      "page_key": "licensed battery replacement near me",
+      "slug": "licensed-battery-replacement-near-me",
+      "topic_key": "iphone battery replacement",
+      "topic_slug": "battery-replacement",
+      "topic_name": "Battery Replacement & Battery Health",
+      "total_volume": 140,
+      "keywords": [
+        "licensed battery replacement near me",
+        "licensed battery replacement service near me"
+      ],
+      "intents": [
+        "Transactional"
+      ]
+    },
+    {
+      "page_key": "macbook screen repair",
+      "slug": "macbook-screen-repair",
+      "topic_key": "iphone screen replacement",
+      "topic_slug": "screen-replacement",
+      "topic_name": "Screen Replacement & Repair",
+      "total_volume": 2920,
+      "keywords": [
+        "macbook screen repair",
+        "fix mac screen",
+        "macbook screen replacement",
+        "mac screen replacement",
+        "mac screen replacement price",
+        "macbook screen repair cost",
+        "mac screen repair",
+        "macbook screen repair melbourne",
+        "mac screen replacement cost",
+        "fixing macbook screen",
+        "fix mac screen cost",
+        "macbook monitor replacement",
+        "mac lcd replacement cost",
+        "how much is it to fix a macbook screen",
+        "macbook air screen replacement price",
+        "macbook smashed screen",
+        "how much to replace macbook screen",
+        "mbp screen replacement"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational",
+        "Informational, Transactional",
+        "Transactional"
+      ]
+    },
+    {
+      "page_key": "macintosh repair near me",
+      "slug": "macintosh-repair-near-me",
+      "topic_key": "iphone battery replacement",
+      "topic_slug": "battery-replacement",
+      "topic_name": "Battery Replacement & Battery Health",
+      "total_volume": 3930,
+      "keywords": [
+        "macintosh repair near me",
+        "new macbook battery",
+        "mbp battery replacement",
+        "mac battery replacement",
+        "mac computer repairs",
+        "mac battery change",
+        "mac battery",
+        "macbook battery replacement cost",
+        "mac powerbook battery",
+        "mbp battery replacement cost",
+        "mac new battery cost",
+        "macbook air change battery price",
+        "macbook battery replacement near me",
+        "macbook pro 2015 battery replacement",
+        "macbook service near me",
+        "macbook battery replacement price",
+        "new battery for mac"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational",
+        "Informational, Commercial",
+        "Informational, Transactional",
+        "Transactional"
+      ]
+    },
+    {
+      "page_key": "mac repairs",
+      "slug": "mac-repairs",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 1510,
+      "keywords": [
+        "mac repairs",
+        "macbook repairs near me",
+        "macintosh computer repair",
+        "mac repairs flemington",
+        "mac repairs brentford square"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational",
+        "Transactional"
+      ]
+    },
+    {
+      "page_key": "mac repairs braybrook",
+      "slug": "mac-repairs-braybrook",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 230,
+      "keywords": [
+        "mac repairs braybrook",
+        "computer repairs braybrook north"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "mac repairs camberwell",
+      "slug": "mac-repairs-camberwell",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 300,
+      "keywords": [
+        "mac repairs camberwell",
+        "mac repairs middle camberwell"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "mac repairs coburg north",
+      "slug": "mac-repairs-coburg-north",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 200,
+      "keywords": [
+        "mac repairs coburg north",
+        "mac repairs pascoe vale"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "mac repairs cranbourne",
+      "slug": "mac-repairs-cranbourne",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 410,
+      "keywords": [
+        "mac repairs cranbourne",
+        "mac repairs cranbourne east",
+        "mac repairs cranbourne west",
+        "phone repair cranbourne"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "mac repairs frankston east",
+      "slug": "mac-repairs-frankston-east",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 740,
+      "keywords": [
+        "mac repairs frankston east",
+        "mac repairs frankston south",
+        "computer repairs frankston south",
+        "mac repairs frankston north",
+        "computer repairs frankston north",
+        "computer repairs frankston east"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "mac repairs hanging rock",
+      "slug": "mac-repairs-hanging-rock",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 200,
+      "keywords": [
+        "mac repairs hanging rock",
+        "macs repair shop"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational, Commercial"
+      ]
+    },
+    {
+      "page_key": "mac repairs jordanville",
+      "slug": "mac-repairs-jordanville",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 1050,
+      "keywords": [
+        "mac repairs melbourne",
+        "macbook repairs melbourne",
+        "mac repairs five ways",
+        "mac repairs jordanville",
+        "mac repairs royal melbourne hospital",
+        "mac repairs tullamarine",
+        "mac repairs melbourne cbd",
+        "mac repairs laburnum"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational"
+      ]
+    },
+    {
+      "page_key": "mac repairs pakenham",
+      "slug": "mac-repairs-pakenham",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 500,
+      "keywords": [
+        "mac repairs pakenham",
+        "computer repairs pakenham south",
+        "mac repairs pakenham upper",
+        "mac repairs pakenham south"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "mac repairs sunshine north",
+      "slug": "mac-repairs-sunshine-north",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 390,
+      "keywords": [
+        "mac repairs sunshine north",
+        "mac repairs sunshine",
+        "mac repairs wilsons promontory"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational",
+        "Informational, Commercial"
+      ]
+    },
+    {
+      "page_key": "mac repairs west footscray",
+      "slug": "mac-repairs-west-footscray",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 220,
+      "keywords": [
+        "mac repairs west footscray",
+        "mac repairs footscray"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "mobile experts parramatta reviews",
+      "slug": "mobile-experts-parramatta-reviews",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 610,
+      "keywords": [
+        "mobile experts parramatta reviews",
+        "mobile experts chatswood",
+        "mobile experts karrinyup",
+        "mobile experts rockingham",
+        "mobile experts castle towers",
+        "mobile experts bondi reviews"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational, Transactional"
+      ]
+    },
+    {
+      "page_key": "mobile phone accessories shop near me",
+      "slug": "mobile-phone-accessories-shop-near-me",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 760,
+      "keywords": [
+        "mobile phone accessories shop near me",
+        "phone accessories store near me",
+        "mobile accessories near me",
+        "iphone accessories near me"
+      ],
+      "intents": [
+        "Transactional"
+      ]
+    },
+    {
+      "page_key": "mobile phone repairs coffs harbour",
+      "slug": "mobile-phone-repairs-coffs-harbour",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 280,
+      "keywords": [
+        "mobile phone repairs coffs harbour",
+        "phone repairs coffs harbour"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "mobile repair blacktown",
+      "slug": "mobile-repair-blacktown",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 100,
+      "keywords": [
+        "mobile repair blacktown",
+        "mobile phone repairs blacktown"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "monitor screen repair",
+      "slug": "monitor-screen-repair",
+      "topic_key": "iphone screen replacement",
+      "topic_slug": "screen-replacement",
+      "topic_name": "Screen Replacement & Repair",
+      "total_volume": 200,
+      "keywords": [
+        "monitor screen repair",
+        "computer monitor screen repair"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "notebook screen replacement",
+      "slug": "notebook-screen-replacement",
+      "topic_key": "iphone screen replacement",
+      "topic_slug": "screen-replacement",
+      "topic_name": "Screen Replacement & Repair",
+      "total_volume": 7680,
+      "keywords": [
+        "laptop screen repair",
+        "display repair laptop",
+        "repair laptop monitor",
+        "notebook screen repair",
+        "laptop lcd replacement",
+        "notebook screen replacement",
+        "laptop screen replacement",
+        "laptop smashed screen",
+        "laptop monitor replacement",
+        "laptop computer screen replacement",
+        "laptop display replacement",
+        "lcd display replacement",
+        "laptop screen change price",
+        "repair computer screen",
+        "fixing a laptop screen",
+        "laptop screen replacement sydney",
+        "replacement lcd screens",
+        "how much would it cost to replace a laptop screen",
+        "laptop computer screen repair"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational",
+        "Informational, Transactional",
+        "Transactional"
+      ]
+    },
+    {
+      "page_key": "phone battery",
+      "slug": "phone-battery",
+      "topic_key": "iphone battery replacement",
+      "topic_slug": "battery-replacement",
+      "topic_name": "Battery Replacement & Battery Health",
+      "total_volume": 920,
+      "keywords": [
+        "phone battery",
+        "phone batteries replacement",
+        "mobile phone battery replacement",
+        "cell phone battery replacement",
+        "mobile phone battery",
+        "battery for cell phone"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational, Commercial",
+        "Informational, Transactional"
+      ]
+    },
+    {
+      "page_key": "phone doctor",
+      "slug": "phone-doctor",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 1260,
+      "keywords": [
+        "phone doctor",
+        "mobile phone doctor",
+        "doctor mobile repair"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational, Commercial"
+      ]
+    },
+    {
+      "page_key": "phone fix brisbane",
+      "slug": "phone-fix-brisbane",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 950,
+      "keywords": [
+        "phone fix brisbane",
+        "brisbane iphone repairs",
+        "iphone fix brisbane",
+        "fix iphone screen brisbane",
+        "mobile iphone repairs brisbane",
+        "screen repair brisbane"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "phone fix fountain gate",
+      "slug": "phone-fix-fountain-gate",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 430,
+      "keywords": [
+        "phone fix fountain gate",
+        "phone repair frankston",
+        "mobile phone repairs frankston",
+        "iphone repair melrose parl"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational"
+      ]
+    },
+    {
+      "page_key": "phone mechanic parramatta",
+      "slug": "phone-mechanic-parramatta",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 570,
+      "keywords": [
+        "phone mechanic parramatta",
+        "fix mobile phone screen",
+        "mobile phone repairs parramatta",
+        "mobile repair parramatta",
+        "smartphone repairz",
+        "phone mechanic"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational"
+      ]
+    },
+    {
+      "page_key": "phone repair adelaide",
+      "slug": "phone-repair-adelaide",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 4730,
+      "keywords": [
+        "phone repair adelaide",
+        "smartphone repairs adelaide",
+        "phone screen repair adelaide",
+        "iphone fix adelaide",
+        "fix iphone screen adelaide",
+        "phone fix adelaide",
+        "phone repair shop adelaide",
+        "mobile phone repairs adelaide",
+        "iphone screen repairs adelaide",
+        "fix phone screen adelaide",
+        "mobile phone repairs adelaide sa",
+        "quick phone repair port adelaide road"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "phone repair chermside",
+      "slug": "phone-repair-chermside",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 140,
+      "keywords": [
+        "phone repair chermside",
+        "phone shop chermside"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "phone repairs cairns",
+      "slug": "phone-repairs-cairns",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 540,
+      "keywords": [
+        "phone repairs cairns",
+        "iphone repairs cairns",
+        "phone screen repair cairns",
+        "mobile phone repairs cairns"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "phone repairs canberra",
+      "slug": "phone-repairs-canberra",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 300,
+      "keywords": [
+        "phone repairs canberra",
+        "iphone repairs canberra",
+        "mobile phone repairs canberra"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "phone repairs hobart",
+      "slug": "phone-repairs-hobart",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 1040,
+      "keywords": [
+        "phone repairs hobart",
+        "iphone repairs hobart",
+        "iphone repairs hobart tasmania",
+        "mobile phone repairs hobart",
+        "iphone repairs hobart tas",
+        "mobile phone repairs hobart tas",
+        "mobile repairs hobart"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "phone repairs mackay",
+      "slug": "phone-repairs-mackay",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 600,
+      "keywords": [
+        "phone repairs mackay",
+        "mobile phone repairs mackay",
+        "iphone repairs mackay",
+        "iphone repairs mackay qld",
+        "mackay screen repairs"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "phone repairs near me",
+      "slug": "phone-repairs-near-me",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 27210,
+      "keywords": [
+        "repair cell phone near me",
+        "phone repairs near me",
+        "repair stores for phones",
+        "mobile phone repairs near me",
+        "mobile mobile repairing",
+        "phone screen repair shops near me",
+        "phone repair shop",
+        "mobile repair shop",
+        "mobile phone repair shop",
+        "mobile repair store",
+        "fix phone near me",
+        "telephone repair shop",
+        "mobile repairs",
+        "phone screen repair ipswich",
+        "phone technician near me",
+        "phone repairs toowoomba",
+        "phone screen repair capalaba",
+        "phone repair ipswich",
+        "phone screen repair newcastle",
+        "phone repairs joondalup",
+        "phone repairs capalaba",
+        "phone repairs greenhills",
+        "phone touch repairs",
+        "mobile phone repairs toowoomba",
+        "iphone repairs ipswich",
+        "iphone screen repairs ipswich",
+        "riverlink phone repairs",
+        "phone repair carindale",
+        "phone repairs maitland",
+        "mobile repair chatswood"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational",
+        "Transactional"
+      ]
+    },
+    {
+      "page_key": "phone repairs pakenham",
+      "slug": "phone-repairs-pakenham",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 120,
+      "keywords": [
+        "phone repairs pakenham",
+        "30 minutes fix gadget repair experts pakenham reviews"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "phone repairs sydney",
+      "slug": "phone-repairs-sydney",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 950,
+      "keywords": [
+        "mobile phone repairs sydney",
+        "phone fix sydney",
+        "phone repairs sydney",
+        "screen repair sydney"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "phone repairs taree",
+      "slug": "phone-repairs-taree",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 120,
+      "keywords": [
+        "phone repairs taree",
+        "mobile phone repairs taree"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "phone repairs townsville",
+      "slug": "phone-repairs-townsville",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 1170,
+      "keywords": [
+        "phone repairs townsville",
+        "phone screen repair townsville",
+        "iphone repairs townsville",
+        "mobile phone repairs townsville",
+        "quickfix phone repairs",
+        "iphone screen repairs townsville"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational"
+      ]
+    },
+    {
+      "page_key": "phone screen",
+      "slug": "phone-screen",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 4460,
+      "keywords": [
+        "phone case stores near me",
+        "phone screen",
+        "mobile phone shop near me",
+        "phone covers near me",
+        "phone case shops near me",
+        "mobile accessories store near me",
+        "mobile accessories shop near me",
+        "phone cover shop near me",
+        "phone case adelaide",
+        "phone shop near me open now",
+        "cell phone accessories store near me",
+        "case shop near me",
+        "iphone case store near me",
+        "mobile case shop near me",
+        "mobile phone covers near me",
+        "phone cases bendigo",
+        "phone cases wagga"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational, Commercial",
+        "Transactional"
+      ]
+    },
+    {
+      "page_key": "phone screen repair geelong",
+      "slug": "phone-screen-repair-geelong",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 510,
+      "keywords": [
+        "phone screen repair geelong",
+        "phone repair geelong",
+        "ipad repairs in geelong",
+        "mac repairs geelong",
+        "apple computer repairs geelong"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "phone screen repair perth",
+      "slug": "phone-screen-repair-perth",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 840,
+      "keywords": [
+        "phone screen repair perth",
+        "fix your phone perth",
+        "mobile phone repairs perth wa",
+        "ipad screen repair perth"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational"
+      ]
+    },
+    {
+      "page_key": "phone screen repairs toowoomba",
+      "slug": "phone-screen-repairs-toowoomba",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 330,
+      "keywords": [
+        "phone screen repairs toowoomba",
+        "iphone repairs toowoomba"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "phone screen repair sunshine coast",
+      "slug": "phone-screen-repair-sunshine-coast",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 480,
+      "keywords": [
+        "phone screen repair sunshine coast",
+        "iphone repairs sunshine coast",
+        "mobile phone repairs sunshine coast",
+        "phone repair sunshine coast",
+        "phone repairs maroochydore"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "phone shop near me",
+      "slug": "phone-shop-near-me",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 7970,
+      "keywords": [
+        "phone shops close to me",
+        "phone shop near me",
+        "phone store near me",
+        "mobile shops near me",
+        "cell phone shop",
+        "mobile phone store",
+        "phone shop perth",
+        "licensed smartphones near me",
+        "phone shops melbourne",
+        "phone shops gold coast"
+      ],
+      "intents": [
+        "Commercial",
+        "Transactional"
+      ]
+    },
+    {
+      "page_key": "phone tech",
+      "slug": "phone-tech",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 260,
+      "keywords": [
+        "phone tech",
+        "phonetech services"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational"
+      ]
+    },
+    {
+      "page_key": "pixel 8 pro screen replacement",
+      "slug": "pixel-8-pro-screen-replacement",
+      "topic_key": "iphone screen replacement",
+      "topic_slug": "screen-replacement",
+      "topic_name": "Screen Replacement & Repair",
+      "total_volume": 380,
+      "keywords": [
+        "pixel 8a screen replacement",
+        "pixel 6 screen replacement",
+        "pixel 8 pro screen replacement",
+        "google pixel display replacement"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational",
+        "Informational, Commercial",
+        "Transactional"
+      ]
+    },
+    {
+      "page_key": "quick fix phone",
+      "slug": "quick-fix-phone",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 1730,
+      "keywords": [
+        "fix phone melbourne",
+        "phone repair melbourne",
+        "fix iphone screen melbourne",
+        "phone repairs cbd",
+        "iphone repairs melbourne city",
+        "iphone repairs melbourne cbd",
+        "phone repairs melbourne cbd",
+        "mobile phone repairs melbourne",
+        "quick fix phone",
+        "mobile phone repairs melbourne city",
+        "phone screen repair melbourne",
+        "fix phone screen melbourne",
+        "cheap iphone repairs melbourne",
+        "iphone screen replacement melbourne cbd",
+        "cheap screen repair"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "replace screen iphone x",
+      "slug": "replace-screen-iphone-x",
+      "topic_key": "iphone screen replacement",
+      "topic_slug": "screen-replacement",
+      "topic_name": "Screen Replacement & Repair",
+      "total_volume": 4070,
+      "keywords": [
+        "iphone screen replacement",
+        "iphone xr screen replacement",
+        "screens for iphone",
+        "shattered iphone screen",
+        "iphone 13 pro max back glass replacement",
+        "replace screen iphone x",
+        "iphone 11 pro screen replacement",
+        "change iphone x screen",
+        "iphone 8 screen replacement",
+        "iphone se lcd replacement",
+        "iphone 11 screen replacement cost",
+        "iphone 7 display replacement",
+        "iphone 12 screen replacement cost",
+        "iphone screen repair melbourne",
+        "iphone 12 pro max screen",
+        "how to change iphone screen",
+        "iphone 11 screen replacement near me",
+        "screen repair perth",
+        "iphone xr back glass replacement",
+        "iphone 6s display replacement",
+        "iphone screen replacement melbourne",
+        "iphone 13 pro max screen replacement price"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational",
+        "Informational, Commercial",
+        "Informational, Transactional",
+        "Transactional"
+      ]
+    },
+    {
+      "page_key": "s20 plus screen replacement",
+      "slug": "s20-plus-screen-replacement",
+      "topic_key": "iphone screen replacement",
+      "topic_slug": "screen-replacement",
+      "topic_name": "Screen Replacement & Repair",
+      "total_volume": 110,
+      "keywords": [
+        "s20 plus screen replacement",
+        "samsung s20 plus screen replacement"
+      ],
+      "intents": [
+        "Informational, Transactional"
+      ]
+    },
+    {
+      "page_key": "s20 ultra screen replacement",
+      "slug": "s20-ultra-screen-replacement",
+      "topic_key": "iphone screen replacement",
+      "topic_slug": "screen-replacement",
+      "topic_name": "Screen Replacement & Repair",
+      "total_volume": 410,
+      "keywords": [
+        "s22 screen replacement",
+        "s20 ultra screen replacement",
+        "samsung flip 4 screen replacement",
+        "galaxy s22 ultra screen replacement",
+        "samsung s8 screen replacement",
+        "samsung s9 screen replacement"
+      ],
+      "intents": [
+        "Informational",
+        "Informational, Commercial",
+        "Informational, Transactional"
+      ]
+    },
+    {
+      "page_key": "s21 screen replacement",
+      "slug": "s21-screen-replacement",
+      "topic_key": "iphone screen replacement",
+      "topic_slug": "screen-replacement",
+      "topic_name": "Screen Replacement & Repair",
+      "total_volume": 200,
+      "keywords": [
+        "s21 screen replacement",
+        "samsung s21 screen replacement"
+      ],
+      "intents": [
+        "Informational, Commercial"
+      ]
+    },
+    {
+      "page_key": "screen replacement",
+      "slug": "screen-replacement",
+      "topic_key": "iphone screen replacement",
+      "topic_slug": "screen-replacement",
+      "topic_name": "Screen Replacement & Repair",
+      "total_volume": 1050,
+      "keywords": [
+        "a screen repair",
+        "screen replacement",
+        "phone screen fixer"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational, Transactional"
+      ]
+    },
+    {
+      "page_key": "smartphone repairs ballarat",
+      "slug": "smartphone-repairs-ballarat",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 650,
+      "keywords": [
+        "smartphone repairs ballarat",
+        "phone repairs ballarat",
+        "ballarat mobile phone repairs",
+        "mobile phone repairs ballarat vic",
+        "ipad repairs ballarat"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "surface pro screen repair",
+      "slug": "surface-pro-screen-repair",
+      "topic_key": "iphone screen replacement",
+      "topic_slug": "screen-replacement",
+      "topic_name": "Screen Replacement & Repair",
+      "total_volume": 100,
+      "keywords": [
+        "surface pro screen repair",
+        "surface tablet repair"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "tablet repair",
+      "slug": "tablet-repair",
+      "topic_key": "iphone screen replacement",
+      "topic_slug": "screen-replacement",
+      "topic_name": "Screen Replacement & Repair",
+      "total_volume": 360,
+      "keywords": [
+        "tablet repair",
+        "tablet screen repair",
+        "tablet display repair",
+        "tablet repair service"
+      ],
+      "intents": [
+        "Commercial"
+      ]
+    },
+    {
+      "page_key": "tech backpacks service near me",
+      "slug": "tech-backpacks-service-near-me",
+      "topic_key": "local iphone repair services",
+      "topic_slug": "find-a-repair-shop",
+      "topic_name": "Finding a Local Repair Shop",
+      "total_volume": 90,
+      "keywords": [
+        "tech backpacks service near me",
+        "technology help near me"
+      ],
+      "intents": [
+        "Transactional"
+      ]
+    },
+    {
+      "page_key": "tv screen replacement",
+      "slug": "tv-screen-replacement",
+      "topic_key": "iphone screen replacement",
+      "topic_slug": "screen-replacement",
+      "topic_name": "Screen Replacement & Repair",
+      "total_volume": 140,
+      "keywords": [
+        "tv screen replacement",
+        "cracked tv screen repair"
+      ],
+      "intents": [
+        "Commercial",
+        "Informational"
+      ]
+    }
+  ]
+}

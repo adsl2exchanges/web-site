@@ -1,0 +1,43 @@
+{
+  "title": "Mac Repairs: Common Problems and How They're Fixed",
+  "meta_title": "Mac Repairs Guide: MacBook & iMac Fixes",
+  "meta_description": "A practical guide to Mac repairs: common MacBook and iMac problems, Apple vs independent repair, data backup, and what affects the cost of a fix.",
+  "intro_html": "<p>Most Mac repairs fall into a handful of categories — battery degradation, keyboard faults, screen damage, liquid spills, and logic board issues — and MacBooks in particular are repairable by both Apple-authorised providers and independent Mac specialists. Which one makes sense depends on your Mac's age, warranty status, and the specific fault.</p>",
+  "key_takeaways": [
+    "Battery swelling, keyboard faults and screen damage are the most common MacBook repairs; logic board issues are less common but more serious.",
+    "Many recent MacBook models have batteries glued to the case, making battery replacement a more involved job than on older models with removable batteries.",
+    "Back up your Mac (Time Machine or cloud) before any repair, since some fixes, especially logic board or liquid damage repairs, carry some risk to stored data.",
+    "Apple and Apple Authorised Service Providers use genuine parts and are the safer choice if your Mac is still under AppleCare, while independent specialists can offer more flexibility and often faster turnaround once out of warranty.",
+    "A Mac that won't turn on at all needs proper diagnosis before assuming the worst — the cause could be as simple as a faulty charger."
+  ],
+  "sections": [
+    {
+      "heading": "Common MacBook and iMac problems",
+      "html": "<p>Battery issues show up as reduced runtime, unexpected shutdowns, or in more serious cases a swollen battery that pushes the trackpad up or the case apart — swollen batteries should be dealt with promptly rather than left. Keyboard faults, particularly on certain older MacBook generations known for butterfly-style keyboard mechanisms, are a well-known repair category of their own.</p><p>Screen damage (cracks, lines, backlight bleed) and liquid spills are common on laptops generally, while iMacs more often see issues tied to ageing hard drives, failing power supplies, or display panel faults after years of use.</p>"
+    },
+    {
+      "heading": "Logic board issues: the more serious end of Mac repair",
+      "html": "<p>A logic board fault — the Mac equivalent of a motherboard problem — is usually suspected when a Mac won't power on at all, won't hold a charge even with a known-good charger, or shows intermittent faults that don't match a single component. These repairs are more specialised, sometimes involving board-level component replacement, and are generally handled by experienced independent Mac repairers or Apple directly.</p><p>Before assuming the worst, rule out the simple causes: try a different charger and cable, check for obvious liquid damage, and reset the Mac's system management controller if applicable to your model.</p>"
+    },
+    {
+      "heading": "Apple vs independent Mac repair specialists",
+      "html": "<p>If your Mac is under AppleCare or Apple's standard warranty, using Apple or an Authorised Service Provider keeps that cover intact and guarantees genuine parts. Once a Mac is out of warranty, independent Mac specialists are a common and often more flexible choice — many focus specifically on Apple hardware and can be faster for common repairs like batteries, keyboards and screens.</p><p>For older MacBook models that Apple has moved to \"vintage\" or \"obsolete\" status and no longer services, an independent specialist may be your only practical option.</p>"
+    },
+    {
+      "heading": "Backing up before any Mac repair",
+      "html": "<p>Any repair that involves opening the Mac carries some small risk to stored data, and logic board or liquid damage repairs carry more than most. Before handing a Mac over:</p><ul><li>Run a current Time Machine backup, or confirm your important files are synced to cloud storage.</li><li>Note down your Apple ID and FileVault recovery details if you have disk encryption enabled.</li><li>Ask the repairer directly whether your specific repair carries any data risk.</li></ul>"
+    },
+    {
+      "heading": "What drives the cost of a Mac repair",
+      "html": "<p>Cost depends heavily on the specific Mac model (newer, higher-spec MacBooks generally cost more to repair than older or entry-level models), whether genuine Apple parts or compatible third-party parts are used, and the complexity of the fault — a battery swap is typically far simpler than a logic board repair.</p><p>Because pricing varies this much by model and fault type, and changes over time, it's worth checking a current, itemised price list for your exact Mac rather than relying on a figure you've seen for a different model.</p>"
+    }
+  ],
+  "table": null,
+  "faq": [
+    {"q": "How do I know if my MacBook battery needs replacing?", "a": "<p>Signs include noticeably shorter battery life than before, unexpected shutdowns even with charge remaining, or visible swelling that lifts the trackpad or case. A swollen battery should be addressed promptly rather than left, as it can worsen over time.</p>"},
+    {"q": "Can a MacBook with a swollen battery still be repaired?", "a": "<p>In most cases yes, provided it's addressed before the swelling causes further internal damage. A technician will typically assess the battery and surrounding components before confirming the full repair scope.</p>"},
+    {"q": "Is it cheaper to repair a Mac at an independent specialist or Apple?", "a": "<p>It varies by repair and warranty status. If your Mac is under AppleCare, using Apple or an Authorised Service Provider preserves that cover; once out of warranty, independent specialists often offer more competitive and flexible options for common repairs.</p>"},
+    {"q": "Will I lose my data if I get my Mac repaired?", "a": "<p>Most common repairs like batteries, keyboards and screens carry minimal data risk, but it's still good practice to back up beforehand. Logic board or liquid damage repairs carry a higher, though still not guaranteed, risk to stored data.</p>"}
+  ],
+  "word_count_estimate": 830
+}

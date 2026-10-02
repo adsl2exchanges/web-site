@@ -1,0 +1,43 @@
+{
+  "title": "Surface Pro Screen Repair: What You Need to Know",
+  "meta_title": "Surface Pro Screen Repair Guide",
+  "meta_description": "Surface Pro screen repair explained: fused digitizer and LCD, battery location risks, DIY vs professional repair, and what affects cost.",
+  "intro_html": "<p>Repairing a Surface Pro screen is more delicate than most phone or laptop screen jobs because the digitizer and LCD are fused into a single display unit, and the battery sits directly underneath the glass, held down by strong adhesive. This combination makes the repair technically demanding and raises the stakes if something goes wrong during disassembly.</p>",
+  "key_takeaways": [
+    "On most Surface Pro models, the touch digitizer and LCD are fused together, so a cracked screen typically means replacing the entire display assembly rather than just the glass.",
+    "The battery sits directly beneath the screen on Surface Pro tablets, so opening the device for a screen repair means working in close proximity to it, with a higher risk of damage or puncture if done carelessly.",
+    "Strong adhesive holds the screen to the chassis, meaning controlled heat and specialised prying tools are needed to avoid cracking an otherwise intact LCD during removal.",
+    "Parts availability and pricing vary significantly by Surface Pro generation, with older and less common models being harder to source replacement screens for.",
+    "Given the battery proximity and fused assembly, this repair carries more real risk than a typical phone screen swap, and is one of the better candidates for professional repair rather than DIY."
+  ],
+  "sections": [
+    {
+      "heading": "Why Surface Pro screen repair is more delicate than usual",
+      "html": "<p>Microsoft's Surface Pro line packs a touchscreen digitizer, LCD, and battery into a thin tablet body, with the battery positioned directly under the display rather than behind the motherboard or in a separate compartment. This means that opening the screen to repair it puts you working in close proximity to a lithium-ion battery, and careless prying or excess heat can risk puncturing or damaging it — a real safety concern, not just a repair inconvenience.</p><p>On top of that, the touch digitizer and LCD are fused into one assembly on most Surface Pro generations, so even a glass-only crack usually requires replacing the whole display unit rather than just the top layer.</p>"
+    },
+    {
+      "heading": "What the repair process involves",
+      "html": "<p>Because the screen is adhered firmly to the chassis, technicians typically apply controlled, even heat to soften the adhesive before carefully prying up the display with thin, non-conductive tools — metal tools are avoided near the battery for safety reasons. The battery's ribbon cable and connector need to be handled with particular care during this process, since it sits so close to the work area.</p><p>Once the old fused display is removed, the new one is connected, tested, and the device resealed with fresh adhesive to hold everything securely in place again.</p>"
+    },
+    {
+      "heading": "Parts availability by Surface Pro generation",
+      "html": "<p>Replacement screen availability and quality vary a lot depending on which Surface Pro you have. More recent models tend to have better aftermarket part support as demand is higher, while older or less common generations can be harder to source a matching fused display for, sometimes limiting your options to a smaller pool of suppliers. It's worth confirming that a compatible part is actually available for your specific model and generation before committing to a repair.</p>"
+    },
+    {
+      "heading": "DIY vs professional repair",
+      "html": "<p>Given the battery's position directly beneath the screen, Surface Pro screen repair is one of the less forgiving DIY projects in this category. Mistakes with heat or prying tools can damage the battery, creating a safety risk well beyond a failed repair. If you're experienced with delicate electronics disassembly and have the right tools (heat source, non-conductive picks, new adhesive strips), DIY is possible — but this is not a beginner-friendly repair compared with, say, an older phone screen.</p><p>For most people, professional repair is the more sensible choice here specifically because of the battery proximity, not just convenience.</p>"
+    },
+    {
+      "heading": "What affects the cost of this repair",
+      "html": "<p>Cost is influenced by your Surface Pro generation and part availability, the quality tier of the replacement fused display, and labour time, which tends to be longer than a typical phone repair due to the adhesive and battery proximity. Because pricing varies by model and shifts over time as parts become more or less available, it's worth checking a current, itemised price list for your specific Surface Pro generation rather than relying on a general estimate.</p>"
+    }
+  ],
+  "table": null,
+  "faq": [
+    {"q": "Can you replace just the glass on a Surface Pro without replacing the whole screen?", "a": "<p>On most Surface Pro models, no — the touch digitizer and LCD are fused into a single assembly, so a cracked screen generally means replacing the entire display unit rather than just the top glass layer.</p>"},
+    {"q": "Is Surface Pro screen repair risky because of the battery?", "a": "<p>Yes, the battery sits directly beneath the screen on Surface Pro tablets, so careless heat application or prying during disassembly can damage or puncture it, which is why this repair is often better suited to a professional with the right tools.</p>"},
+    {"q": "How much does it cost to repair a Surface Pro screen?", "a": "<p>Cost depends on your Surface Pro generation, part availability, and labour time, which tends to be higher than average due to the battery's proximity to the screen. Check a current, itemised price list for your specific model.</p>"},
+    {"q": "Can I repair my own Surface tablet screen?", "a": "<p>It's possible with the right tools and experience, but the fused digitizer/LCD assembly and the battery sitting directly under the glass make this a higher-risk DIY repair than most phone screens, so professional repair is worth considering.</p>"}
+  ],
+  "word_count_estimate": 790
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Phone Battery Health: How It Works and When to Replace It",
+  "meta_title": "Phone Battery Health: What You Need to Know",
+  "meta_description": "Every phone battery degrades over time. Here's how lithium-ion batteries wear out, the signs yours needs replacing, and how to make one last longer.",
+  "intro_html": "<p>A phone battery is a consumable part that wears out gradually with use, not a one-time component that either works or fails outright. Every full charge cycle causes a small, permanent amount of capacity loss, which is why a two-year-old phone typically doesn't last as long on a charge as it did when new.</p><p>Understanding how that wear happens — and the signs that a battery has degraded enough to need replacing — helps you decide whether to repair, replace the battery, or upgrade the whole device.</p>",
+  "key_takeaways": [
+    "Phone batteries use lithium-ion cells that degrade gradually with every charge cycle, not suddenly",
+    "A battery is commonly considered due for replacement once it holds noticeably less charge or the phone shuts down unexpectedly at higher percentages",
+    "Both iPhone and Android phones have a built-in way to check battery health or capacity in settings",
+    "Heat is one of the fastest ways to accelerate battery wear, more so than normal daily charging",
+    "Replacing the battery is usually far cheaper and more sustainable than replacing the whole phone, provided the rest of the device is still in good shape"
+  ],
+  "sections": [
+    {
+      "heading": "How does a phone battery actually wear out?",
+      "html": "<p>Nearly all modern phones use lithium-ion batteries, which store and release energy through a chemical reaction that causes very slight, permanent degradation with every full charge cycle. A charge cycle is counted as using 100% of the battery's capacity, whether that happens in one sitting or spread across several partial charges.</p><p>Lithium-ion batteries are generally rated for several hundred charge cycles before capacity drops meaningfully — commonly cited as around 500 cycles to reach roughly 80% of original capacity — though the exact number varies by battery chemistry, phone model and how the battery is treated day to day.</p>"
+    },
+    {
+      "heading": "What are the signs a phone battery needs replacing?",
+      "html": "<p>The most obvious sign is the phone no longer lasting through a normal day on a single charge when it used to. Other common signs include the phone shutting down unexpectedly while still showing 20-30% charge remaining, the battery percentage dropping rapidly during normal use, or the phone feeling noticeably warm during routine tasks.</p><p>On an iPhone, check Settings > Battery > Battery Health & Charging for a maximum capacity percentage. Most Android phones show a similar battery health or capacity estimate somewhere in Settings > Battery, though the exact location and detail varies by manufacturer.</p>"
+    },
+    {
+      "heading": "What drives the cost of a phone battery replacement?",
+      "html": "<p>Cost depends on the phone's make and model, the battery's physical size and chemistry, and whether the replacement part is a genuine manufacturer battery or a third-party equivalent. Newer and larger-screen phones, which tend to use bigger batteries and more complex internal assembly (especially models with water resistance seals), are generally more involved to service than older or simpler designs.</p><p>Because pricing varies by model and repairer and changes over time, it's worth checking a current, itemised price list for your exact phone rather than relying on a number you've seen elsewhere.</p>"
+    },
+    {
+      "heading": "Mobile phone battery replacement: DIY or professional?",
+      "html": "<p>Plenty of older or simpler phones can have the battery swapped at home with basic tools and some care, and many people do this successfully. Newer phones are trickier — many use strong adhesive to hold the battery in place (partly for water resistance), and the battery itself is pressurised, meaning it can swell or even become dangerous if punctured or bent during removal.</p><p>If your phone has water resistance, a glass back, or you're not confident working with small components and adhesive, a professional repairer is the safer option. A botched DIY battery swap can also damage the screen or back glass in the process of getting inside the phone.</p>"
+    },
+    {
+      "heading": "How can you make a phone battery last longer?",
+      "html": "<p>Avoid letting the phone sit at 100% charge for long periods or run flat to 0% repeatedly — keeping it generally between about 20% and 80% day-to-day is gentler on the cell. Heat is one of the biggest accelerators of battery wear, so avoid leaving the phone in direct sun, a hot car, or under a pillow while charging.</p><p>Many phones now include a feature (such as Optimized Battery Charging on iPhone) that learns your routine and slows charging past a certain point overnight to reduce time spent at full charge. Turning this on, along with keeping software updated, are two of the simplest ways to protect battery health over time.</p>"
+    }
+  ],
+  "table": null,
+  "faq": [
+    {"q": "How long does a mobile phone battery last?", "a": "<p>Most phone batteries noticeably degrade within two to three years of regular daily use, though this depends heavily on charging habits and how much heat the battery is exposed to.</p>"},
+    {"q": "How do I know if my phone needs a new battery?", "a": "<p>Key signs include the phone no longer lasting a full day on one charge, unexpected shutdowns at higher battery percentages, or a battery health reading well below 100% in your phone's settings.</p>"},
+    {"q": "Is it worth replacing a phone battery instead of buying a new phone?", "a": "<p>Usually yes, if the rest of the phone is still in good condition — a battery replacement is typically a much smaller job than buying and setting up a new device.</p>"},
+    {"q": "Can a phone battery be replaced by any repairer?", "a": "<p>Most repairers who handle mobile phones can replace batteries, but it's worth confirming whether they use genuine or third-party parts and what warranty applies to the work.</p>"}
+  ],
+  "word_count_estimate": 800
+}

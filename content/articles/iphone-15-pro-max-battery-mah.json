@@ -1,0 +1,43 @@
+{
+  "title": "iPhone 15 Pro Max Battery Capacity (mAh) Explained",
+  "meta_title": "iPhone 15 Pro Max Battery Capacity in mAh",
+  "meta_description": "Apple doesn't officially publish iPhone 15 Pro Max mAh figures. Here's what independent teardowns report, and why hours of use matter more than the number.",
+  "intro_html": "<p>Apple does not publish an official mAh figure for the iPhone 15 Pro Max on its own spec sheets, but independent teardown reports and regulatory filings have put its battery capacity at approximately 4,441 mAh. Apple instead rates its battery life in hours of use (such as video playback), which is arguably a more useful real-world figure than the raw capacity number.</p><p>This covers where that mAh figure comes from, why Apple doesn't state it directly, and why battery capacity alone doesn't tell the full story of how long a phone actually lasts.</p>",
+  "key_takeaways": [
+    "Apple does not list mAh figures on its official iPhone spec pages, including for the iPhone 15 Pro Max",
+    "Independent teardown reports and regulatory filings commonly cite a figure of around 4,441 mAh for the iPhone 15 Pro Max's battery",
+    "Apple instead publishes usage-hour ratings, such as video and audio playback time, as its official battery life measure",
+    "A higher mAh figure doesn't automatically mean longer battery life, since chip efficiency and screen technology also affect real-world runtime",
+    "Battery capacity in mAh only reflects a new battery's rated capacity — it naturally declines over time as the battery is used and charged"
+  ],
+  "sections": [
+    {
+      "heading": "What is the iPhone 15 Pro Max's battery capacity in mAh?",
+      "html": "<p>Apple itself does not publish a specific mAh number for any current iPhone, including the 15 Pro Max, on its official technical specifications. The figure commonly reported for the iPhone 15 Pro Max, around 4,441 mAh, comes from independent sources such as device teardowns and regulatory battery filings rather than from Apple directly.</p><p>This is worth keeping in mind when comparing numbers you find online — because it's not an Apple-published figure, slightly different numbers sometimes circulate depending on the source and how precisely it was measured.</p>"
+    },
+    {
+      "heading": "Why doesn't Apple publish mAh figures officially?",
+      "html": "<p>Apple's approach is to publish real-world usage estimates instead, such as hours of video playback, streamed video playback, and audio playback, measured under its own standardised test conditions. Apple's reasoning, as explained in its own marketing materials over the years, is that raw battery capacity in mAh doesn't tell you how long the phone will actually last, since that depends just as much on chip efficiency, display technology and software power management.</p><p>This is a reasonable point — two phones with the same mAh rating can have meaningfully different real-world battery life depending on how efficiently the rest of the hardware uses that stored energy.</p>"
+    },
+    {
+      "heading": "How does the iPhone 15 Pro Max compare with earlier Pro Max models?",
+      "html": "<p>Across recent generations, Apple has generally increased battery capacity gradually while also improving chip efficiency, which compounds to produce longer real-world battery life rather than relying on a bigger battery alone. Independent reporting suggests the iPhone 15 Pro Max's battery capacity is modestly larger than the iPhone 14 Pro Max's, continuing a gradual upward trend across recent Pro Max models.</p><p>Because Apple doesn't confirm these figures itself, it's more reliable to compare Apple's officially published hours-of-use ratings between generations if you want an Apple-endorsed comparison rather than relying on third-party mAh estimates.</p>"
+    },
+    {
+      "heading": "Does a bigger mAh number always mean better battery life?",
+      "html": "<p>Not necessarily. Battery life in real-world use depends on the combination of battery capacity, chip and software efficiency, screen resolution and refresh rate, and how the phone is used day to day. A phone with a smaller battery but a more efficient chip can sometimes outlast a phone with a larger battery but less efficient hardware.</p><p>This is why Apple's own hours-of-use ratings, and independent real-world battery life reviews, are generally more useful for comparing phones than the raw mAh figure alone.</p>"
+    },
+    {
+      "heading": "Does the mAh rating change as the battery ages?",
+      "html": "<p>The mAh figure describes the battery's capacity when new. Like all lithium-ion batteries, the iPhone 15 Pro Max's battery will gradually lose some of that original capacity with every full charge cycle, which is why battery health is reported as a percentage of original capacity rather than a fixed mAh number that changes over time.</p><p>You can track this over time under Settings > Battery > Battery Health & Charging, which shows maximum capacity relative to when the phone was new, regardless of the original mAh rating.</p>"
+    }
+  ],
+  "table": null,
+  "faq": [
+    {"q": "What is the iPhone 15 Pro Max battery capacity in mAh?", "a": "<p>Apple doesn't publish an official mAh figure, but independent teardown reports and regulatory filings commonly cite approximately 4,441 mAh for the iPhone 15 Pro Max.</p>"},
+    {"q": "Why doesn't Apple list mAh on its iPhone spec pages?", "a": "<p>Apple instead publishes hours-of-use ratings like video and audio playback time, arguing that real-world battery life depends on more than just raw capacity.</p>"},
+    {"q": "Is the iPhone 15's battery capacity different from the 15 Pro Max?", "a": "<p>Yes, the standard iPhone 15 uses a smaller battery than the Pro Max, consistent with its smaller body, though Apple doesn't officially publish the exact mAh figure for either.</p>"},
+    {"q": "Does a bigger battery in mAh mean better battery life?", "a": "<p>Not necessarily — chip efficiency, screen technology and software all affect real-world battery life, so mAh alone isn't a complete picture.</p>"}
+  ],
+  "word_count_estimate": 780
+}

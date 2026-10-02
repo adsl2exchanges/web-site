@@ -1,0 +1,44 @@
+{
+  "title": "How to Activate Face ID on Your iPhone",
+  "meta_title": "How to Activate Face ID on iPhone: Step-by-Step",
+  "meta_description": "How to activate Face ID on an iPhone, step by step, including setup tips and alternate appearances. For a Face ID that's broken, not new, see our other guide.",
+  "intro_html": "<p>To activate Face ID, go to Settings > Face ID & Passcode, enter your passcode, then tap Set Up Face ID and follow the on-screen prompts to scan your face. The whole process takes less than a minute in good lighting.</p><p>This guide covers setting up Face ID for the first time or re-enabling it after it's been turned off. If Face ID is already set up but has stopped recognising you properly, that's a different situation — see the troubleshooting guide for a Face ID that isn't working.</p>",
+  "key_takeaways": [
+    "Face ID is activated under Settings > Face ID & Passcode > Set Up Face ID, and takes under a minute.",
+    "Good, even lighting and holding the phone at a normal arm's length give the most reliable first scan.",
+    "You can add an Alternate Appearance for glasses, hats, or other regular changes in how you look.",
+    "Face ID needs a passcode set first — you can't turn it on without one, since the passcode is the fallback.",
+    "If Face ID was previously set up and is now unreliable, use Reset Face ID rather than trying to layer a second scan on top."
+  ],
+  "sections": [
+    {
+      "heading": "How to turn on Face ID step by step",
+      "html": "<p>Setting up Face ID is a guided process built into iOS, and takes under a minute once you're in a reasonably well-lit spot.</p><ol><li>Open the Settings app and tap Face ID & Passcode.</li><li>Enter your current passcode (you'll need one set up before Face ID can be enabled — if you don't have one, you'll be prompted to create it first).</li><li>Tap Set Up Face ID.</li><li>Position your face within the frame on screen and slowly move your head in a circle, following the on-screen guide, to complete the first scan.</li><li>You'll be asked to repeat the circular motion a second time to confirm the scan.</li><li>Once complete, Face ID is active and will be used automatically for unlocking the phone, authorising App Store and Apple Pay purchases, and auto-filling saved passwords, depending on what you allow under the same settings screen.</li></ol><p>If the scan fails partway through, just tap to try again — a failed attempt doesn't affect anything else on the phone.</p>"
+    },
+    {
+      "heading": "Tips for a reliable first scan",
+      "html": "<p>A few simple conditions make Face ID more accurate from the very first setup, rather than needing to redo it later.</p><ul><li>Set it up in daytime or well-lit indoor conditions — direct scanning works in the dark too using the infrared sensor, but an initial bright scan tends to capture more consistent detail.</li><li>Hold the phone at a comfortable distance, roughly the same distance you'd naturally hold it to look at the screen.</li><li>Remove sunglasses during setup, since dark lenses can block the infrared scan (ordinary prescription glasses are generally fine).</li><li>Make sure the sensor area at the top of the screen is clean and free of any screen protector that might interfere with it.</li></ul><p>Taking the extra few seconds to get these right reduces the chance you'll need to reset and redo the setup later.</p>"
+    },
+    {
+      "heading": "Setting up an alternate appearance",
+      "html": "<p>If you regularly switch between looks — wearing glasses sometimes and not others, or often wearing a hat or headscarf — you can add a second face scan without replacing the first one.</p><p>Go to Settings > Face ID & Passcode > Set Up an Alternate Appearance, and follow the same scanning process. iOS then checks incoming scans against both your primary and alternate appearance, which can noticeably improve how reliably Face ID recognises you day to day.</p><p>Only one alternate appearance can be stored at a time, so if your look changes again later, you can reset and set up a new one the same way.</p>"
+    },
+    {
+      "heading": "What Face ID is used for once it's active",
+      "html": "<p>Once Face ID is turned on, you can choose exactly what it's used for under Settings > Face ID & Passcode. Common uses include unlocking the phone, confirming iTunes & App Store purchases, authorising Apple Pay, and filling in saved passwords and passkeys automatically.</p><p>Each of these can be toggled on or off independently, so you could, for example, use Face ID to unlock the phone but still prefer typing your Apple ID password for purchases. Your passcode always remains available as a fallback for every one of these, including right after a restart, after several failed Face ID attempts, or after the phone hasn't been unlocked for over 48 hours.</p>"
+    },
+    {
+      "heading": "Face ID won't activate or complete setup",
+      "html": "<p>If the setup process fails repeatedly, keeps asking you to scan again without completing, or the Face ID option doesn't appear in Settings at all, that points to a different issue than a normal first-time setup. A clean lens and good lighting fix most hiccups, but repeated failure during setup — rather than everyday recognition dropping off later — can indicate a problem with the TrueDepth sensor hardware itself.</p><p>If that's what you're seeing, it's worth reading a dedicated troubleshooting guide for Face ID problems, since the fix for a sensor that won't complete setup is different from simply activating it for the first time.</p>"
+    }
+  ],
+  "table": null,
+  "faq": [
+    {"q": "How do I activate Face ID on my iPhone?", "a": "<p>Go to Settings > Face ID & Passcode, enter your passcode, tap Set Up Face ID, and follow the on-screen prompts to scan your face twice in a slow circular motion.</p>"},
+    {"q": "How do I turn on Face ID?", "a": "<p>Face ID is turned on through Settings > Face ID & Passcode > Set Up Face ID. You'll need a passcode already set up on the phone before this option becomes available.</p>"},
+    {"q": "How do I change Face ID to a different face or appearance?", "a": "<p>To fully replace the existing scan, go to Settings > Face ID & Passcode, tap Reset Face ID, then set it up again. To add a second look without replacing the original, use Set Up an Alternate Appearance in the same menu instead.</p>"},
+    {"q": "Can I set up Face ID without a passcode?", "a": "<p>No, a passcode is required before Face ID can be activated, since the passcode acts as the fallback method whenever Face ID isn't available or fails.</p>"},
+    {"q": "Why won't Face ID let me finish setting it up?", "a": "<p>Repeated failure during initial setup usually means poor lighting, an obstructed sensor, or sunglasses blocking the scan. If it still won't complete after addressing those, it may indicate a hardware issue with the TrueDepth sensor rather than a setup mistake.</p>"}
+  ],
+  "word_count_estimate": 780
+}

@@ -1,0 +1,47 @@
+{
+  "title": "iPhone 7 & 7 Plus LCD Replacement Guide",
+  "meta_title": "iPhone 7 / 7 Plus LCD Replacement Guide",
+  "meta_description": "iPhone 7 and 7 Plus LCD replacement explained: why these use LCD not OLED, part availability, DIY steps, and what affects repair cost.",
+  "intro_html": "<p>The iPhone 7 and 7 Plus use an LCD display rather than OLED, which makes replacing the screen one of the simpler and more affordable iPhone repairs available today. With both phones long out of production, replacement parts are plentiful, and the repair itself is well documented with no Face ID sensors to complicate the process.</p>",
+  "key_takeaways": [
+    "Both the iPhone 7 and 7 Plus use LCD screens, not OLED, meaning no risk of OLED burn-in and generally cheaper, more widely available replacement parts.",
+    "The 7 and 7 Plus were Apple's first water-resistant iPhones (IP67), so replacing the screen means replacing the adhesive seal too, to keep that protection intact.",
+    "The home button on these models is solid-state (not physically clicking) and uses Taptic feedback, so it's paired to the logic board and must be transferred carefully during a screen swap to preserve Touch ID.",
+    "Parts for both models are extremely common given years of production and sales volume, keeping this repair relatively quick and inexpensive compared with current iPhones.",
+    "The 7 Plus's larger screen and dual-camera cutout mean slightly more careful handling during disassembly, but the core repair process is the same as the standard 7."
+  ],
+  "sections": [
+    {
+      "heading": "Why the iPhone 7/7 Plus use LCD, not OLED",
+      "html": "<p>Apple didn't move to OLED displays until the iPhone X in 2017, so the 7 and 7 Plus (released 2016) use LCD technology throughout. This matters for repair in a couple of practical ways: LCD panels are generally cheaper to manufacture and replace than OLED, and they don't suffer from OLED-specific issues like permanent image burn-in. The trade-off is that LCD doesn't achieve the same deep blacks or contrast as OLED, but that's a design difference rather than a fault.</p>"
+    },
+    {
+      "heading": "The solid-state home button and Touch ID",
+      "html": "<p>The iPhone 7 and 7 Plus introduced a home button with no physical click — it uses the Taptic Engine to simulate a click through vibration instead. Like earlier Touch ID buttons, it's electronically paired to the specific phone's logic board for security, so it can't be swapped with a button from a different iPhone 7. During an LCD replacement, the home button must be carefully removed from the old screen assembly and transferred to the new one.</p><p>If this cable is damaged during the transfer, Touch ID will stop working, even though the rest of the phone and screen function normally — this is the main point of risk in an otherwise straightforward repair.</p>"
+    },
+    {
+      "heading": "Water resistance and resealing",
+      "html": "<p>The iPhone 7 series was Apple's first water-resistant iPhone lineup, rated IP67. That resistance depends partly on an adhesive seal around the display. Once opened for a screen repair, this adhesive must be replaced with fresh material to maintain a meaningful level of water resistance — reusing old adhesive or skipping this step leaves the phone considerably more vulnerable to moisture.</p>"
+    },
+    {
+      "heading": "OEM vs aftermarket LCD options",
+      "html": "<p>Given how long these models have been available, there's a wide range of replacement LCD quality on the market. OEM-grade and genuine pulled screens most closely match the original display's brightness, colour accuracy, and touch response. Budget aftermarket LCDs can be noticeably dimmer or show slight colour shifts, though for a secondary or budget-use phone this is often an acceptable trade-off for a lower cost.</p>"
+    },
+    {
+      "heading": "DIY vs professional replacement",
+      "html": "<p>Replacing an iPhone 7 or 7 Plus LCD is a well-documented, fairly approachable DIY repair, with plentiful guides and inexpensive tool kits available. The main risks are damaging the home button cable (losing Touch ID), tearing the battery connector, or not resealing the phone properly afterward. If you're confident with small tools and methodical work, this is one of the more forgiving iPhone screen repairs to attempt yourself.</p><p>A professional repair removes these risks for a modest labour cost and typically includes testing Touch ID and reapplying proper adhesive for water resistance.</p>"
+    },
+    {
+      "heading": "What affects the cost of this repair",
+      "html": "<p>Cost depends mainly on the LCD quality tier chosen, whether new adhesive and small parts are included, and local labour rates — generally on the lower end for iPhones given how common and inexpensive parts are for these models. Because prices vary between repairers and change over time, it's worth checking a current, itemised price list for your specific model (7 vs 7 Plus) rather than relying on a figure seen elsewhere.</p>"
+    }
+  ],
+  "table": null,
+  "faq": [
+    {"q": "How do I replace the LCD on an iPhone 7?", "a": "<p>The process involves removing the two pentalobe screws at the bottom, opening the display with suction and prying tools, disconnecting the battery first, then transferring the home button and other small components to the new LCD before reassembling and resealing the phone with fresh adhesive.</p>"},
+    {"q": "How do I change an iPhone 7 Plus screen?", "a": "<p>The 7 Plus follows the same repair process as the standard iPhone 7, just with a larger display and dual-camera cutout to handle carefully during disassembly — the home button transfer and resealing steps are identical.</p>"},
+    {"q": "Does replacing the iPhone 7 screen affect Touch ID?", "a": "<p>Only if the home button's flex cable is damaged during the transfer to the new screen, since Touch ID is paired to that specific button and can't be swapped from a different phone.</p>"},
+    {"q": "Is the iPhone 7 still water resistant after a screen repair?", "a": "<p>Only if the display is resealed with fresh adhesive during the repair — reused or missing adhesive significantly reduces the phone's original water resistance rating.</p>"}
+  ],
+  "word_count_estimate": 800
+}

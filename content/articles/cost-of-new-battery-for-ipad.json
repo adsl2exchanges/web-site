@@ -1,0 +1,43 @@
+{
+  "title": "Cost of a New iPad Battery: What Affects It",
+  "meta_title": "New iPad Battery Cost: What Drives the Price",
+  "meta_description": "iPad batteries can be replaced, but the job is more involved than a phone. Here's what drives the cost, with no fixed price guessing involved.",
+  "intro_html": "<p>Yes, an iPad's battery can be replaced, but it's generally a more labour-intensive job than a phone battery swap, which is reflected in how it's priced. Rather than a single flat cost, the price depends on the iPad model, whether the part is genuine or third-party, and how much work is involved in safely removing the glued-in battery from beneath the screen.</p><p>This covers why iPad battery replacement tends to cost more than a phone's, and what to check before booking one.</p>",
+  "key_takeaways": [
+    "iPad batteries can be replaced on virtually all models, but the process is more involved than most phone battery swaps",
+    "Most iPads hold the battery in place with strong adhesive beneath a large glass panel, which adds labour time compared with phones",
+    "The iPad model and screen size both affect cost, since larger, newer iPads generally have bigger batteries and more complex assembly",
+    "Genuine vs third-party battery choice affects both price and how accurately the device reports remaining battery health",
+    "Checking a current, itemised price list for your specific iPad model is more reliable than comparing against a phone battery price"
+  ],
+  "sections": [
+    {
+      "heading": "Can an iPad battery actually be replaced?",
+      "html": "<p>Yes. Every iPad model has a replaceable battery, but unlike many phones, it's not designed for quick or frequent replacement — it's held in place with strong adhesive directly beneath the glass front panel, which is itself bonded to the frame. This means a battery replacement generally involves carefully separating the glass, removing the old battery (sometimes in sections, using heat and adhesive solvent), and fitting the new one before resealing.</p><p>It's a routine job for an experienced repairer, but it takes meaningfully longer and requires more specialised care than a typical phone battery swap.</p>"
+    },
+    {
+      "heading": "Why does an iPad battery replacement generally cost more than a phone's?",
+      "html": "<p>The extra labour involved in safely separating the glass and removing strongly-adhered battery cells is the main driver — more time and specialised tools are needed compared with most phone battery swaps, which often involve simpler pull-tab adhesive and a smaller, more accessible battery. iPads also generally use larger-capacity batteries than phones, which affects part cost.</p><p>Larger iPad Pro models, with bigger batteries and more complex internal layouts, are typically more involved to service than a smaller iPad or iPad mini.</p>"
+    },
+    {
+      "heading": "Does genuine vs third-party battery choice matter for an iPad?",
+      "html": "<p>Yes, similar to phones. A genuine battery matches Apple's original specifications and tends to keep battery behaviour and reporting more consistent with how the device was designed to perform. A reputable third-party battery can be a reasonable lower-cost option, but quality varies between suppliers, so it's worth asking your repairer about the brand and warranty they're using.</p>"
+    },
+    {
+      "heading": "What else affects the price of an iPad battery replacement?",
+      "html": "<p>Beyond the model and part type, price can be affected by whether the screen was already cracked or damaged going into the repair (since a damaged screen can complicate safe removal), whether the repairer is an Apple Authorised Service Provider or an independent, and how available parts are for your specific iPad generation. Older or discontinued iPad models can sometimes be more expensive to service if genuine parts are harder to source.</p><p>Because pricing varies by model and repairer and changes over time, it's worth checking a current, itemised price list for your specific iPad rather than assuming it will match what a phone battery replacement costs.</p>"
+    },
+    {
+      "heading": "Is it worth replacing an iPad's battery instead of buying a new one?",
+      "html": "<p>If the screen, charging port and overall performance are still good, a battery replacement is usually a sensible way to extend an iPad's useful life, especially since iPads are often used for several more years than phones before feeling outdated. It becomes less worthwhile if the iPad is also showing its age in other ways, such as running slowly on current iPadOS versions or having a damaged screen that would need separate repair anyway.</p>"
+    }
+  ],
+  "table": null,
+  "faq": [
+    {"q": "Can a battery be replaced on an iPad?", "a": "<p>Yes, every iPad model has a replaceable battery, though the process is more involved than most phone battery swaps due to strong adhesive beneath the glass front panel.</p>"},
+    {"q": "How much does a new battery for an iPad cost?", "a": "<p>It varies by iPad model, battery type (genuine vs third-party) and repairer, so it's best to check a current, itemised price list for your specific iPad rather than a general figure.</p>"},
+    {"q": "Why is an iPad battery replacement more expensive than a phone's?", "a": "<p>It generally involves more labour, since the battery is strongly adhered beneath a large glass panel that needs to be carefully separated and resealed, unlike the simpler pull-tab adhesive used in many phones.</p>"},
+    {"q": "Is it worth replacing an old iPad's battery?", "a": "<p>Usually yes, if the screen and other hardware are still in good condition, since it can meaningfully extend the device's useful life for a fraction of the cost of a new iPad.</p>"}
+  ],
+  "word_count_estimate": 780
+}

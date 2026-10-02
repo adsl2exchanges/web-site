@@ -1,0 +1,52 @@
+{
+  "title": "Phone Doctor: Diagnosing What's Actually Wrong with Your Phone",
+  "meta_title": "Phone Doctor: Diagnose Your Phone's Problem",
+  "meta_description": "Before booking a repair, work out what's actually wrong. This symptom-based guide helps you diagnose common phone problems like a \"phone doctor\" would.",
+  "intro_html": "<p>A good \"phone doctor\" approach starts the same way a real doctor's visit would: match the symptoms to the likely cause before assuming the worst or the cheapest explanation. Most phone problems fall into a handful of recognisable patterns, and working out which one you have helps you ask the right questions when you do book a repair.</p>",
+  "key_takeaways": [
+    "Symptoms like a phone that won't charge can mean a faulty cable, a damaged port, or a battery issue — they're not interchangeable causes.",
+    "A phone that restarts randomly or shuts down with charge remaining often points to the battery, especially on older devices.",
+    "Overheating during normal use (not gaming or charging) can indicate a battery, software, or in rarer cases, a hardware fault worth a proper diagnostic.",
+    "Not every problem needs a shop visit — some software-related symptoms can be ruled out with a restart, a software update check, or a factory reset as a last resort.",
+    "A proper diagnostic from a repairer should test components individually rather than guessing from the symptom alone."
+  ],
+  "sections": [
+    {
+      "heading": "\"My phone won't charge\" — working through the likely causes",
+      "html": "<p>Start with the cheapest, most common cause: try a different charging cable and power adapter, and clean the charging port gently with a dry, soft brush to clear lint (a very common and totally free fix). If it still won't charge with a cable and adapter you know work, the fault is more likely the charging port itself or the battery.</p><p>A phone that charges only when the cable is held at a specific angle usually points to a worn or damaged charging port connector rather than the battery.</p>"
+    },
+    {
+      "heading": "\"My phone keeps restarting or shutting down\"",
+      "html": "<p>Random restarts or shutdowns, particularly ones that happen even with charge remaining, are a classic sign of battery degradation — the battery can no longer deliver power steadily enough under load. This is especially common on phones more than two or three years old that haven't had the battery replaced.</p><p>If the phone is newer, or the restarts coincide with a specific app or after a recent software update, it's worth ruling out a software cause first, since a battery replacement won't fix a software-triggered crash loop.</p>"
+    },
+    {
+      "heading": "\"My phone is overheating\"",
+      "html": "<p>Some warmth during charging, gaming, or navigation apps using GPS is normal. Overheating during light, everyday use — texting, browsing — is not, and can point to a battery problem, a background app using unusual resources, or occasionally a hardware fault.</p><p>Check which apps are using the most battery and background activity in your phone's settings first. If nothing obvious shows up and the overheating continues, that's worth a proper diagnostic rather than continuing to use the phone heavily.</p>"
+    },
+    {
+      "heading": "When it's software, not hardware",
+      "html": "<p>Before booking any repair, it's worth ruling out software causes for symptoms like slow performance, apps crashing, or a phone that feels \"laggy\":</p><ul><li>Restart the phone — it sounds basic, but it resolves a surprising number of temporary glitches.</li><li>Check for and install pending software updates.</li><li>Check available storage — a nearly full phone can behave sluggishly.</li><li>As a last resort, back up your data and consider a factory reset to rule out a corrupted setting or app.</li></ul><p>If these don't help, the issue is more likely hardware-related and worth a professional diagnostic.</p>"
+    },
+    {
+      "heading": "What a proper diagnostic should involve",
+      "html": "<p>A thorough repairer doesn't just guess from your description — they test the battery's actual health and output, check the charging port's connection quality, inspect for signs of liquid damage or corrosion, and verify which specific component is failing before quoting a fix. This matters because several different faults can produce identical symptoms, and fixing the wrong one wastes both time and money.</p><p>Because the cost of repairs varies by what's actually wrong, it's worth getting that proper diagnosis first rather than paying for a guess, and checking a current, itemised price list once you know the real cause.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Symptom vs likely cause",
+    "headers": ["Symptom", "Most likely cause", "Also possible"],
+    "rows": [
+      ["Won't charge at all", "Charging port (debris or damage)", "Faulty cable/adapter, battery fault"],
+      ["Random shutdowns with charge left", "Battery degradation", "Software crash loop"],
+      ["Overheats during light use", "Background app or battery issue", "Hardware fault (less common)"],
+      ["Charges only at certain angle", "Worn charging port connector", "Damaged cable"]
+    ]
+  },
+  "faq": [
+    {"q": "Why does my phone say it's charging but the battery isn't going up?", "a": "<p>This usually points to a weak or failing charging connection — try a different cable and adapter first, then check the port for lint or debris. If neither helps, the charging port or battery itself likely needs inspection.</p>"},
+    {"q": "Is a phone that overheats dangerous?", "a": "<p>Occasional warmth during heavy use like gaming or charging is normal, but a phone that gets hot during light everyday use should be checked. Continued overheating can affect battery health and, in rare cases, points to a hardware fault worth addressing promptly.</p>"},
+    {"q": "Can a factory reset fix a phone that keeps crashing?", "a": "<p>It can, if the cause is a corrupted app, setting, or software conflict. Back up your data first, since a factory reset erases everything on the device. If problems continue after a reset, the cause is more likely hardware.</p>"},
+    {"q": "Should I diagnose my phone myself before going to a repair shop?", "a": "<p>Basic checks — trying a different cable, restarting, checking for updates — are worth doing first since they're free and quick. For anything beyond that, a proper diagnostic from a repairer is more reliable than guessing, since several faults can look identical from the outside.</p>"}
+  ],
+  "word_count_estimate": 840
+}

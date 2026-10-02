@@ -1,0 +1,43 @@
+{
+  "title": "Replacing an iPhone X Screen: What to Know",
+  "meta_title": "iPhone X Screen Replacement Guide",
+  "meta_description": "Planning to replace an iPhone X screen? Learn about its OLED display, Face ID considerations, and genuine vs third-party parts before you book a repair.",
+  "intro_html": "<p>Replacing an iPhone X screen means fitting a new OLED display and digitizer assembly, and the main thing that makes this model different from fixing an older iPhone is Face ID — the iPhone X was the first iPhone to use it, and the TrueDepth camera system sits right next to the screen. Getting this repair right means understanding how screen choice can affect Face ID and display quality, not just getting the glass replaced.</p><p>The iPhone X is now an older device, so part availability and the choice between genuine and third-party screens matters more here than it does for newer models.</p>",
+  "key_takeaways": [
+    "The iPhone X uses an OLED display, which is generally more expensive to replace than the LCD screens on older iPhones like the 8 or SE.",
+    "Face ID relies on the TrueDepth camera module, not the screen itself, so a screen replacement alone shouldn't disable Face ID if the repair is done carefully.",
+    "Non-genuine or poorly installed screens can occasionally trigger an onscreen warning about genuine Apple parts, even if the display works fine.",
+    "As an older model, genuine Apple parts for the iPhone X can be harder to source than for current iPhones.",
+    "Quality aftermarket OLED screens have improved over the years but can still vary in colour accuracy and touch response compared to genuine parts."
+  ],
+  "sections": [
+    {
+      "heading": "What's different about replacing an iPhone X screen specifically",
+      "html": "<p>The iPhone X was Apple's first iPhone with an OLED display and the first with Face ID, replacing the home button and Touch ID entirely. Both of these make screen replacement on this model different from older iPhones like the 7 or 8.</p><p>The OLED panel itself is more complex and costly to manufacture than the LCD screens used in older or budget iPhones, which generally makes replacement parts pricier. The TrueDepth camera notch at the top of the screen also means the repair technician needs to carefully transfer or reconnect the earpiece speaker, proximity sensor, and front camera components during the swap, since these sit in a tightly packed area right next to the display.</p><p>Because the iPhone X is no longer a current model, technicians working on it need experience with an now-older design, and parts supply isn't as deep as it is for newer iPhones still in production.</p>"
+    },
+    {
+      "heading": "Will a screen replacement affect Face ID on the iPhone X?",
+      "html": "<p>Face ID itself is powered by the TrueDepth camera system (the infrared camera, dot projector, and flood illuminator around the notch), not by the screen glass. A straightforward screen replacement that doesn't disturb these components should not disable Face ID.</p><p>However, because the TrueDepth hardware sits so close to the display and shares small connectors and brackets with it, a rushed or careless repair can risk damaging these parts, which would affect Face ID. This is a key reason to choose a repairer experienced specifically with Face ID-equipped iPhones rather than someone used only to older, home-button models.</p><p>If Face ID stops working after a screen replacement, it's worth having the repairer check the TrueDepth module connections before assuming anything more serious is wrong.</p>"
+    },
+    {
+      "heading": "Genuine Apple parts vs third-party screens for the iPhone X",
+      "html": "<p>Genuine Apple OLED screens are built to original specification and are the most reliable option for matching colour accuracy, brightness, and touch responsiveness to how the phone performed originally. On devices with part-pairing systems, using a non-genuine screen can sometimes trigger an onscreen message noting the display isn't a genuine Apple part — this is usually just a notification rather than a functional block, but it's worth asking your repairer whether it applies to the part they're using.</p><p>Quality third-party OLED screens have improved substantially over the years and can be a reasonable, more affordable option, particularly for an older device like the iPhone X where the cost gap to a genuine part can be more noticeable. Budget third-party panels at the very low end are more likely to show slightly duller colours, less accurate touch response at the edges, or a less durable glass coating.</p><p>Ask your repairer directly which type of part they're fitting and what warranty applies, since this affects both the price and the long-term performance of the repair.</p>"
+    },
+    {
+      "heading": "What drives the cost of an iPhone X screen replacement",
+      "html": "<p>As with any phone, cost comes down to the part type (genuine vs aftermarket OLED), labour complexity, and part availability. Because the iPhone X is an older model, genuine parts can sometimes be scarcer and therefore pricier relative to the phone's current resale value than they would be for a current-generation iPhone.</p><p>The OLED technology itself is inherently costlier to produce and replace than the LCD screens found in budget iPhones, which is reflected in pricing regardless of which repairer you use. Given how often prices shift and vary by repairer, it's worth checking a current, itemised price list for the iPhone X specifically rather than assuming it matches pricing for a newer or older model.</p>"
+    },
+    {
+      "heading": "Is it worth repairing an iPhone X screen in 2026?",
+      "html": "<p>Since the iPhone X is now several years old, it's worth weighing the screen repair cost against the phone's remaining useful life, including how many more years of iOS software updates it's likely to receive and whether the battery is still holding up well.</p><p>If the rest of the phone is in solid condition and you're happy with its performance, a screen replacement is usually a sensible way to extend its life. If the battery is also degraded or the phone feels slow on current iOS versions, it may be worth factoring the screen repair into a broader decision about whether to keep using the device at all.</p>"
+    }
+  ],
+  "table": null,
+  "faq": [
+    {"q": "How do you change an iPhone X screen?", "a": "<p>Changing an iPhone X screen involves removing the display assembly connectors, unscrewing the old OLED panel, and carefully transferring or reconnecting the earpiece, front camera, and TrueDepth sensor components before fitting the replacement screen and resealing the phone.</p>"},
+    {"q": "Does replacing the iPhone X screen affect Face ID?", "a": "<p>Not directly, since Face ID depends on the TrueDepth camera system rather than the screen itself, but careless handling of the tightly packed components near the display during a repair could affect it, so an experienced repairer matters.</p>"},
+    {"q": "Can you use a third-party screen on an iPhone X?", "a": "<p>Yes, quality third-party OLED screens are available and widely used, though they can vary in colour accuracy and touch response compared to genuine Apple parts, and may occasionally trigger a non-genuine-part notification on screen.</p>"},
+    {"q": "Is the iPhone X screen OLED or LCD?", "a": "<p>The iPhone X uses an OLED display, Apple's first iPhone to do so, which generally makes replacement parts more expensive than the LCD screens used in older or budget iPhone models.</p>"}
+  ],
+  "word_count_estimate": 840
+}

@@ -1,0 +1,43 @@
+{
+  "title": "How Long Does an iPad Battery Last?",
+  "meta_title": "How Long Does an iPad Battery Last?",
+  "meta_description": "Apple rates most iPads for around 10 hours of general use per charge. Here's how that holds up over time, and when a battery is actually worn out.",
+  "intro_html": "<p>Apple rates most iPads at up to around 10 hours of general use per charge — covering web browsing, video and music — a figure that has stayed fairly consistent across most models over the years. How long that actually lasts in calendar terms, though, depends on how often the iPad is charged and used, since iPads are often used less intensively day to day than phones.</p><p>This covers what Apple's rating actually means, why iPads often feel like they hold their battery life longer than phones, and the signs an iPad's battery has genuinely worn out.</p>",
+  "key_takeaways": [
+    "Apple's standard rating of up to about 10 hours of general use per charge has applied consistently across most iPad generations",
+    "iPads often retain usable battery life for longer in calendar years than phones, simply because they're typically charged less often",
+    "Like all lithium-ion batteries, an iPad's battery degrades gradually with each full charge cycle rather than failing suddenly",
+    "You can check an iPad's battery condition indirectly through declining screen-on time, since iPadOS doesn't show a battery health percentage as directly as iPhone does on most models",
+    "A battery replacement can extend an older iPad's life significantly if the screen and other hardware are still in good condition"
+  ],
+  "sections": [
+    {
+      "heading": "What is an iPad's battery life actually rated at?",
+      "html": "<p>Apple has used a broadly consistent rating of up to around 10 hours of general use per charge across most iPad models for many years, covering activities like web browsing on Wi-Fi, watching video, and listening to music. Cellular-connected iPads are usually rated slightly lower for browsing over a mobile network compared with Wi-Fi.</p><p>As with any phone or tablet, this is a best-case figure measured under Apple's own test conditions — real-world battery life varies depending on screen brightness, which apps are running, and whether background tasks like downloads are active.</p>"
+    },
+    {
+      "heading": "Why does an iPad's battery often seem to last longer than a phone's?",
+      "html": "<p>It's not that iPad batteries are fundamentally different — it's that iPads are typically used in shorter, more occasional sessions than phones, which are usually carried everywhere and used throughout the day. Because battery wear is driven by charge cycles rather than the calendar, an iPad that's charged once a week will show far less cumulative wear after two years than a phone charged daily over the same period.</p><p>This is why a lightly used iPad can still feel like it has strong battery life years after purchase, even though the underlying battery chemistry degrades the same way as any other lithium-ion battery.</p>"
+    },
+    {
+      "heading": "How do you know an iPad's battery has worn out?",
+      "html": "<p>Most iPads don't show a battery health percentage as prominently as recent iPhones do, so the clearest signs are practical ones: the iPad no longer lasting through a session it used to handle easily, the battery percentage dropping unusually fast during normal use, or the device shutting down unexpectedly while still showing charge remaining.</p><p>A battery that's visibly swelling — causing the screen to lift slightly or the case to bulge — is a more urgent sign and should be addressed promptly rather than continuing to use and charge the device.</p>"
+    },
+    {
+      "heading": "Can an iPad battery be replaced, and is it worth it?",
+      "html": "<p>Yes, iPad batteries can be replaced, though the process is generally more involved than a phone battery swap because the battery is usually held in place with strong adhesive beneath a large glass panel that takes more care to remove safely. If the screen, charging port and overall performance of the iPad are still good, a battery replacement is usually a sensible way to extend its useful life rather than replacing the whole tablet.</p><p>Because this is a more labour-intensive repair than most phone battery swaps, it's worth checking a current, itemised price list for your specific iPad model before deciding.</p>"
+    },
+    {
+      "heading": "How can you make an iPad's battery last longer?",
+      "html": "<p>Avoid leaving the iPad at 100% charge for extended periods or letting it run completely flat repeatedly, and keep it out of direct sun or hot cars, since heat accelerates battery wear more than normal use does. If you're storing an iPad for a long period without using it, Apple recommends charging it to around 50% rather than leaving it fully charged or fully drained.</p><p>Keeping iPadOS updated also helps, as Apple periodically includes power-management refinements in software updates that can modestly improve real-world battery behaviour.</p>"
+    }
+  ],
+  "table": null,
+  "faq": [
+    {"q": "How long does an iPad battery last on a single charge?", "a": "<p>Apple rates most iPads for up to around 10 hours of general use such as web browsing, video and music, though real-world results vary with brightness and which apps are running.</p>"},
+    {"q": "How long does an iPad battery last before it needs replacing?", "a": "<p>It depends more on charge cycles than age in years — a lightly used iPad can retain good battery life for several years, while a heavily used one may need a replacement sooner.</p>"},
+    {"q": "Can an iPad battery be replaced?", "a": "<p>Yes, though it's generally a more involved repair than a phone battery swap due to strong adhesive and a large glass panel that needs careful removal.</p>"},
+    {"q": "How do I know if my iPad needs a new battery?", "a": "<p>Look for reduced runtime compared with before, rapid battery percentage drops during normal use, or unexpected shutdowns while charge is still showing.</p>"}
+  ],
+  "word_count_estimate": 800
+}

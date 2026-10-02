@@ -1,0 +1,52 @@
+{
+  "title": "iPhone Mobile Parts: OEM, Aftermarket & Refurbished",
+  "meta_title": "iPhone Mobile Parts Explained: OEM vs Aftermarket",
+  "meta_description": "A guide to iPhone replacement parts: OEM/genuine vs aftermarket vs refurbished, what parts pairing means, and where legitimate repairers source parts.",
+  "intro_html": "<p>iPhone mobile parts fall into three broad categories: genuine/OEM parts made or sourced to Apple's original specification, aftermarket parts made by third-party manufacturers, and refurbished parts salvaged and reconditioned from other devices. Each has different implications for quality, compatibility, and price.</p><p>Knowing the difference matters because the type of part used in a repair affects not just how well it works on day one, but sometimes whether features like Face ID or True Tone continue working at all.</p>",
+  "key_takeaways": [
+    "Genuine/OEM parts match Apple's original specification most closely and tend to be the most reliable, but are generally the most expensive option.",
+    "Aftermarket parts are made by third-party manufacturers and vary widely in quality — some are very close to genuine, others are noticeably lower grade.",
+    "Refurbished parts are salvaged from other iPhones, cleaned and tested, and can be a reasonable middle ground when sourced and tested properly.",
+    "\"Parts pairing\" refers to Apple's system of linking certain components to a specific device's serial number, which can affect features after a repair.",
+    "Legitimate repairers typically source parts from established suppliers and should be able to tell you which category a part falls into if asked."
+  ],
+  "sections": [
+    {
+      "heading": "What are the main types of iPhone replacement parts?",
+      "html": "<p>When an iPhone needs a part replaced — a screen, battery, camera, or charging port — that replacement part generally comes from one of three sources: genuine/OEM, aftermarket, or refurbished.</p><ul><li><strong>Genuine/OEM (original equipment manufacturer) parts:</strong> made to Apple's original specification, either sourced directly through Apple's own channels or manufactured by the same suppliers Apple uses. These most closely match the performance, colour and calibration of the original part.</li><li><strong>Aftermarket parts:</strong> produced independently by third-party manufacturers not affiliated with Apple. Quality varies enormously across this category, from parts that perform almost identically to genuine ones, through to noticeably lower-grade options with dimmer displays, less accurate colour, or shorter lifespans.</li><li><strong>Refurbished parts:</strong> taken from other iPhones (often ones with other damage), then cleaned, tested and sometimes recalibrated before reuse. Quality depends heavily on the condition of the donor part and how thoroughly it was tested.</li></ul>"
+    },
+    {
+      "heading": "What does \"parts pairing\" mean?",
+      "html": "<p>Parts pairing refers to a system where certain iPhone components are linked, via software, to the serial number of the specific device they're installed in. This has become more extensive on recent iPhone models, affecting parts such as the screen (for Face ID and True Tone), battery (for battery health reporting), and camera (for some camera app features).</p><p>In practice, this means that fitting a replacement part — even a genuine one taken from another iPhone — without going through a proper pairing or calibration process can result in warning messages, disabled features (like Face ID not working after a screen swap), or inaccurate health readings (like battery health showing as unknown). This isn't unique to aftermarket parts; it can affect genuine parts moved between devices too, if the pairing step is skipped.</p><p>A repairer with the right tools and process can usually complete this pairing step for an authentic part, restoring full functionality rather than leaving warnings in place.</p>"
+    },
+    {
+      "heading": "Does the type of part actually make a difference day to day?",
+      "html": "<p>For some parts, the practical difference between part types is small; for others, it's quite noticeable. A mid-tier aftermarket battery, for example, might perform almost identically to a genuine one in daily use, while a low-grade aftermarket screen can show reduced brightness, less accurate colours, or a less responsive touchscreen compared to genuine.</p><p>Camera modules are another area where quality differences show up clearly, since image processing depends on precise calibration between the lens and the software — a poorly matched aftermarket camera can produce noticeably worse photos even if it physically fits and powers on correctly.</p><p>Charging ports and speakers tend to be more forgiving, since good aftermarket versions of these simpler components often perform close to genuine, provided they're made by a reputable manufacturer.</p>"
+    },
+    {
+      "heading": "Where do legitimate repairers source their parts?",
+      "html": "<p>Reputable repairers typically source parts from established wholesale suppliers who specialise in mobile phone components, rather than buying single units from unverified online marketplace listings. Many repairers deliberately stock a mix of genuine-grade and quality aftermarket options so customers can choose based on budget and priorities.</p><p>Some repairers also participate in manufacturer repair programs that give access to genuine Apple parts and official calibration tools, though eligibility and part availability through these programs vary. A straightforward way to gauge a repairer's approach is to simply ask: what grade of part would be used for my specific repair, and can a genuine option be sourced if I want one?</p>"
+    },
+    {
+      "heading": "Questions worth asking before a repair",
+      "html": "<p>Before booking any part replacement, a few direct questions can tell you a lot about what you're getting. Ask what grade of part will be fitted (genuine, aftermarket, or refurbished), what warranty applies to that specific part versus the labour, and whether any features (like Face ID, True Tone, or battery health reporting) could be affected by the part choice.</p><p>It's also reasonable to ask whether the part comes with any kind of authenticity or quality assurance from the supplier. A repairer who can answer these clearly and explain the trade-offs is generally a better sign than one who avoids the question or insists there's only one option available.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Genuine vs aftermarket vs refurbished iPhone parts",
+    "headers": ["Type", "Source", "Typical quality consistency"],
+    "rows": [
+      ["Genuine/OEM", "Apple or Apple-approved suppliers", "Most consistent, matches original spec"],
+      ["Aftermarket", "Independent third-party manufacturers", "Varies widely by manufacturer"],
+      ["Refurbished", "Salvaged from other devices, tested/reconditioned", "Depends on donor condition and testing"]
+    ]
+  },
+  "faq": [
+    {"q": "What are iPhone mobile parts?", "a": "<p>They're the individual replaceable components inside an iPhone — screens, batteries, cameras, charging ports and more — available as genuine/OEM, aftermarket, or refurbished depending on where they're sourced from.</p>"},
+    {"q": "What's the difference between OEM and aftermarket iPhone parts?", "a": "<p>OEM (original equipment manufacturer) parts are made to Apple's original specification and tend to match performance and calibration closely, while aftermarket parts are made independently by third parties and vary in quality from near-identical to noticeably lower grade.</p>"},
+    {"q": "What is parts pairing on an iPhone?", "a": "<p>It's a system where certain components are linked via software to a specific device's serial number, meaning a replacement part may need a proper pairing process completed to avoid warnings or disabled features like Face ID.</p>"},
+    {"q": "Are refurbished iPhone parts reliable?", "a": "<p>They can be, depending on the condition of the original donor part and how thoroughly it was tested and reconditioned before reuse. Quality varies more than with new genuine parts.</p>"},
+    {"q": "Should I always choose genuine parts for an iPhone repair?", "a": "<p>Genuine parts generally offer the most consistent match to the original performance, but quality aftermarket parts can be a reasonable choice for some components. It depends on the specific part, your budget, and how much the feature in question matters to you.</p>"}
+  ],
+  "word_count_estimate": 830
+}

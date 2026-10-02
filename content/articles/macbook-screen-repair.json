@@ -1,0 +1,43 @@
+{
+  "title": "MacBook Screen Repair: What You Need to Know",
+  "meta_title": "MacBook Screen Repair Explained",
+  "meta_description": "Cracked or faulty MacBook screen? Understand how Retina display repair works, what drives cost, and when genuine Apple parts matter most.",
+  "intro_html": "<p>MacBook screen repair means replacing the damaged Retina display assembly — on most modern MacBook Air and MacBook Pro models this is typically the whole lid assembly rather than just a glass panel, because the screen, the camera, and sometimes the antenna cables are built as one integrated unit. This makes MacBook screen repair a bit different from a typical Windows laptop repair, where swapping just the panel is often possible.</p><p>The specific MacBook model, screen size, and whether it has newer features like a notch camera or mini-LED backlighting all affect exactly what's involved and what it costs.</p>",
+  "key_takeaways": [
+    "Most modern MacBooks require replacing the full lid/display assembly rather than just the glass or panel on its own.",
+    "Retina displays are high-resolution and more complex than standard laptop panels, which generally makes parts and labour costlier.",
+    "Genuine Apple parts and Apple-certified repairers are more likely to preserve True Tone and other display calibration features.",
+    "MacBook Pro models with mini-LED or ProMotion technology are typically the most expensive to repair due to more advanced display tech.",
+    "A cracked MacBook screen rarely affects the keyboard, trackpad, or internal components, so the rest of the machine usually keeps working fine."
+  ],
+  "sections": [
+    {
+      "heading": "How MacBook screen repair works",
+      "html": "<p>On most MacBook Air and MacBook Pro models from the last several years, the display, its glass cover, the camera, and the surrounding lid are bonded together as a single assembly rather than being separate, individually replaceable layers. This means that even a small crack in the glass usually requires swapping out the entire lid assembly, not just the panel behind it.</p><p>This is a notable difference from many Windows laptops, where the bezel can often be removed and just the LCD panel replaced. Apple's more integrated design makes the repair cleaner in some ways but generally pricier, since you're replacing more hardware even for a small, localised crack.</p><p>The rest of the laptop — keyboard, trackpad, battery, logic board — is untouched by a standard screen repair, so a MacBook with a smashed screen but no other damage should function perfectly once the new lid assembly is fitted.</p>"
+    },
+    {
+      "heading": "Signs you need a screen repair vs another MacBook issue",
+      "html": "<p>Obvious signs you need a screen repair include visible cracks, shattered glass, or dark ink-like blotches spreading across the display. These point clearly to physical panel damage.</p><p>Other symptoms can look similar but have different causes. A screen that's dim, flickering, or shows a coloured tint that changes when you adjust the lid angle may point to a loose display cable rather than a damaged panel. If the MacBook displays correctly on an external monitor via USB-C or HDMI but not on its own screen, that also points to a built-in display or cable fault specifically, rather than a graphics or logic board issue.</p><p>If the laptop won't produce any image at all — even on an external display — that's more likely a deeper hardware fault unrelated to the screen itself, and is worth having diagnosed separately before assuming a screen repair will fix it.</p>"
+    },
+    {
+      "heading": "What drives the cost of MacBook screen repair",
+      "html": "<p>Retina displays use considerably higher resolution and more precise colour calibration than typical laptop screens, which makes the parts themselves more expensive to produce and source. This is the single biggest reason MacBook screen repairs tend to cost more than an equivalent repair on a basic Windows laptop.</p><p>Model also matters a great deal. A MacBook Air repair is generally more affordable than a MacBook Pro, and within the Pro range, models with mini-LED backlighting or ProMotion adaptive refresh rates (found in recent 14-inch and 16-inch MacBook Pro models) use some of the most advanced — and priciest — display technology Apple has shipped, which pushes repair costs higher again.</p><p>Because the lid is typically replaced as a complete assembly, labour cost is also a factor, though it's generally more predictable than on devices requiring extensive disassembly. Since pricing shifts over time and differs between repairers, it's worth checking a current, itemised price list for your exact MacBook model rather than relying on a figure quoted elsewhere.</p>"
+    },
+    {
+      "heading": "Genuine Apple parts vs third-party MacBook screens",
+      "html": "<p>Genuine Apple display assemblies are built to match the exact factory specification, including accurate True Tone colour calibration where supported. This makes them the most reliable option if you want the display to look and behave exactly as it did originally.</p><p>Quality third-party display assemblies exist and can be more affordable, but colour accuracy, viewing angles, and build quality can vary depending on the manufacturer. Because the lid assembly on most MacBooks also houses the camera and sometimes the Wi-Fi antennas, a lower-quality third-party part can occasionally affect those as well, not just the screen itself.</p><p>If colour-accurate work (photography, video editing, design) is important to you, it's worth specifically asking whether a genuine or third-party assembly is being used and how that affects calibration.</p>"
+    },
+    {
+      "heading": "Is it worth repairing an older MacBook's screen?",
+      "html": "<p>Because MacBook screen repairs tend to be a significant cost relative to a Windows laptop repair, it's worth weighing the age and condition of the machine before committing. A MacBook that's still on a supported macOS version, has a healthy battery, and performs well for your needs is generally a strong candidate for a screen repair.</p><p>An older MacBook that's already slow, has a degraded battery, or is nearing the end of macOS software support may be a case where the screen repair cost is better put toward a newer machine instead. As with any laptop, your data is generally still recoverable from an external drive connection even with a broken internal screen, so screen damage alone doesn't need to force an immediate decision.</p>"
+    }
+  ],
+  "table": null,
+  "faq": [
+    {"q": "How much is it to fix a MacBook screen?", "a": "<p>It depends on the MacBook model, screen technology (standard Retina vs mini-LED/ProMotion), and whether a genuine or third-party display assembly is used, so there's no single fixed cost — check a current, itemised price list for your exact model.</p>"},
+    {"q": "Can you replace just the glass on a MacBook screen?", "a": "<p>On most modern MacBooks, the glass, display, and camera are bonded into a single lid assembly, so a cracked glass typically means replacing the full assembly rather than just the outer glass layer.</p>"},
+    {"q": "Does a MacBook screen crack affect the rest of the laptop?", "a": "<p>Usually not — the keyboard, trackpad, battery, and logic board are separate from the display assembly, so a cracked screen alone doesn't typically affect how the rest of the machine performs.</p>"},
+    {"q": "Why is MacBook screen repair more expensive than a Windows laptop?", "a": "<p>Retina displays use higher resolution and tighter colour calibration than typical laptop panels, and on most MacBooks the whole lid assembly must be replaced rather than just the glass, both of which push costs higher.</p>"}
+  ],
+  "word_count_estimate": 840
+}

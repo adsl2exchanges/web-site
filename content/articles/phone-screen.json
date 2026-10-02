@@ -1,0 +1,51 @@
+{
+  "title": "Phone Screens: Protecting Them and Knowing When to Repair",
+  "meta_title": "Phone Screens: Protection vs Repair Guide",
+  "meta_description": "Everything about phone screens: how cases and screen protectors reduce damage, when a crack needs fixing, and how to find cases, covers and repairs near you.",
+  "intro_html": "<p>A phone screen is the single most exposed and most expensive-to-replace part of a modern phone, which is why most of the damage you'll ever deal with — cracks, scratches, dead pixels — happens there first. The good news is that a decent case and screen protector prevent the majority of everyday damage, and when a crack does happen, it's usually a straightforward, well-understood repair.</p>",
+  "key_takeaways": [
+    "Most phone screen damage comes from drops onto hard, flat surfaces at an angle that hits a corner first — a case with raised edges reduces this risk significantly.",
+    "Tempered glass screen protectors absorb impact and scratches so the actual screen doesn't have to, and are cheap to replace compared with the screen itself.",
+    "A spiderweb crack with a working touchscreen is usually cosmetic-plus-functional damage; a screen that's gone dark, has lines, or doesn't respond to touch points to a deeper fault.",
+    "Cases, covers and screen protectors are sold both by dedicated accessory stores and by most phone repair shops.",
+    "Buying a case specifically rated for your exact phone model matters more than buying the cheapest generic option, since button and port cutouts vary between models and even between years."
+  ],
+  "sections": [
+    {
+      "heading": "Why phone screens crack so easily",
+      "html": "<p>Modern phone screens use thin glass bonded over a display layer, chosen for touch sensitivity and clarity rather than impact resistance. Glass is strong under even pressure but weak against a sharp, concentrated impact — which is exactly what happens when a phone lands corner-first on concrete or tile.</p><p>Screen size has grown steadily across most phone ranges too, which means more exposed glass surface area and a higher chance any given drop lands on the screen rather than the back or sides.</p>"
+    },
+    {
+      "heading": "Cases, covers and screen protectors: what actually helps",
+      "html": "<p>A case with edges that sit slightly proud of the screen stops it from making direct contact when the phone is placed face-down, and absorbs some shock on a drop. A separate tempered glass or film screen protector adds a sacrificial layer that takes scratches and some impact itself.</p><p>Phone case and accessory stores — separate from repair shops, though some repairers sell both — typically stock a range of case styles (slim, rugged, wallet, clear) and screen protector types for current and recent phone models. If you can't find your exact model in a physical store, checking directly with a repairer is worthwhile, since many stock protectors for less common devices too.</p>"
+    },
+    {
+      "heading": "Spiderweb crack vs a deeper screen fault",
+      "html": "<p>Not all screen damage is the same, and knowing which type you have affects what fix you need:</p><ul><li><strong>Cracked glass, touch still works:</strong> cosmetic and functional damage — the screen itself usually needs replacing, but the phone is otherwise fine.</li><li><strong>Lines, discolouration or dead patches:</strong> suggests damage to the display panel underneath the glass, not just the surface.</li><li><strong>Touch not responding in some areas:</strong> often a digitiser issue, which may or may not be part of the same component as the glass depending on the model.</li><li><strong>Screen completely black but phone still makes sounds/vibrates:</strong> could be the screen, but could also be a separate internal fault — worth a diagnostic rather than assuming.</li></ul>"
+    },
+    {
+      "heading": "What affects the cost of a screen repair or replacement part",
+      "html": "<p>Screen repair cost is driven mainly by the device model, whether the chosen part is OEM, OEM-grade or generic aftermarket, and whether other components (like the earpiece speaker or front camera) are integrated into the same assembly on certain models. Cases and screen protectors vary mostly by material and brand rather than by model complexity.</p><p>Because pricing for both repairs and accessories changes regularly, it's worth checking a current, itemised price list for your specific model rather than relying on a number from a different phone or an old quote.</p>"
+    },
+    {
+      "heading": "DIY screen protector fitting vs professional screen repair",
+      "html": "<p>Fitting a screen protector yourself is low-risk and something almost anyone can do with a bit of patience — at worst you get a bubble or some dust under the film and have to try again. Replacing the actual screen is a different level of difficulty, involving adhesive seals, small connectors, and sometimes components like Face ID hardware that are easy to damage without the right tools and experience.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Screen protector types compared",
+    "headers": ["Type", "Scratch protection", "Impact absorption", "Feel under finger"],
+    "rows": [
+      ["Tempered glass", "Strong", "Good", "Closest to bare glass"],
+      ["Plastic/PET film", "Moderate", "Light", "Slightly less smooth"],
+      ["Hydrogel film", "Light to moderate", "Light", "Very smooth, self-healing for minor scratches"]
+    ]
+  },
+  "faq": [
+    {"q": "Does a screen protector actually prevent cracks?", "a": "<p>It mainly prevents scratches and absorbs minor impacts, reducing the chance of a crack from light drops. It won't reliably stop a screen from cracking in a hard, corner-first drop — a case with raised edges does more for that kind of impact.</p>"},
+    {"q": "Where can I buy a phone case or screen protector for my model?", "a": "<p>Dedicated mobile accessory stores, phone shops, and many phone repair shops all stock cases and screen protectors, though range varies by location and how current your phone model is. Checking with a repair shop is worthwhile for less common models.</p>"},
+    {"q": "My screen is cracked but still works — do I need to fix it?", "a": "<p>Not urgently, but a cracked screen can let in dust and moisture over time and poses a small cut risk. It's worth having it looked at before the crack spreads further or the glass starts flaking.</p>"},
+    {"q": "Why do some phone screens cost more to replace than others?", "a": "<p>Cost is driven by the device model, the type of part used (OEM, OEM-grade or generic aftermarket), and whether other components are built into the same screen assembly on that particular model.</p>"}
+  ],
+  "word_count_estimate": 820
+}

@@ -1,0 +1,24 @@
+{
+  "site_name": "Device Repair Guide",
+  "site_tagline": "Australia's independent guide to phone, tablet & laptop repairs",
+  "base_url": "https://your-username.github.io/your-repo",
+  "language": "en-AU",
+  "locale": "en_AU",
+  "description": "Independent, in-depth guides to iPhone, phone, tablet and laptop repairs: screen and battery replacement, charging port and Face ID fixes, repair costs, and how to choose a repairer in Australia.",
+  "author_name": "Device Repair Guide Editorial Team",
+  "twitter_handle": "",
+  "nav": [
+    {"label": "Home", "url": "/"},
+    {"label": "Screen Replacement", "url": "/topics/screen-replacement/"},
+    {"label": "Battery", "url": "/topics/battery-replacement/"},
+    {"label": "Find a Repairer", "url": "/topics/find-a-repair-shop/"},
+    {"label": "About", "url": "/about/"}
+  ],
+  "footer_links": [
+    {"label": "About", "url": "/about/"},
+    {"label": "Editorial Policy", "url": "/editorial-policy/"},
+    {"label": "Privacy", "url": "/privacy/"},
+    {"label": "Sitemap", "url": "/sitemap.xml"}
+  ],
+  "disclaimer": "Device Repair Guide is an independent publication and is not affiliated with Apple, Samsung, Google, Microsoft or any device manufacturer or repair chain. Prices and timeframes mentioned are general Australian market estimates for comparison purposes only and will vary by repairer, device model and condition. Always get a written quote before booking a repair."
+}

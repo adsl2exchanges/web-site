@@ -1,0 +1,55 @@
+{
+  "title": "iPhone 14 Pro Max Screen Replacement: What to Know",
+  "meta_title": "iPhone 14 Pro Max Screen Replacement Guide",
+  "meta_description": "Everything to know before replacing an iPhone 14 Pro Max screen: ProMotion OLED, Dynamic Island, genuine-part pairing, and what affects repair cost.",
+  "intro_html": "<p>Replacing an iPhone 14 Pro Max screen means dealing with a high-spec 120Hz ProMotion OLED panel and the Dynamic Island cutout, both of which make this one of the more complex and sensitive screen jobs on a current phone. The part itself is expensive relative to older iPhones, and Apple's part-pairing system means even a correctly working replacement screen can trigger ongoing warning messages if it isn't paired through Apple's software.</p>",
+  "key_takeaways": [
+    "The 14 Pro Max uses a 120Hz ProMotion OLED display with the Dynamic Island cutout, not a standard LCD, so the part and the repair are more complex than on older or non-Pro iPhones.",
+    "Apple's part-pairing (serialisation) system can cause a genuine replacement screen to still show a 'non-genuine part' or lose True Tone/brightness features unless it is paired via Apple's official process.",
+    "Aftermarket screens exist but commonly compromise on True Tone, ProMotion's adaptive refresh rate, or colour accuracy compared with an OEM or Apple-paired panel.",
+    "Because this is a flagship, high-value screen, repair cost is driven heavily by whether the shop uses an OEM/genuine-paired part versus an aftermarket one.",
+    "Face ID should always be retested after a screen swap, since the repair sits close to the TrueDepth sensor housing at the top of the display."
+  ],
+  "sections": [
+    {
+      "heading": "Why the 14 Pro Max screen is different to replace",
+      "html": "<p>The iPhone 14 Pro Max display is a Super Retina XDR OLED panel with ProMotion, meaning it can vary its refresh rate up to 120Hz depending on what's on screen. It also has to accommodate the Dynamic Island, the pill-shaped cutout at the top that blends the front camera and Face ID sensors into the software interface.</p><p>None of this is purely cosmetic engineering. The sensors behind the Dynamic Island, the adaptive refresh rate hardware, and the True Tone colour calibration are all tied to components that must be handled correctly during a teardown, and in some cases tied to data that is specific to your individual phone.</p>"
+    },
+    {
+      "heading": "What is screen part-pairing and why does it matter here?",
+      "html": "<p>Since the iPhone 13 series, Apple has used a microcontroller-based pairing system for screens. Each display is paired in software to a specific phone's logic board. If a screen is swapped without using Apple's proprietary pairing tool (available to Apple Stores and Apple Authorised Service Providers), the phone can still function, but you may see a persistent 'Unable to verify this iPhone has a genuine Apple display' notification, and some features — True Tone, automatic brightness, and ambient light-based adjustments — can stop working properly.</p><p>This is worth asking about directly before booking a repair: whether the part will be properly paired, and whether that pairing is done in-store or requires a mail-in process. It's one of the biggest practical differences between repairing a 14 Pro Max and repairing an older iPhone.</p>"
+    },
+    {
+      "heading": "OEM, genuine-paired, and aftermarket screen options",
+      "html": "<p>Broadly, three tiers of replacement screen exist for this model. Genuine Apple parts (new or high-quality refurbished, properly paired) give the closest match to original performance, including full ProMotion and True Tone support. OEM-grade aftermarket panels aim to replicate Apple's specifications closely but may not be able to be paired the same way. Lower-cost aftermarket screens can look similar at a glance but often show reduced peak brightness, slightly different colour tone, or a capped refresh rate.</p><p>A reputable repairer should be upfront about which tier they're quoting and installing, and able to explain what you'll notice day-to-day with each option.</p>"
+    },
+    {
+      "heading": "What drives the cost of this repair",
+      "html": "<p>Several factors push the price of a 14 Pro Max screen repair higher than on most other models: the panel itself is one of Apple's most expensive display assemblies, ProMotion and ambient light sensor components add complexity, and genuine-paired parts carry a premium over unpaired aftermarket alternatives. Labour is also a factor, since the Dynamic Island assembly and surrounding sensors need careful handling during disassembly and reassembly.</p><p>Because pricing varies between repairers and changes over time as part supply shifts, it's worth checking a current, itemised price list for your specific model rather than relying on a figure you've seen elsewhere.</p>"
+    },
+    {
+      "heading": "DIY versus professional repair for this model",
+      "html": "<p>DIY screen replacement kits exist for the 14 Pro Max, but this is not an easy first repair to attempt. The battery and display connectors sit close together under adhesive, the Dynamic Island sensor cluster needs to be transferred carefully between the old and new screen on many kits, and without professional pairing equipment you'll likely lose True Tone and see the non-genuine display warning regardless of part quality.</p><p>For a phone at this price point, most owners are better served by a professional repair, particularly one that can confirm how the part is sourced and paired.</p>"
+    },
+    {
+      "heading": "What to check after the repair",
+      "html": "<p>After any 14 Pro Max screen replacement, test Face ID thoroughly in different lighting, check that True Tone and auto-brightness toggle correctly in Settings, and confirm the display responds smoothly to both static and high-motion content (to verify ProMotion is actually switching refresh rates). Also check for the genuine-part warning under Settings > General > About, since its presence tells you whether pairing was completed.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Screen part tiers for the iPhone 14 Pro Max",
+    "headers": ["Part tier", "ProMotion (120Hz)", "True Tone", "Pairing status typical"],
+    "rows": [
+      ["Genuine Apple, properly paired", "Full support", "Full support", "Paired, no warning"],
+      ["OEM-grade aftermarket", "Often capped or limited", "Sometimes approximated", "Usually unpaired, warning shown"],
+      ["Budget aftermarket", "Not supported or fixed rate", "Not supported", "Unpaired, warning shown"]
+    ]
+  },
+  "faq": [
+    {"q": "Does replacing the iPhone 14 Pro Max screen affect Face ID?", "a": "<p>It can if the TrueDepth sensor housing isn't transferred or seated correctly during the repair, so Face ID should always be tested immediately after the screen is replaced. A reputable repairer will check this before handing the phone back.</p>"},
+    {"q": "Will a non-genuine screen show a warning message on the 14 Pro Max?", "a": "<p>Yes, if the replacement display isn't paired through Apple's official process, the phone will typically show a persistent message saying it can't verify the display is genuine, even if the part itself functions normally.</p>"},
+    {"q": "Does an aftermarket screen lose ProMotion's 120Hz refresh rate?", "a": "<p>Many aftermarket panels either don't support the full adaptive refresh range or lock the screen to a fixed rate, which is one of the most noticeable differences compared with a genuine, properly paired display.</p>"},
+    {"q": "Is the iPhone 14 Pro Max screen more expensive to replace than other iPhones?", "a": "<p>Generally yes, because the OLED ProMotion panel with Dynamic Island hardware is a premium component, and genuine-paired parts cost more than standard aftermarket screens used on older or lower-tier iPhone models.</p>"}
+  ],
+  "word_count_estimate": 820
+}

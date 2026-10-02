@@ -1,0 +1,53 @@
+{
+  "title": "Mobile Phone Repairs in Coffs Harbour: A Buyer's Guide",
+  "meta_title": "Mobile Phone Repairs Coffs Harbour: What to Know",
+  "meta_description": "Looking for mobile phone repairs in Coffs Harbour? Here's what to check before you book, from quotes to warranty, so you get a repair that lasts.",
+  "intro_html": "<p>If you need mobile phone repairs in Coffs Harbour, the fastest path to a good outcome is comparing at least two local repairers on parts quality, warranty length and turnaround before you hand your phone over. A cracked screen or dead battery is rarely an emergency that needs the very first quote you get — a few extra minutes of checking can save you a repeat visit.</p><p>This guide covers what actually matters when choosing a repairer in a regional coastal town like Coffs Harbour, where options are fewer than in a capital city but the same buyer questions apply.</p>",
+  "key_takeaways": [
+    "Compare at least two Coffs Harbour repairers on warranty length and parts type, not just speed",
+    "Ask whether the replacement screen or battery is OEM, OEM-refurbished or aftermarket before booking",
+    "Humid coastal air and sand/salt exposure make charging-port and speaker issues more common in beach towns",
+    "Back up your phone before any repair — a screen or battery swap can occasionally trigger a factory reset",
+    "A written warranty (even a simple receipt noting the cover period) matters more than a verbal promise"
+  ],
+  "sections": [
+    {
+      "heading": "What should you check before booking a repair in Coffs Harbour?",
+      "html": "<p>Start with three questions: what part will be used, how long is it covered, and how long will the job take. A repairer who answers all three clearly and without hesitation is generally more trustworthy than one who gives vague answers.</p><p>Because Coffs Harbour is a smaller regional centre, the pool of repairers is limited compared to Sydney or Brisbane, so it's worth calling ahead rather than just walking in. Confirm they stock parts for your specific model — a popular recent iPhone or Samsung model is usually in stock, but older or less common phones may need to be ordered in, which adds days to the turnaround.</p><p>Also ask whether the repair is done on-site or sent away. On-site repairs are typically faster and let you watch the process or ask questions directly, which is reassuring for a first-time repair.</p>"
+    },
+    {
+      "heading": "Why do coastal towns see different repair issues?",
+      "html": "<p>Phones used near the beach or in humid coastal air are more prone to a few specific faults. Salt-laden moisture can corrode charging ports and speaker grilles over time, even without an obvious liquid spill. Sand works its way into buttons and ports, causing sticking or intermittent connections.</p><p>If you live or holiday around Coffs Harbour and notice your phone struggling to charge or sounding muffled, it's worth having the port and speaker inspected rather than assuming it's just old age. A cleaning service alone can sometimes resolve a corrosion-related issue before it becomes a full part replacement.</p>"
+    },
+    {
+      "heading": "What drives the cost of a repair?",
+      "html": "<p>Repair pricing depends on several factors rather than a flat fee: the device model, whether the part is genuine (OEM), OEM-grade refurbished, or a cheaper aftermarket alternative, and the extent of damage. A simple cracked-screen swap on a common model is usually straightforward, while a phone with liquid damage, a bent frame, or damage to connected components (like the proximity sensor behind an iPhone screen) takes longer and costs more.</p><p>Battery replacements vary by capacity and whether the repairer uses a battery that matches the original health rating. Because prices move often and vary by repairer, it's worth checking a current, itemised price list for your exact model rather than relying on a figure you saw somewhere else or heard from a friend.</p>"
+    },
+    {
+      "heading": "Should you repair it yourself or use a professional?",
+      "html": "<p>DIY repair kits are widely available online, and for a confident, careful person they can work for simple jobs like a battery swap on an older model. But modern phones increasingly use adhesive seals for water resistance, small ribbon cables that tear easily, and in the case of iPhones, software pairing between the screen and Face ID sensor that only specific tools and processes can preserve.</p><p>If you get it wrong, you can turn a one-part repair into a multi-part repair, or lose features like water resistance and True Tone. For anything beyond a very basic job, a professional repairer with the right tools is the safer bet, especially if the phone is still relatively new or valuable.</p>"
+    },
+    {
+      "heading": "How do you compare quotes properly?",
+      "html": "<p>Don't just compare the headline number — compare what's included. Ask each repairer the same set of questions: part type, warranty length, whether labour is covered separately, and whether there's a diagnostic fee if they can't fix it. A slightly higher quote that includes a 12-month warranty on parts and labour is often better value than a cheaper one with a 30-day warranty.</p><p>It also helps to ask how they test the phone afterwards — a reputable repairer checks touch response, cameras, speakers and charging before handing the phone back, not just the headline fault you came in for.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Questions to ask before booking a phone repair",
+    "headers": ["Question", "Why it matters"],
+    "rows": [
+      ["What type of part will be used?", "OEM parts generally perform closest to original; aftermarket varies in quality"],
+      ["How long is the warranty?", "Longer warranty (e.g. several months to a year) signals confidence in the repair"],
+      ["Is the repair done on-site?", "On-site is usually faster and lets you ask questions directly"],
+      ["Will my data be affected?", "Some repairs can trigger a reset — back up beforehand regardless of the answer"],
+      ["Is there a fee if it can't be fixed?", "Avoids surprise diagnostic charges"]
+    ]
+  },
+  "faq": [
+    {"q": "How long does a phone screen repair take in Coffs Harbour?", "a": "<p>Most common models with the part in stock can be repaired within an hour or two, but less common phones may need the part ordered in, which can take several days.</p>"},
+    {"q": "Do I need to back up my phone before a repair?", "a": "<p>Yes. While most screen and battery repairs don't erase data, some repairs or software resets occasionally do, so backing up first avoids any risk of loss.</p>"},
+    {"q": "Is it worth repairing an older phone?", "a": "<p>It depends on the repair cost relative to the phone's remaining useful life and resale value — a battery or screen swap can often extend a phone's life by a year or more at a fraction of the cost of a new device.</p>"},
+    {"q": "What's the difference between OEM and aftermarket screens?", "a": "<p>OEM (original equipment manufacturer) parts are made to the phone maker's original specifications, while aftermarket parts are third-party alternatives that can vary in colour accuracy, touch sensitivity and durability.</p>"}
+  ],
+  "word_count_estimate": 780
+}

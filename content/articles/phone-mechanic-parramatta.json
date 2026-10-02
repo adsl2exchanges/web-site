@@ -1,0 +1,84 @@
+{
+  "title": "What a 'Phone Mechanic' Does and How to Pick One",
+  "meta_title": "Phone Mechanic in Parramatta: What to Know",
+  "meta_description": "'Phone mechanic' just means a mobile phone repairer. Here's how to compare kiosks, independent stores and DIY options around Parramatta before you book.",
+  "intro_html": "<p>A \"phone mechanic\" is simply an informal name for a mobile phone repairer — someone who fixes screens, batteries, charging ports and similar hardware faults, rather than a licensed trade in the way a car mechanic is. In a busy hub like Parramatta you'll typically find shopping centre kiosks, standalone independent stores and manufacturer service options, and each suits a different kind of repair.</p>",
+  "key_takeaways": [
+    "\"Phone mechanic\" is informal slang for a mobile phone repairer, not a licensed or regulated trade title.",
+    "Shopping centre kiosks are convenient for quick, common repairs but may have less space for complex diagnostic work.",
+    "Independent standalone stores often handle a wider range of faults and can be more flexible on appointment times.",
+    "DIY screen-fix kits carry real risk of damaging seals and voiding any remaining warranty.",
+    "Always get a warranty on both the part and the labour before paying for a repair."
+  ],
+  "sections": [
+    {
+      "heading": "What does \"phone mechanic\" actually mean?",
+      "html": "<p>Despite the name, a phone mechanic has nothing to do with cars — it's just a casual, widely searched term for someone who repairs mobile phones. There's no formal licensing or certification scheme in Australia specific to phone repair technicians, which means experience, reputation and reviews matter more than any particular title when choosing one.</p><p>In practice, \"phone mechanic\", \"mobile repair\" and \"phone repair shop\" are all used interchangeably in everyday searches for the same kind of service.</p>"
+    },
+    {
+      "heading": "Kiosk, independent store, or manufacturer service?",
+      "html": "<p>A busy area like Parramatta typically offers all three options. Shopping centre kiosks are convenient for a quick screen or battery swap while you shop, but tend to have limited back-of-house space for more involved diagnostic work. Standalone independent stores usually offer a broader range of repairs, including water damage assessment and less common faults, and can be more flexible about appointment times. Manufacturer or authorised service options are the safest choice if your phone is still under warranty, though they can be less flexible on timing.</p>"
+    },
+    {
+      "heading": "How to fix a mobile phone screen: your real options",
+      "html": "<p>If your screen is cracked, you generally have three paths: a DIY replacement kit, a walk-in repair kiosk, or a booked appointment with an independent or authorised repairer. DIY kits are the cheapest on paper but carry real risk — getting the adhesive seal wrong can let moisture in later, and the tools included in cheap kits are often not quite right for the job.</p><p>For most people, a professional repair strikes the best balance of speed, reliability and warranty cover, especially for current-generation phones with tightly sealed designs.</p>"
+    },
+    {
+      "heading": "What affects the price of a screen or battery repair?",
+      "html": "<p>Cost depends on the phone model, whether the part used is genuine or a quality aftermarket equivalent, and how much of the device is damaged beyond the screen itself. Because these factors vary so much by device, it's worth checking a current, itemised price list for your exact model rather than assuming a flat rate applies across all phones.</p>"
+    },
+    {
+      "heading": "Questions worth asking before you book",
+      "html": "<p>Ask what type of part will be used, how long the repair will take, and what warranty covers the part and the labour. It's also reasonable to ask to see the replacement part before it's fitted, and to ask what happens if the same fault reappears shortly after the repair.</p><p>A repairer who answers these clearly, without hesitation, is generally a safe bet regardless of whether they're a kiosk, an independent store or an authorised service centre.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Repair options compared",
+    "headers": [
+      "Option",
+      "Pros",
+      "Cons"
+    ],
+    "rows": [
+      [
+        "Shopping centre kiosk",
+        "Convenient, often same-day or while you wait",
+        "Limited space for complex or diagnostic repairs"
+      ],
+      [
+        "Independent standalone store",
+        "Broader range of repairs, flexible bookings",
+        "May require an appointment or short wait"
+      ],
+      [
+        "Manufacturer/authorised service",
+        "Genuine parts, preserves warranty",
+        "Can be slower, less flexible on timing"
+      ],
+      [
+        "DIY repair kit",
+        "Lowest upfront cost",
+        "Risk of seal damage, voids warranty, no professional guarantee"
+      ]
+    ]
+  },
+  "faq": [
+    {
+      "q": "Is \"phone mechanic\" a real qualification?",
+      "a": "<p>No — it's an informal, commonly searched term for a mobile phone repairer, not a licensed or regulated trade, so reputation and reviews matter more than any title.</p>"
+    },
+    {
+      "q": "Can I fix a mobile phone screen myself?",
+      "a": "<p>It's possible with a DIY kit, but modern phones use adhesive seals that are easy to get wrong, and a failed attempt can cost more to fix than the original crack and will usually void any remaining warranty.</p>"
+    },
+    {
+      "q": "Is a shopping centre kiosk repair as reliable as a dedicated store?",
+      "a": "<p>It can be for common, straightforward repairs like a standard screen or battery swap, but a dedicated store is often better equipped for more complex diagnostic work or less common faults.</p>"
+    },
+    {
+      "q": "What warranty should I expect on a mobile phone repair?",
+      "a": "<p>A reasonable warranty covers both the replacement part and the labour for a set period — always confirm the length and exactly what it covers before agreeing to the repair.</p>"
+    }
+  ],
+  "word_count_estimate": 811
+}

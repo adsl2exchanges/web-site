@@ -1,0 +1,71 @@
+{
+  "title": "Phone Repairs in Canberra: Your Rights Explained",
+  "meta_title": "Phone Repairs in Canberra: Rights & Tips",
+  "meta_description": "Getting a phone or iPhone repaired in Canberra? Learn your consumer guarantee rights, what affects repair cost, and how to choose a repairer with confidence.",
+  "intro_html": "<p>Any phone repair carried out in Canberra, as anywhere else in Australia, is covered by the Australian Consumer Law's consumer guarantees — meaning the work must be done with reasonable care and skill, and you're entitled to a remedy if it isn't. Knowing this gives you a solid baseline before you even start comparing repairers.</p>",
+  "key_takeaways": [
+    "Repairs in Canberra are covered by the same national Australian Consumer Law as anywhere else in the country.",
+    "If a repair fails or isn't done with reasonable care and skill, you may be entitled to a free fix, a replacement, or a refund depending on the severity.",
+    "iPhone repairs can trigger on-screen notices about non-genuine parts, which is worth knowing before choosing a repairer.",
+    "A written warranty from the repairer sits alongside, not instead of, your consumer law rights.",
+    "Comparing two or three quotes and asking about parts and turnaround helps you choose confidently."
+  ],
+  "sections": [
+    {
+      "heading": "Your consumer guarantees for a phone repair",
+      "html": "<p>Under the Australian Consumer Law, services including phone repairs must be provided with reasonable care and skill, fit for the purpose they were sold for, and completed within a reasonable time. These guarantees apply automatically, regardless of what a business's own warranty policy says, and they apply the same way in Canberra as anywhere else in Australia. If a repair is faulty or not done properly, you're generally entitled to have it fixed again, and in more serious cases, to a replacement part or a refund.</p>"
+    },
+    {
+      "heading": "Common phone faults and what they usually mean",
+      "html": "<p>A cracked screen is the most common repair request, followed by a battery that no longer lasts the day — a normal effect of lithium-ion batteries degrading with charge cycles rather than a defect. Charging ports that need the cable adjusted to connect are often caused by lint rather than a failed port. Pinning down the actual fault before calling around saves time and helps you ask more specific questions.</p>"
+    },
+    {
+      "heading": "What's different about iPhone repairs specifically?",
+      "html": "<p>Apple's software can display an on-screen notice if it can't verify that a screen or battery is a genuine Apple part, which doesn't stop the phone working but is worth knowing about in advance. Battery health reporting can also be affected by a non-genuine battery. None of this makes third-party repair unsafe, but it's reasonable to ask a repairer directly how they handle these iPhone-specific behaviours.</p>"
+    },
+    {
+      "heading": "What affects the cost of a phone repair?",
+      "html": "<p>The phone model, whether a genuine or aftermarket part is used, and the extent of any damage beyond the obvious fault all influence price. Because this varies so much by device, it's worth checking a current, itemised price list for your specific model rather than relying on a number you've seen quoted for a different phone.</p>"
+    },
+    {
+      "heading": "Choosing and comparing repairers in Canberra",
+      "html": "<p>Ask each repairer what warranty applies on top of your consumer law rights, what type of part they'll use, and how long the repair will take. Compare at least two options, and treat a written quote as the standard rather than the exception — a repairer who's reluctant to put anything in writing is worth approaching with some caution.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Consumer guarantee outcomes under Australian Consumer Law",
+    "headers": [
+      "Outcome",
+      "When it generally applies"
+    ],
+    "rows": [
+      [
+        "Free re-repair",
+        "A minor failure that can be fixed within a reasonable time"
+      ],
+      [
+        "Replacement",
+        "A major failure the repairer can't reasonably fix"
+      ],
+      [
+        "Refund",
+        "A major failure where a fix or replacement isn't practical"
+      ]
+    ]
+  },
+  "faq": [
+    {
+      "q": "What are my rights if a phone repair fails in Canberra?",
+      "a": "<p>Under the Australian Consumer Law, you're generally entitled to have the issue fixed again at no extra cost, and in more serious cases to a replacement or a refund, regardless of the repairer's own warranty terms.</p>"
+    },
+    {
+      "q": "How long should a phone repair warranty last?",
+      "a": "<p>There's no single fixed period, but a reasonable warranty on parts and labour is standard practice — always confirm the specific length and coverage with your repairer before booking.</p>"
+    },
+    {
+      "q": "Does Australian Consumer Law cover phone repairs?",
+      "a": "<p>Yes — consumer guarantees under the Australian Consumer Law apply to repair services nationally, including in the ACT, requiring that work be done with reasonable care and skill.</p>"
+    }
+  ],
+  "word_count_estimate": 687
+}

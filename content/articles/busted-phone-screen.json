@@ -1,0 +1,44 @@
+{
+  "title": "Busted Phone Screen? What to Do Next",
+  "meta_title": "Busted Phone Screen: What to Do Next",
+  "meta_description": "Got a busted phone screen? Learn immediate steps to take, the risks of using a cracked screen, and how to decide between repair and replacement.",
+  "intro_html": "<p>If you've got a busted phone screen, the first thing to do is stop using it normally: power it off or put it in a protective case/screen film if you can, back up your data as soon as possible, and avoid pressing on any area where glass is lifting or the display is flickering. From there, the right fix depends on how bad the damage is and whether the touchscreen still responds.</p><p>A busted screen can mean anything from a single hairline crack to a shattered mess of glass with a dead display underneath, so the next steps aren't the same for every situation.</p>",
+  "key_takeaways": [
+    "Back up your phone immediately — a cracked screen can fail completely without warning, especially if the touch layer is damaged.",
+    "Cracked glass with a working display is very different from a cracked display that's showing lines, colour bleed, or black patches.",
+    "Using a badly cracked screen risks cuts to your fingers and face, and can let dust or moisture into the phone.",
+    "Cheap screen protectors and tape are short-term stopgaps only — they don't stop a crack from spreading.",
+    "Whether to repair or replace the whole phone depends on the device's age, its condition otherwise, and how much a screen fix costs relative to the phone's value."
+  ],
+  "sections": [
+    {
+      "heading": "What to do right after you crack your phone screen",
+      "html": "<p>The first priority is protecting your data and stopping further damage. Back up photos, messages and contacts over Wi-Fi or cloud sync if the phone still functions, since a partially cracked screen can stop responding to touch at any time.</p><ul><li>Power the phone off if the display is flickering, showing coloured lines, or leaking liquid crystal — continuing to use it can make the damage spread.</li><li>Apply a clear piece of packing tape or a temporary screen protector over the crack to stop glass shards lifting and to keep dust and moisture out.</li><li>Avoid pressing hard on the glass, inserting anything into cracks, or trying to \"pop\" a lifted section back down.</li><li>Keep the phone in a case and avoid pockets with keys or coins, which can grind grit into an existing crack.</li></ul><p>None of this fixes the screen — it just buys you time until you can get it properly assessed.</p>"
+    },
+    {
+      "heading": "Is it safe to keep using a cracked phone screen?",
+      "html": "<p>A phone with cosmetic cracks but a fully responsive touchscreen and clear display can usually keep being used short-term, though it's not risk-free. Sharp glass edges can cut fingers, and over time grit works its way into cracks and widens them.</p><p>It gets riskier once the digitizer (the touch-sensing layer) is damaged. Signs of this include dead spots where taps don't register, ghost touches where the screen reacts on its own, or areas that only work intermittently. At this point the phone becomes frustrating and sometimes unsafe to rely on for things like typing a PIN or making an emergency call.</p><p>A screen that's split open at the edges is also a concern because it compromises whatever dust and water resistance the phone originally had, leaving the internals more exposed to everyday moisture and debris.</p><blockquote>If in doubt, treat a non-responsive or visually distorted screen as more urgent than one that's merely cosmetically cracked.</blockquote>"
+    },
+    {
+      "heading": "Phone screen repair vs replacing the whole device",
+      "html": "<p>Whether it makes more sense to repair the screen or replace the phone outright comes down to the device's age, its condition otherwise, and how the repair cost compares to the phone's remaining value.</p><p>A newer or flagship phone that's otherwise in great condition is usually worth repairing — screen replacement is a well-established repair for almost every popular model. An older phone nearing the end of its supported software updates, or one that already has other issues like poor battery life or a cracked back, is a better candidate for replacement, since you'd be spending on a screen for a device that may not last much longer anyway.</p><p>It's also worth checking whether your phone has insurance or a manufacturer warranty that covers accidental damage, since that can change the maths entirely before you pay out of pocket.</p>"
+    },
+    {
+      "heading": "What affects the cost of fixing a broken phone screen",
+      "html": "<p>Screen repair pricing is driven by a handful of consistent factors rather than being random. The device model and screen technology matter most — OLED and AMOLED panels generally cost more to replace than older LCD displays, and larger or curved-edge screens add further cost and handling complexity.</p><p>Whether the part is a genuine (OEM) panel or a quality aftermarket alternative also changes the price, as does whether the digitizer and frame are fused into one assembly or can be replaced separately. Labour time varies by model too — some phones are designed to be opened easily, while others require more disassembly.</p><p>Because pricing changes often and varies by repairer, it's worth checking a current, itemised price list for your specific model rather than going by a figure you've seen elsewhere.</p>"
+    },
+    {
+      "heading": "DIY screen repair kits: worth it?",
+      "html": "<p>DIY replacement screens and tool kits are widely sold online, but they come with real trade-offs. Opening a modern phone usually means dealing with strong adhesive, tiny connectors, and sometimes a battery sitting right next to the screen — all easy to damage without the right tools and experience.</p><p>On phones with features tied to the display, like Face ID or True Tone colour matching, a DIY or uncalibrated part swap can disable those features or trigger ongoing warnings. There's also no fallback if something goes wrong partway through — a damaged connector can turn a cracked screen into a phone that won't turn on at all.</p><p>DIY can suit confident, experienced hobbyists on older or lower-value devices, but for a daily-use phone, a professional repair is generally the lower-risk option.</p>"
+    }
+  ],
+  "table": null,
+  "faq": [
+    {"q": "How can you fix a cracked phone screen?", "a": "<p>Most cracked phone screens are fixed by replacing the glass/digitizer assembly (and sometimes the full display) with a new unit, either through a professional repairer or, for the technically confident, a DIY kit. The exact process depends on the phone model and whether the display itself or just the outer glass is damaged.</p>"},
+    {"q": "Can a shattered phone screen be repaired?", "a": "<p>Yes, in almost all cases a shattered screen can be replaced, even if the glass is in many pieces, as long as the underlying connectors and logic board haven't also been damaged in the same impact.</p>"},
+    {"q": "Is it bad to use a phone with a cracked screen?", "a": "<p>It's not immediately dangerous for light cosmetic cracks, but it carries real risks: cuts from glass shards, a screen that stops responding to touch, and moisture or dust getting into the phone through gaps in the glass.</p>"},
+    {"q": "Why do phone screens crack so easily?", "a": "<p>Modern phone screens use thin glass over a touch-sensing layer, and most cracking happens from drop impacts concentrated on a corner or edge, where the glass has the least support.</p>"},
+    {"q": "Can a chipped phone screen get worse over time?", "a": "<p>Yes, a small chip can spread into larger cracks over time from everyday pressure, temperature changes, and grit trapped against the glass, so it's worth addressing even if it isn't affecting the display yet.</p>"}
+  ],
+  "word_count_estimate": 820
+}

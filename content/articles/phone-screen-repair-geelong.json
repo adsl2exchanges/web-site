@@ -1,0 +1,79 @@
+{
+  "title": "Phone, iPad and Mac Repairs in Geelong: One Guide",
+  "meta_title": "Phone, iPad and Mac Repairs in Geelong",
+  "meta_description": "Need a phone, iPad or Mac repaired in Geelong? Compare how screen repair differs across devices, what drives cost, and how to choose the right repairer.",
+  "intro_html": "<p>Phones, iPads and Macs all suffer the same kinds of damage — cracked screens, failing batteries, worn ports — but the repair process, timing and cost differ by device, so it helps to know which type of repairer is best suited to your specific device before you book. Geelong, as Victoria's second-largest city, generally has a good spread of options across all three categories.</p>",
+  "key_takeaways": [
+    "Phone, iPad and Mac screen repairs use different tools and techniques, even though the damage can look similar.",
+    "A generalist repairer that handles all device types can be convenient, but a specialist may have an edge on less common faults.",
+    "iPads and Macs usually need a longer diagnostic process than phones because they're harder to open and inspect.",
+    "Back up any device before handing it over, since some repairs risk data loss.",
+    "Always confirm whether a repairer has experience with your specific device type, not just devices in general."
+  ],
+  "sections": [
+    {
+      "heading": "Why the device type changes the repair process",
+      "html": "<p>A phone screen is typically a tightly sealed, compact assembly that can often be swapped within a few hours once a repairer has practice with that model. iPad screens are usually bonded more extensively to the frame and body, making them more time-consuming and a little more prone to cracking during removal if not handled carefully. Mac screens and logic boards involve more components packed into a thin body, and issues like liquid damage or a failing logic board often need proper diagnostic time before a repairer can even quote accurately.</p><p>Knowing this helps set realistic expectations — a phone screen quote in an hour is normal, while a Mac diagnostic quote might reasonably take a day.</p>"
+    },
+    {
+      "heading": "Generalist repairer or device specialist?",
+      "html": "<p>Many repair businesses in a city the size of Geelong handle phones, tablets and laptops under one roof, which is convenient if you own multiple Apple or Android devices. The trade-off is that a generalist may have less depth of experience with a less common fault — like Mac logic board micro-soldering — than a business that focuses specifically on computers.</p><p>If your fault is a standard screen or battery issue, a generalist is usually perfectly capable. For anything unusual or board-level, it's worth asking directly how often they see that specific type of repair.</p>"
+    },
+    {
+      "heading": "What drives the cost across different devices?",
+      "html": "<p>Across all three device types, cost is driven by the model, whether genuine or aftermarket parts are used, and how much of the device is affected beyond the obvious fault. Macs and iPads tend to involve more labour time for diagnosis and reassembly than phones, which can affect the total even when the part itself isn't dramatically more expensive. Because pricing varies so much by device and damage extent, check a current, itemised price list for your specific model rather than assuming repairs cost the same across device types.</p>"
+    },
+    {
+      "heading": "Why backing up matters more for tablets and computers",
+      "html": "<p>A phone repair rarely touches your data directly, but Mac and iPad repairs — especially anything involving the logic board, storage or a full device reset — can risk data loss. Back up your Mac with Time Machine or a cloud service, and make sure your iPad is synced to iCloud or another backup, before handing either over for repair.</p><p>It's a simple step that costs nothing and avoids a genuinely stressful outcome if something does go wrong during the repair.</p>"
+    },
+    {
+      "heading": "How to compare repairers across device types",
+      "html": "<p>Ask whether the business regularly repairs your specific device type, what warranty applies, and whether they use genuine or aftermarket parts. Get two or three quotes if the job is significant, and check recent reviews for the specific type of repair you need rather than the business's reviews in general, since a shop can be excellent with phones but less experienced with Macs, or vice versa.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Device repair at a glance: phone vs iPad vs Mac",
+    "headers": [
+      "Device",
+      "Typical screen repair time",
+      "What to check first"
+    ],
+    "rows": [
+      [
+        "Phone",
+        "Often a few hours with part in stock",
+        "Whether the part is genuine or aftermarket"
+      ],
+      [
+        "iPad",
+        "Usually longer due to bonded glass/frame",
+        "Experience with tablet-specific repairs"
+      ],
+      [
+        "Mac",
+        "Varies — diagnostic often needed first",
+        "Data backup and logic board experience"
+      ]
+    ]
+  },
+  "faq": [
+    {
+      "q": "Can the same shop fix my phone and my Mac?",
+      "a": "<p>Many repair businesses handle both, but it's worth asking specifically how often they repair Macs versus phones, since the skill sets and tools involved differ.</p>"
+    },
+    {
+      "q": "Is iPad screen repair different from phone screen repair?",
+      "a": "<p>Yes — iPad screens are generally more bonded to the body and take longer to remove safely, which usually makes the repair process slower than a typical phone screen swap.</p>"
+    },
+    {
+      "q": "Do Apple computers need an Apple-authorised repairer?",
+      "a": "<p>Not necessarily, but an Authorised Service Provider is the safer choice if your Mac is still under warranty or AppleCare, since using one preserves that cover and guarantees genuine parts.</p>"
+    },
+    {
+      "q": "Should I back up my iPad before a screen repair?",
+      "a": "<p>It's a sensible precaution for any iPad or Mac repair, since some repairs can involve resetting the device or risk to stored data, even if the fault itself seems purely physical.</p>"
+    }
+  ],
+  "word_count_estimate": 849
+}

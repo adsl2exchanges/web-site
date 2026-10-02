@@ -1,0 +1,52 @@
+{
+  "title": "Licensed Battery Replacement Near You: What It Means",
+  "meta_title": "Licensed Battery Replacement: What to Know",
+  "meta_description": "What does a licensed or authorised battery replacement near you actually mean? Here's how it differs from independent repair, and the warranty implications.",
+  "intro_html": "<p>A licensed or authorised battery replacement generally means the repair is carried out by a business approved by the phone's manufacturer, using genuine parts, which preserves any remaining manufacturer warranty on the device. An independent, unlicensed repairer can do the same physical job, often at a lower cost, but typically does not carry that manufacturer approval and may affect your remaining warranty cover.</p><p>This covers what licensed or authorised actually means in practice, how it compares with independent repair, and how to decide which is right for your situation.</p>",
+  "key_takeaways": [
+    "\"Licensed\" or \"authorised\" generally refers to a repairer approved by the device manufacturer, trained to their standards and using genuine parts",
+    "Authorised repairs typically preserve a device's remaining manufacturer warranty or extended care plan; independent repairs often don't",
+    "Independent repairers can be just as skilled and are often faster or cheaper, but usually use third-party or refurbished parts",
+    "Genuine batteries match the manufacturer's original specifications; third-party batteries vary in quality between suppliers",
+    "Whether to choose licensed or independent repair mainly comes down to your device's warranty status and how much that cover is worth to you"
+  ],
+  "sections": [
+    {
+      "heading": "What does a \"licensed\" battery replacement actually mean?",
+      "html": "<p>In most cases, this refers to a repairer who is officially authorised by the device manufacturer — for example, an Apple Authorised Service Provider for iPhones and iPads, or a manufacturer-approved repair network for Android devices. These businesses are trained to the manufacturer's repair standards, use genuine parts sourced through official channels, and follow specific diagnostic and repair procedures set by the manufacturer.</p><p>This is different from a business simply being a licensed operator in the general small-business sense (holding standard trading licenses) — in the context of battery replacement, \"licensed\" almost always implies manufacturer authorisation specifically.</p>"
+    },
+    {
+      "heading": "How does authorised repair affect your warranty?",
+      "html": "<p>Getting a battery replaced through an authorised repairer generally preserves any remaining manufacturer warranty or extended care plan (such as AppleCare+) on the device, since the repair is considered to meet the manufacturer's own standards. Using an independent, unauthorised repairer for the same job can void the remaining warranty on that specific component, and in some cases on the device more broadly, depending on the manufacturer's terms.</p><p>If your phone or tablet is still within its warranty period, it's worth checking the manufacturer's specific policy before choosing an independent repairer, so you know exactly what you might be giving up.</p>"
+    },
+    {
+      "heading": "What's the practical difference between genuine and third-party batteries?",
+      "html": "<p>A genuine battery is manufactured to the device maker's exact specifications and is what an authorised repairer will typically use. A third-party battery is made by a different manufacturer to a broadly compatible standard, and quality varies considerably between suppliers — some perform very close to genuine, while lower-quality options may degrade faster or affect battery health reporting accuracy.</p><p>Independent repairers sometimes offer a choice between a cheaper third-party battery and a pricier genuine-equivalent option, so it's worth asking specifically which one is being quoted.</p>"
+    },
+    {
+      "heading": "When does it make sense to choose an independent repairer instead?",
+      "html": "<p>If your device is already out of warranty, an independent repairer is often a perfectly reasonable choice, and can be faster and less expensive than going through an authorised channel. Many independent repairers are highly experienced and offer their own warranty on the work, even without manufacturer authorisation.</p><p>The main scenario where authorised repair clearly matters is when preserving an active warranty or care plan is valuable to you, or when you specifically want a battery that matches the manufacturer's exact original specification.</p>"
+    },
+    {
+      "heading": "How do you choose between licensed and independent options near you?",
+      "html": "<p>Start by checking your device's current warranty status — if it's still covered, weigh the value of that cover against any price or speed advantage of going independent. Either way, ask the same core questions: is the battery genuine or third-party, what warranty applies to the repair itself, and how is the work guaranteed if something goes wrong afterwards.</p><p>Because pricing varies by repairer, device and part type, it's worth checking a current, itemised price list rather than assuming authorised repair is always the more expensive option — in some cases it isn't.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Licensed/authorised vs independent battery replacement",
+    "headers": ["Factor", "Licensed/authorised repairer", "Independent repairer"],
+    "rows": [
+      ["Parts used", "Genuine manufacturer parts", "Often third-party or refurbished"],
+      ["Effect on manufacturer warranty", "Preserves remaining cover", "Can void remaining cover on that part"],
+      ["Typical turnaround", "Can vary, sometimes sent away", "Often faster for common repairs"],
+      ["Best fit for", "Devices still under warranty/care plan", "Out-of-warranty devices"]
+    ]
+  },
+  "faq": [
+    {"q": "What does licensed battery replacement mean?", "a": "<p>It generally means the repair is done by a business authorised by the device manufacturer, using genuine parts and following the manufacturer's repair standards.</p>"},
+    {"q": "Does an independent repairer void my warranty?", "a": "<p>It can void the remaining warranty on the specific part or component repaired, depending on the manufacturer's policy, so it's worth checking before booking if your device is still covered.</p>"},
+    {"q": "Is a licensed battery replacement service worth the extra cost?", "a": "<p>It's worth it if your device is still under warranty or you specifically want a genuine part, but for an out-of-warranty device an independent repairer is often a reasonable, lower-cost alternative.</p>"},
+    {"q": "How do I find a licensed battery replacement service near me?", "a": "<p>Check the device manufacturer's website for an authorised service provider locator, which lists businesses officially approved to carry out warranty-preserving repairs.</p>"}
+  ],
+  "word_count_estimate": 800
+}

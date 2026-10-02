@@ -1,0 +1,42 @@
+{
+  "title": "Screen Replacement: The Complete Overview",
+  "meta_title": "Screen Replacement: Complete Overview",
+  "meta_description": "A complete overview of screen replacement for phones, tablets, and laptops — how it works, what affects cost, and how to choose the right repair option.",
+  "intro_html": "<p>Screen replacement is the process of swapping a cracked, damaged, or faulty display on a phone, tablet, or laptop for a new one, and it's one of the most common device repairs performed today. While the core idea is the same across devices, the exact process, part options, and cost factors differ quite a bit between a phone, an iPad, and a laptop.</p><p>This overview covers what screen replacement involves generally, and points you toward the specific considerations for different device types.</p>",
+  "key_takeaways": [
+    "Screen replacement generally means swapping the display (and often the touch-sensing digitizer) as a single assembly, not just the outer glass.",
+    "Phones and tablets almost always fuse the glass and digitizer together, while laptops often allow the panel to be replaced on its own.",
+    "Screen technology (LCD, OLED, AMOLED) is one of the biggest factors in both repair cost and part availability.",
+    "Genuine manufacturer parts generally preserve features like True Tone or colour calibration better than aftermarket alternatives, but cost more.",
+    "The right choice between repair and replacement of the whole device depends on the device's age, condition, and how much life it has left."
+  ],
+  "sections": [
+    {
+      "heading": "What does screen replacement actually involve?",
+      "html": "<p>At its core, screen replacement means removing a damaged display assembly from a device and fitting a new, compatible one. What counts as \"the screen\" varies by device: on most phones and tablets, the outer glass, the touch-sensing digitizer layer, and the display panel underneath are fused into a single unit, so even a small crack usually means replacing the whole assembly.</p><p>Laptops are often more modular — many allow just the LCD or LED panel to be swapped out, with the bezel, webcam, and frame remaining separate and reusable. Some slimmer or higher-end laptops (and most MacBooks) move closer to the phone/tablet model, with the whole lid assembly, including camera, bonded together as one part.</p><p>Across all device types, a professional repair also typically involves matching connectors correctly, handling delicate ribbon cables without damage, and resealing or reassembling the device so dust and moisture protection is restored as closely as possible to original.</p>"
+    },
+    {
+      "heading": "How screen replacement differs across device types",
+      "html": "<p>While the general process is similar, each device category has its own quirks worth knowing before you get a repair:</p><ul><li><strong>Phones:</strong> Glass and digitizer are almost always fused; screen technology ranges from LCD in budget models to OLED/AMOLED in flagships, with curved-edge AMOLED screens adding extra cost and handling complexity. Face ID, fingerprint sensors, and True Tone (where applicable) can be affected by non-genuine parts or poor calibration.</li><li><strong>Tablets (including iPads):</strong> Similar to phones but with larger, often pricier glass-and-digitizer assemblies. iPads with Face ID face the same sensor considerations as iPhones.</li><li><strong>Laptops:</strong> Often allow panel-only replacement, keeping cost lower; some premium ultrabooks and most MacBooks require a full lid assembly swap instead.</li></ul><p>Knowing which category your device falls into helps set realistic expectations before you even get a quote.</p>"
+    },
+    {
+      "heading": "What affects the cost of any screen replacement",
+      "html": "<p>Regardless of device type, a consistent set of factors drives screen replacement cost. Screen technology matters most broadly — LCD is generally the most affordable, OLED and AMOLED cost more, and curved or high-refresh-rate panels cost more again.</p><p>Part sourcing matters too: current, high-volume models tend to have more competitively priced parts than older or niche devices where supply is limited. Whether genuine (OEM) or aftermarket parts are used also shifts price, with genuine parts generally commanding a premium in exchange for better long-term reliability and feature compatibility.</p><p>Finally, labour complexity differs by design — a screen held in with a few screws and clips is quicker and cheaper to replace than one bonded with strong adhesive alongside fused batteries or sensors. Because pricing moves often and varies between repairers, it's worth checking a current, itemised price list for your specific device rather than going by a general figure.</p>"
+    },
+    {
+      "heading": "OEM vs aftermarket screens: the general trade-off",
+      "html": "<p>Across phones, tablets, and laptops, genuine manufacturer parts are built to the exact original specification, which generally means the most accurate colour reproduction, consistent touch response, and the best chance of preserving features tied to the display, such as True Tone or ambient light sensing.</p><p>Quality aftermarket parts can be a reasonable, more affordable alternative, though quality varies more between suppliers. Budget aftermarket parts at the lowest price point are more likely to show visible compromises — duller colours, less accurate touch at the edges, or lower long-term durability.</p><p>For any device where display-linked features like facial recognition or ambient light sensors matter to you, it's worth specifically confirming with your repairer whether those features are expected to work fully afterwards.</p>"
+    },
+    {
+      "heading": "Repair vs replacing the whole device",
+      "html": "<p>Whether a screen replacement is worthwhile or whether it's time to replace the whole device depends on the device's age, condition, and remaining useful life. A device that's otherwise fast, holds a good battery charge, and still receives software updates is generally a strong candidate for a screen repair.</p><p>An older device already showing other signs of wear — a degraded battery, slow performance, or an end to software support — may be better retired rather than repaired, since the screen cost is effectively being spent on a device with limited life left regardless.</p>"
+    }
+  ],
+  "table": null,
+  "faq": [
+    {"q": "What is involved in a screen replacement?", "a": "<p>Screen replacement involves removing the damaged display assembly from a device and fitting a new, compatible one, which on most phones and tablets means the glass, digitizer, and display together, and on many laptops can mean just the panel itself.</p>"},
+    {"q": "Is screen replacement the same for phones, tablets, and laptops?", "a": "<p>The general concept is the same, but the details differ — phones and tablets almost always replace a fused glass-and-digitizer assembly, while laptops more often allow just the panel to be swapped, except for most MacBooks and some ultrabooks which use a full lid assembly.</p>"},
+    {"q": "What makes one screen replacement more expensive than another?", "a": "<p>Screen technology (LCD vs OLED vs AMOLED), whether genuine or aftermarket parts are used, and how complex the device is to open and reassemble are the main factors that drive cost differences between repairs.</p>"}
+  ],
+  "word_count_estimate": 800
+}

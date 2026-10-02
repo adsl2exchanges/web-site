@@ -1,0 +1,56 @@
+{
+  "title": "iPhone 6 & 6s Screen Replacement: What You Need to Know",
+  "meta_title": "iPhone 6 / 6s Screen Replacement Guide",
+  "meta_description": "iPhone 6 and 6s screen replacement explained: parts availability, LCD vs OEM options, Touch ID considerations, and whether it's worth repairing.",
+  "intro_html": "<p>Replacing an iPhone 6 or 6s screen is one of the simplest and cheapest smartphone screen repairs available today, because both phones use an older, widely produced LCD panel with years of aftermarket supply behind it. The main decisions are whether the phone is worth repairing at all given its age, and which grade of replacement screen to choose.</p>",
+  "key_takeaways": [
+    "The iPhone 6 and 6s use an LCD display, not OLED, which is simpler and cheaper to manufacture and replace than screens on newer iPhones.",
+    "Because these models have been out of production for years, aftermarket and refurbished parts are extremely plentiful, which keeps this repair relatively inexpensive and fast compared with current-generation phones.",
+    "Screen quality still varies between suppliers — colour accuracy, touch sensitivity, and lamination quality differ across cheap, mid-range, and OEM-grade LCDs.",
+    "On the 6s specifically, 3D Touch functionality depends on the digitizer layer, so a budget replacement screen can disable or degrade pressure-sensitive touch.",
+    "Given the phone's age, it's worth weighing the cost of a screen repair against the phone's remaining useful life and current software support before booking."
+  ],
+  "sections": [
+    {
+      "heading": "What kind of screen does the iPhone 6/6s use?",
+      "html": "<p>Both the iPhone 6 and 6s use an LCD (Liquid Crystal Display) with a separate digitizer layer for touch, fused together as one front assembly. This is a simpler construction than the OLED panels used in iPhone X and later models, which makes manufacturing replacement parts cheaper and more straightforward.</p><p>The 6s added 3D Touch, a pressure-sensitive layer behind the glass that detects how hard you're pressing. This is unique to the 6s (the standard iPhone 6 doesn't have it), and it's a detail worth knowing before you replace a 6s screen, since not every replacement part preserves this feature to the same standard.</p>"
+    },
+    {
+      "heading": "Why this repair is cheap and widely available",
+      "html": "<p>The iPhone 6 launched in 2014 and the 6s in 2015, meaning both have been off the market for close to a decade. That long production run and huge original sales volume means the global supply of replacement screens, both new aftermarket and pulled from donor phones, is large and mature. Repairers have had years to refine sourcing and the repair process itself, which keeps turnaround times short.</p><p>This is in contrast to very new or very niche phones, where limited part availability can push cost and wait times up. For the 6 and 6s, screens are about as commoditised as phone parts get.</p>"
+    },
+    {
+      "heading": "Screen quality tiers: what actually differs",
+      "html": "<p>Even on an older phone, replacement LCDs aren't all equal. Entry-level aftermarket screens can show slightly washed-out colours, dimmer maximum brightness, or less responsive touch at the very edges of the glass. Mid-range and OEM-grade (or genuine pulled) screens more closely match the original display's colour and brightness and are less likely to have touch-response quirks.</p><p>On a 6s, ask specifically whether 3D Touch is retained with the quoted part — some budget screens omit or disable it even though the rest of the display works fine.</p>"
+    },
+    {
+      "heading": "Is it worth repairing an iPhone 6 or 6s in 2026?",
+      "html": "<p>Given the age of these phones, it's reasonable to ask whether a screen repair is worthwhile at all. Both models are long past Apple's current iOS update cycle, which limits access to the newest apps and security patches. If the phone is otherwise healthy — good battery, no other hardware issues — a screen repair can still be a sensible, low-cost way to keep a backup phone, kids' device, or secondary device going.</p><p>Because parts are cheap and plentiful, the repair cost is typically low relative to current iPhones, so the main consideration is really about the phone's remaining usefulness rather than repair economics.</p>"
+    },
+    {
+      "heading": "DIY vs professional replacement",
+      "html": "<p>The iPhone 6/6s screen is one of the more DIY-friendly iPhone repairs: it's a well-documented process, opening tools and replacement kits are cheap and common, and the internal layout is simpler than on Face ID-equipped iPhones (there's no TrueDepth sensor array to worry about). A careful, patient DIYer with the right tools can usually manage this repair.</p><p>That said, there are still risks: damaging the home button/Touch ID cable (which is paired to the logic board and can't simply be swapped from a donor phone), tearing the battery connector cable, or cracking the new glass during reassembly. If you're not confident, a professional repair avoids these risks for a small cost premium.</p>"
+    },
+    {
+      "heading": "What affects the price of this repair",
+      "html": "<p>Even though parts are cheap, price can still vary based on the screen grade chosen (budget aftermarket vs OEM-grade), whether the home button/Touch ID assembly needs transferring, and local labour rates. Because pricing changes over time and between repairers, it's worth checking a current, itemised price list for your exact model rather than relying on a number you've seen elsewhere.</p>"
+    }
+  ],
+  "table": {
+    "caption": "iPhone 6 vs iPhone 6s screen differences",
+    "headers": ["Feature", "iPhone 6", "iPhone 6s"],
+    "rows": [
+      ["Display type", "LCD", "LCD"],
+      ["3D Touch", "No", "Yes"],
+      ["Touch ID", "1st generation", "1st generation"],
+      ["Typical part availability", "Very high", "Very high"]
+    ]
+  },
+  "faq": [
+    {"q": "How much does it cost to replace an iPhone 6 screen?", "a": "<p>Cost depends on the screen grade chosen and the repairer's labour rates, but because the iPhone 6 and 6s use a widely available LCD panel, this is generally one of the cheapest screen repairs among iPhones. Check a current, itemised price list for an exact figure.</p>"},
+    {"q": "How do I change an iPhone 6s screen myself?", "a": "<p>DIY replacement involves removing the two bottom screws, lifting the display using suction and prying tools, disconnecting the battery first for safety, then disconnecting and transferring the display and home button cables to the new screen before reassembling. Detailed step-by-step guides and repair kits are widely available given how common this repair is.</p>"},
+    {"q": "Does replacing the screen affect Touch ID on an iPhone 6 or 6s?", "a": "<p>Only if the home button cable is damaged during the repair or not transferred correctly — Touch ID is tied to the specific home button it was originally paired with and can't be swapped between phones.</p>"},
+    {"q": "Is it worth fixing an iPhone 6 screen in 2026?", "a": "<p>If the phone is otherwise in good condition, a screen repair is usually low-cost given plentiful parts, making it reasonable for a backup or secondary device, though its age means limited current software support should factor into the decision.</p>"}
+  ],
+  "word_count_estimate": 830
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Battery Replacements Near You: How to Decide and Choose",
+  "meta_title": "Battery Replacements Near You: A Decision Guide",
+  "meta_description": "Not sure if you need a battery replacement, or who should do it? Here's how to tell it's time and how to pick a repairer, without guessing at prices.",
+  "intro_html": "<p>You generally need a battery replacement once your phone no longer gets through a normal day on one charge, shuts down unexpectedly at higher percentages, or shows a clearly reduced battery health reading in settings. Finding somewhere to do it is the easier part — the more useful question is how to choose between the options near you.</p><p>This guide covers both sides: the signs that confirm it's actually the battery, and how to compare repairers so you don't just pick on price alone.</p>",
+  "key_takeaways": [
+    "Check your phone's built-in battery health setting first — it often confirms the problem before you book anything",
+    "Unexpected shutdowns at 20-30% remaining charge are a classic sign of a degraded battery, not necessarily a software fault",
+    "Authorised/manufacturer-approved repairers and independents both have a place — the right choice depends on your device's age and warranty status",
+    "Ask about warranty length and part type (genuine vs third-party) before comparing any two quotes",
+    "Back up your phone before any repair, even though a battery swap rarely affects stored data"
+  ],
+  "sections": [
+    {
+      "heading": "How do you know it's actually the battery?",
+      "html": "<p>Before booking a repair, rule out other causes. Check your battery health setting (Battery Health & Charging on iPhone, or Battery settings on most Android phones) — a clearly reduced maximum capacity is a strong confirmation. Other telltale signs include the phone dying well before the percentage reaches zero, the battery draining noticeably faster than it used to for the same daily use, or the device feeling warm during light tasks.</p><p>If the phone won't turn on at all, or only charges intermittently, the issue could instead be the charging port, cable, or a software fault — worth a quick check before assuming it's the battery specifically.</p>"
+    },
+    {
+      "heading": "Authorised repairer vs independent: which should you choose?",
+      "html": "<p>If your phone is still under manufacturer warranty or an extended care plan, going through an authorised or manufacturer-approved repairer usually preserves that cover and guarantees a genuine battery. If the phone is out of warranty, an independent repairer can often do the same job faster and at a lower cost, using either genuine or quality third-party parts.</p><p>Neither option is automatically better — it depends on your specific phone's warranty status, how much you value using a genuine part, and how quickly you need the phone back.</p>"
+    },
+    {
+      "heading": "What affects the cost of a battery replacement?",
+      "html": "<p>Cost is driven by the device model, the battery's size and chemistry, whether you choose a genuine manufacturer battery or a third-party alternative, and the complexity of opening that particular phone (water-resistant models with strong adhesive seals generally take longer to service). None of these factors produce a single fixed number across all repairers, which is why prices vary.</p><p>Because pricing changes often and differs by repairer, it's worth checking a current, itemised price list for your exact model rather than relying on a figure you heard secondhand.</p>"
+    },
+    {
+      "heading": "What should you ask before booking?",
+      "html": "<p>Ask whether the battery is genuine or third-party, how long the warranty on the repair lasts, whether the work is done on-site while you wait or sent away, and whether there's a diagnostic fee if the battery turns out not to be the actual fault. A repairer who answers all of these clearly and consistently is generally a safer bet than one who only quotes a headline number.</p><p>It's also reasonable to ask how they test the phone afterwards — a thorough repairer checks charging speed, overall battery behaviour and that nothing else was disturbed during the job.</p>"
+    },
+    {
+      "heading": "Is it worth replacing the battery instead of buying a new phone?",
+      "html": "<p>In most cases, yes, provided the rest of the phone — screen, cameras, charging port, overall performance — is still in good shape. A battery replacement is typically a far smaller job than buying and setting up a new device, and it directly fixes the exact problem you're experiencing.</p><p>It's less worth it if the phone also has other hardware issues, is several years behind on software updates, or if you were already planning to upgrade soon regardless of battery condition.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Signs it's the battery vs a different problem",
+    "headers": ["Symptom", "Likely cause"],
+    "rows": [
+      ["Phone dies well before 0% shown", "Degraded battery"],
+      ["Battery drains much faster than before for the same use", "Degraded battery or a misbehaving app"],
+      ["Phone won't charge at all or only intermittently", "Charging port, cable or power adapter"],
+      ["Phone gets warm just sitting idle", "Could be battery, could be a background app or process"],
+      ["Battery health reading well below original capacity", "Degraded battery"]
+    ]
+  },
+  "faq": [
+    {"q": "How much is a battery replacement?", "a": "<p>Cost depends on the phone model, whether the battery is genuine or third-party, and the repairer, so it's best to check a current, itemised price list for your specific device rather than a general figure.</p>"},
+    {"q": "How do I find battery replacement near me?", "a": "<p>Start by checking whether your phone is still under warranty, which points you toward an authorised repairer; if it's out of warranty, compare at least two independent repairers on warranty length and part type before booking.</p>"},
+    {"q": "How much does a new battery cost for a phone?", "a": "<p>There's no single figure — it varies by device model, battery type, and whether you choose a genuine or third-party part, so check an up-to-date price list for your exact phone.</p>"},
+    {"q": "Do I need to back up my phone before a battery replacement?", "a": "<p>It's good practice even though a battery swap rarely affects stored data, since it protects you in case anything unexpected needs attention during the repair.</p>"}
+  ],
+  "word_count_estimate": 800
+}

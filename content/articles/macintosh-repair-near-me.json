@@ -1,0 +1,52 @@
+{
+  "title": "Mac Repair Near You: What to Check Before You Book",
+  "meta_title": "Mac Repair Near You: What to Check First",
+  "meta_description": "Need Mac repair or a MacBook battery replacement near you? Here's how Apple Authorised providers differ from independents, and what to ask first.",
+  "intro_html": "<p>The right Mac repairer for you depends on whether you want to keep your device under Apple's warranty or AppleCare+, how old your Mac is, and whether the job is a simple battery swap or something more involved. Both Apple Authorised Service Providers and independent repairers can carry out most MacBook repairs — the real differences are in the parts used, the warranty terms, and how the job affects your existing Apple cover.</p><p>This guide covers how to tell when a MacBook needs a new battery, what separates an authorised repairer from an independent one, and how to protect your data before any repair.</p>",
+  "key_takeaways": [
+    "Apple Authorised Service Providers use genuine parts and keep any remaining Apple warranty or AppleCare+ intact; independents often don't",
+    "A MacBook battery showing \"Service Recommended\" in Battery settings is degrading faster than normal, but it doesn't mean it will fail immediately",
+    "Back up with Time Machine or iCloud before any Mac repair, since some jobs involve a software reset",
+    "Newer MacBooks have the battery glued into the case rather than held with screws, which adds labour time to a replacement compared with older models",
+    "Always confirm whether a quote uses a genuine Apple battery or a third-party equivalent before comparing repairers"
+  ],
+  "sections": [
+    {
+      "heading": "What's the difference between an Apple Authorised Service Provider and an independent repairer?",
+      "html": "<p>An Apple Authorised Service Provider (AASP) is a business Apple has trained and certified to repair Mac hardware to Apple's own standards, using Apple-sourced parts and diagnostic tools. Repairs done through an AASP generally preserve any remaining Apple limited warranty or AppleCare+ cover, which matters if your Mac is still relatively new.</p><p>An independent repairer isn't affiliated with Apple but can be just as capable, often at a lower cost and with faster turnaround for common jobs like battery or screen replacement. The trade-off is that independent repairs typically use third-party or refurbished parts and can void any remaining Apple warranty on the component that was touched.</p><p>For an older Mac that's long out of warranty, the choice usually comes down to price, convenience and how much you trust the specific repairer. For a newer Mac still under AppleCare+, going through an AASP (or Apple directly) usually makes more sense.</p>"
+    },
+    {
+      "heading": "How do you know your MacBook needs a new battery?",
+      "html": "<p>macOS has a built-in battery health check: open Settings (or System Preferences on older macOS), go to Battery, then Battery Health, and look for a status of \"Service Recommended\" rather than \"Normal\". This appears once the battery's maximum capacity has dropped enough to noticeably affect runtime.</p><p>Other signs include unexpected shutdowns even when the battery shows charge remaining, a MacBook that only lasts a fraction of its original runtime, or the battery icon reporting significantly less time remaining than it used to for the same tasks.</p><p>A swollen battery is a more urgent sign — if the trackpad feels like it's lifting on one side, or the bottom case no longer sits flat, stop using the laptop and have it looked at promptly rather than continuing to charge and use it.</p>"
+    },
+    {
+      "heading": "What affects the cost of a MacBook or Mac battery replacement?",
+      "html": "<p>Several things drive the cost rather than a single flat fee. The model and age of your Mac matters — older MacBooks with a screw-in battery are generally quicker and cheaper to service than newer models, where the battery is glued into the chassis and the whole lower case often needs careful adhesive removal.</p><p>Whether the replacement part is a genuine Apple battery or a third-party equivalent also affects price, as does whether your Mac is still covered by AppleCare+ (which typically covers battery replacement if health has dropped below Apple's threshold). Because pricing varies by model and changes over time, it's worth checking a current, itemised price list for your exact MacBook rather than going by a figure you saw elsewhere.</p>"
+    },
+    {
+      "heading": "Should you back up your Mac before a repair?",
+      "html": "<p>Yes, as a default habit for any repair, even a battery swap that shouldn't touch your data. Use Time Machine to an external drive, or make sure your important files are synced to iCloud, before you hand your Mac over.</p><p>A straightforward battery replacement doesn't usually require erasing the drive, but some repairs — particularly anything involving the logic board, SSD or a factory diagnostic reset — can affect stored data. Having a recent backup means you're covered regardless of what the repair actually requires, and it also protects you if something unrelated goes wrong during the job.</p>"
+    },
+    {
+      "heading": "How do you compare Mac repair quotes near you?",
+      "html": "<p>Ask each repairer the same set of questions so you're comparing like with like: is the part genuine Apple or third-party, what's the warranty length on the repair, is the work done on-site, and is there a diagnostic fee if the battery turns out not to be the actual problem.</p><p>For an older or discontinued Mac, also ask whether they can actually source the part — some vintage MacBook and Powerbook batteries are harder to find, and a repairer with low stock may quote a long lead time. A clear, specific answer to all of these questions is generally a better sign than the lowest headline number.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Apple Authorised Service Provider vs independent Mac repairer",
+    "headers": ["Factor", "Apple Authorised Service Provider", "Independent repairer"],
+    "rows": [
+      ["Parts used", "Genuine Apple parts", "Often third-party or refurbished parts"],
+      ["Effect on Apple warranty/AppleCare+", "Preserves remaining cover", "Can void remaining cover on that part"],
+      ["Typical turnaround", "Can involve sending away for some jobs", "Often faster for common repairs"],
+      ["Good fit for", "Newer Macs still under warranty", "Older, out-of-warranty Macs"]
+    ]
+  },
+  "faq": [
+    {"q": "How do I check my MacBook's battery health?", "a": "<p>Open Settings (System Preferences on older macOS), go to Battery, then Battery Health. It shows whether your battery's condition is Normal or whether servicing is recommended.</p>"},
+    {"q": "Can I replace a MacBook battery myself?", "a": "<p>On some older models with a screw-in battery it's possible with care and the right tools, but most modern MacBooks have a glued-in battery that's harder and riskier to remove safely without proper training and tools.</p>"},
+    {"q": "Does a MacBook battery replacement affect my files?", "a": "<p>No, it's a hardware-only job and shouldn't erase your data, but it's still good practice to back up before any repair in case something unrelated needs attention.</p>"},
+    {"q": "Is it worth getting a MacBook battery replaced instead of buying a new laptop?", "a": "<p>Often yes, if the rest of the machine is still performing well — a battery replacement is typically far less disruptive than replacing the whole device, and it can restore several hours of daily runtime.</p>"}
+  ],
+  "word_count_estimate": 820
+}

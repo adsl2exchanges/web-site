@@ -1,0 +1,52 @@
+{
+  "title": "Monitor Screen Repair: Is It Worth Fixing or Replacing?",
+  "meta_title": "Monitor Screen Repair: Worth It or Not?",
+  "meta_description": "Monitor screen repair explained: common panel problems, when repair makes sense, and why replacing the whole monitor is often the smarter option.",
+  "intro_html": "<p>In most cases, repairing a cracked or faulty monitor screen isn't worth it financially — the display panel is usually the single most expensive component in a monitor, often costing close to or more than buying an equivalent new or refurbished monitor outright. Repair can still make sense for specific situations, like a high-end professional or ultrawide display, but for typical budget-to-midrange monitors, replacement is usually the more practical choice.</p>",
+  "key_takeaways": [
+    "The LCD/LED panel itself typically represents the majority of a monitor's total value, so replacing just the panel is often not economical compared with buying a new monitor.",
+    "Not every monitor fault needs a panel replacement — cable, connector, backlight, and power supply issues can sometimes be fixed much more affordably than a full panel swap.",
+    "Repair is more likely to make financial sense on premium monitors (high-end colour-accurate, ultrawide, or specialty panels) where the monitor's value clearly exceeds typical panel replacement cost.",
+    "Physical screen damage (cracks, deep scratches on the panel itself) almost always requires a full panel replacement — there's no way to repair cracked LCD glass or an OLED panel in place.",
+    "Before assuming the panel is broken, it's worth ruling out simpler causes: a loose or damaged video cable, a failing graphics card, or incorrect display settings."
+  ],
+  "sections": [
+    {
+      "heading": "Is it worth repairing a monitor screen?",
+      "html": "<p>For most consumer and office monitors, no — the display panel is the most expensive single part inside the unit, frequently representing most of what the monitor originally cost. Sourcing a replacement panel, plus labour to fit it, commonly approaches or exceeds the cost of a new monitor with similar specs, especially for budget and midrange models where panel and monitor prices sit close together.</p><p>The calculation changes for higher-end monitors: a large colour-accurate professional display, a premium ultrawide, or a specialty panel (like a high-refresh gaming monitor or OLED monitor) may justify a panel repair because the monitor's overall value is still well above typical repair cost, and replacement units in that tier are expensive too.</p>"
+    },
+    {
+      "heading": "Common monitor screen problems and their real cause",
+      "html": "<p>Not every visual fault means the panel itself is damaged. Common symptoms and their usual sources:</p><ul><li><strong>Physical crack or shattered glass</strong> — almost always means the panel needs replacing; there's no reliable way to repair cracked LCD or OLED material.</li><li><strong>Dark or dim picture, visible only with a torch</strong> — often a backlight failure, which on many models is a separate, cheaper component than the full panel.</li><li><strong>Lines, flickering, or no picture at all</strong> — can be a damaged video cable, a failing graphics card or port, or a faulty connection inside the monitor rather than the panel itself.</li><li><strong>Dead or stuck pixels</strong> — usually a localised panel defect; a small number is often tolerated under warranty policies rather than repaired.</li></ul><p>Working through these possibilities before assuming the worst can save an unnecessary panel replacement.</p>"
+    },
+    {
+      "heading": "When panel replacement does make sense",
+      "html": "<p>Panel replacement is worth considering when the monitor is a high-value, hard-to-replace model — think large professional colour-grading displays, specialised multi-panel setups, or monitors still under manufacturer warranty where the panel swap is covered. It can also make sense if the rest of the monitor (stand, electronics, inputs) is in excellent condition and only the panel itself has failed, provided a compatible replacement panel is actually available, which isn't guaranteed for older or niche models.</p>"
+    },
+    {
+      "heading": "What drives the cost of monitor panel repair",
+      "html": "<p>Cost depends on panel size, resolution, and technology (standard LCD vs high-refresh gaming panel vs OLED), whether the exact matching panel is still manufactured or only available as a pulled/refurbished unit, and labour complexity for that monitor's design. Because these costs vary a lot by model and change over time, it's worth getting an itemised quote for your specific monitor before deciding, rather than assuming a flat cost.</p>"
+    },
+    {
+      "heading": "How to decide: repair or replace",
+      "html": "<p>A practical way to decide is to get a repair quote and compare it against the price of a new monitor with similar or better specifications. If the repair quote approaches a large share of a replacement monitor's cost, replacement usually makes more sense, since a new unit also comes with a fresh warranty and no risk of other ageing components failing soon after. If the monitor is a specialised or professional-grade model with no easy equivalent replacement, repair becomes more justifiable even at a higher cost.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Monitor fault vs likely cause",
+    "headers": ["Symptom", "Likely cause", "Usually needs full panel replacement?"],
+    "rows": [
+      ["Cracked or shattered screen", "Physical panel damage", "Yes"],
+      ["Dim image, visible only up close", "Backlight failure", "Not always"],
+      ["Flickering or no signal", "Cable, port, or graphics card issue", "No"],
+      ["Few dead or stuck pixels", "Localised panel defect", "Depends on warranty/tolerance"]
+    ]
+  },
+  "faq": [
+    {"q": "Can a cracked monitor screen be fixed?", "a": "<p>A cracked LCD or OLED panel can't be repaired in place and needs a full panel replacement, which is often not cost-effective compared with buying a new monitor of similar specification.</p>"},
+    {"q": "Is it worth fixing a computer monitor screen?", "a": "<p>Usually only for high-value professional or specialty monitors — for typical budget-to-midrange monitors, the panel itself is usually most of the monitor's value, so replacing just the panel rarely makes financial sense versus buying a new unit.</p>"},
+    {"q": "Why is my monitor screen black but the power light is on?", "a": "<p>This is commonly a cable, port, graphics card, or backlight issue rather than a cracked panel, so it's worth checking connections and trying a different cable or port before assuming the screen itself has failed.</p>"},
+    {"q": "How much does it cost to replace a monitor screen?", "a": "<p>Cost depends heavily on the monitor's size, panel technology, and part availability, and can be close to or more than a replacement monitor for standard models. Check an itemised quote for your specific monitor rather than relying on a general figure.</p>"}
+  ],
+  "word_count_estimate": 810
+}

@@ -1,0 +1,43 @@
+{
+  "title": "iPhone 6s Battery: Replacement Options Explained",
+  "meta_title": "iPhone 6s Battery Replacement Options",
+  "meta_description": "Looking for an iPhone 6s battery? Here's what to know about sourcing one, the 2016 shutdown recall, and whether DIY or professional repair suits you.",
+  "intro_html": "<p>If you need a replacement battery for an iPhone 6s, the main decision is genuine versus third-party part, and DIY versus professional fitting — the phone itself is old enough that original batteries have almost always degraded by now. One thing specific to this model worth knowing about is Apple's 2016 battery replacement program for a small batch of affected units, which is worth ruling out before assuming your battery is simply worn from age.</p><p>This covers that program, how to source a battery today, and what to weigh up between doing it yourself and going to a repairer.</p>",
+  "key_takeaways": [
+    "Apple ran a free battery replacement program in 2016-2018 for a limited batch of iPhone 6s units made in a specific window that could unexpectedly shut down",
+    "That program has long since ended, so most iPhone 6s owners today are replacing a battery that's simply degraded from age and use",
+    "The iPhone 6s uses a smaller battery capacity than the iPhone 6 due to internal space taken up by the Force Touch trackpad-style display mechanism",
+    "A battery swap on the iPhone 6s is considered relatively DIY-friendly compared with newer iPhones, but still carries real risk if mishandled",
+    "Genuine and quality third-party batteries are both viable options at this point in the phone's life, provided you're buying from a reputable source"
+  ],
+  "sections": [
+    {
+      "heading": "Was there a recall for the iPhone 6s battery?",
+      "html": "<p>In November 2016, Apple announced a free battery replacement program for a limited number of iPhone 6s units manufactured in a specific window between September and October 2015, after identifying that some of these units could unexpectedly shut down due to a battery component issue. This was never described as a safety recall, and affected only a small subset of devices, which Apple identified by serial number through a dedicated lookup tool at the time.</p><p>That program ended years ago, so if your iPhone 6s is having battery problems today, it's almost certainly ordinary age-related wear rather than the original fault the program addressed.</p>"
+    },
+    {
+      "heading": "How does the iPhone 6s battery compare with the iPhone 6?",
+      "html": "<p>The iPhone 6s has a modestly smaller battery capacity than the iPhone 6, largely because Apple used some of the internal space for the 3D Touch (Force Touch) mechanism added to the 6s display. In practice, Apple offset this with a more efficient chip, so real-world battery life between the two models was broadly similar when both phones were new.</p><p>This is mostly a historical curiosity at this point — what matters for a replacement today is finding a battery rated correctly for your specific model (6 and 6s batteries are not interchangeable), not the small capacity difference between them when new.</p>"
+    },
+    {
+      "heading": "Where should you source a replacement iPhone 6s battery?",
+      "html": "<p>If you're going through a repairer, ask whether they use a genuine Apple battery or a third-party equivalent, and what warranty applies to the part and the labour. If you're buying a battery for a DIY repair, stick to reputable suppliers — a very cheap, unbranded battery from an unverified seller carries a higher risk of poor quality cells, which can mean inaccurate battery percentage readings or faster-than-expected degradation.</p><p>Either way, confirm the battery is specifically listed for the iPhone 6s rather than the iPhone 6, since the two aren't interchangeable despite looking similar.</p>"
+    },
+    {
+      "heading": "Should you replace an iPhone 6s battery yourself?",
+      "html": "<p>The iPhone 6s battery swap is considered one of the more approachable DIY phone repairs, since the phone has no water-resistance seal to preserve and uses relatively simple adhesive pull-tabs to hold the battery in place. That said, the battery is still a pressurised lithium-ion cell — if a pull-tab snaps, don't pry or force it out, as puncturing or bending the battery is a genuine safety risk.</p><p>If you're not confident with small tools and ribbon cables, or the battery shows any sign of swelling, a professional repairer is the safer choice.</p>"
+    },
+    {
+      "heading": "Is it worth replacing the battery in an iPhone 6s today?",
+      "html": "<p>If the screen, buttons and charging port are all still working, a battery replacement is usually a cheap way to get meaningfully more life out of the phone, whether as a daily device for light use or as a reliable backup. Keep in mind the iPhone 6s is well past Apple's current software update support, so some newer apps may not run properly regardless of battery condition.</p>"
+    }
+  ],
+  "table": null,
+  "faq": [
+    {"q": "Is there a battery replacement program for the iPhone 6s?", "a": "<p>Apple ran one in 2016-2018 for a limited batch of units made in a specific window that could unexpectedly shut down, but that program has since ended.</p>"},
+    {"q": "Can I use an iPhone 6 battery in an iPhone 6s?", "a": "<p>No, the two models use different battery capacities and connectors suited to their specific internal layout, so batteries should be matched to the exact model.</p>"},
+    {"q": "Is it safe to replace an iPhone 6s battery myself?", "a": "<p>It's considered a relatively approachable DIY repair, but the battery is still pressurised, so it should never be punctured or forced out if the adhesive tabs fail to release it cleanly.</p>"},
+    {"q": "How long does an iPhone 6s battery typically last before replacement?", "a": "<p>Most iPhone 6s units are now old enough that their original battery has degraded meaningfully, regardless of how carefully they were used, simply due to age and accumulated charge cycles.</p>"}
+  ],
+  "word_count_estimate": 800
+}

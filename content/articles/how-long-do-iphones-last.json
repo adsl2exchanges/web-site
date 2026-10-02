@@ -1,0 +1,43 @@
+{
+  "title": "How Long Do iPhones Actually Last?",
+  "meta_title": "How Long Do iPhones Last? A Realistic Timeline",
+  "meta_description": "Most iPhones stay fully usable for around three to five years. Here's what actually limits an iPhone's lifespan, and how to stretch it further.",
+  "intro_html": "<p>Most iPhones remain fully usable for roughly three to five years before something — usually the battery, occasionally slowing software support, or simply changing needs — becomes the limiting factor. Many iPhones keep working well beyond that if the battery is replaced along the way.</p><p>How long any individual iPhone lasts depends less on a fixed number and more on three separate clocks running at once: the battery's condition, how long Apple keeps releasing iOS updates for that model, and how well the phone has been looked after physically.</p>",
+  "key_takeaways": [
+    "Battery health, not the processor or screen, is usually the first thing to meaningfully limit an older iPhone's usefulness",
+    "Apple has historically supported iPhones with major iOS updates for around five to seven years from release, though this varies by model",
+    "A battery replacement can meaningfully extend a phone's useful life, often for a few more years, without needing a new device",
+    "Physical care (cases, avoiding extreme heat, avoiding drops) affects longevity as much as component quality does",
+    "Resale value drops fastest in the first two years, so trade-in timing is a separate decision from how long the phone can physically last"
+  ],
+  "sections": [
+    {
+      "heading": "What actually limits how long an iPhone lasts?",
+      "html": "<p>Three separate factors determine an iPhone's practical lifespan, and they rarely run out at the same time. The battery is a consumable part that degrades with every charge cycle, typically becoming noticeable within two to three years of daily use. Software support is a separate clock — Apple eventually stops offering the newest iOS version (and sometimes security updates) for older models. And physical condition, including the screen, buttons and ports, depends heavily on how carefully the phone has been used and protected.</p><p>In practice, battery health is usually the first thing a user actually notices, well before the software or hardware becomes a real problem. That's also the easiest of the three to fix without replacing the whole device.</p>"
+    },
+    {
+      "heading": "How long do iPhone batteries specifically last?",
+      "html": "<p>iPhone batteries, like all lithium-ion batteries, are generally rated for several hundred full charge cycles before capacity drops meaningfully — commonly cited as around 500 cycles to reach about 80% of original capacity, though this varies by model, usage pattern and charging habits. For a phone charged roughly once a day, that works out to somewhere in the vicinity of two years before the drop becomes noticeable, though many phones perform acceptably well past that point.</p><p>You can check your own iPhone's battery condition under Settings > Battery > Battery Health & Charging, which shows maximum capacity relative to when the phone was new. Once a phone's battery health drops low enough, iOS will flag it and may limit peak performance to prevent unexpected shutdowns.</p>"
+    },
+    {
+      "heading": "How long does Apple support an iPhone with software updates?",
+      "html": "<p>Apple doesn't publish a fixed support period, but historically has kept most iPhone models eligible for the newest major iOS version for around five to six years after release, with security-only updates sometimes continuing a little longer for older devices that no longer get the full iOS upgrade. Once a phone stops receiving iOS updates, it can still work fine for everyday use, but it may gradually lose compatibility with newer apps.</p><p>This is a separate issue from battery or hardware life — a phone can have a perfectly healthy battery and screen while still ageing out of software support, or vice versa.</p>"
+    },
+    {
+      "heading": "Does a battery replacement meaningfully extend an iPhone's life?",
+      "html": "<p>Yes, for most people a battery replacement is the single most effective way to extend a phone's useful life once it starts feeling sluggish or dying quickly. If the screen, buttons and cameras still work well and the phone still receives reasonable software support, a new battery can restore day-to-day usability for a meaningful stretch of extra time.</p><p>It's generally only not worth it if the phone is already several generations behind on software support, or if other components have started failing too, making the overall repair-versus-replace maths less favourable.</p>"
+    },
+    {
+      "heading": "How do you decide when it's time to replace an iPhone rather than repair it?",
+      "html": "<p>Weigh up three things: whether the battery can be replaced to fix the main complaint, whether the phone still gets reasonable app and security support, and whether other hardware (camera, screen, charging port) is still functioning properly. If it's just the battery, a replacement is usually the cheaper and more sustainable option compared with buying new.</p><p>If multiple things are failing at once, or the phone has fallen several years behind on iOS updates, that's a stronger signal that replacement makes more sense than continuing to repair an ageing device piece by piece.</p>"
+    }
+  ],
+  "table": null,
+  "faq": [
+    {"q": "How long do iPhones last on average?", "a": "<p>Most iPhones remain fully usable for around three to five years, and often longer if the battery is replaced partway through that period.</p>"},
+    {"q": "How long does an iPhone battery last before it needs replacing?", "a": "<p>Typically somewhere around two to three years of daily use before capacity loss becomes noticeable, though this varies by model and charging habits.</p>"},
+    {"q": "How long will an iPhone last with a new battery?", "a": "<p>A fresh battery resets that part of the clock, often giving the phone several more years of useful life provided the rest of the hardware and its software support remain adequate.</p>"},
+    {"q": "Can an iPhone battery last 5 years?", "a": "<p>It's possible with light use or very careful charging habits, but most users will notice meaningful capacity loss well before the five-year mark under typical daily use.</p>"}
+  ],
+  "word_count_estimate": 780
+}

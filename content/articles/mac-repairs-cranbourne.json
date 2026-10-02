@@ -1,0 +1,55 @@
+{
+  "title": "Mac Repairs in Cranbourne: Local Options Explained",
+  "meta_title": "Mac Repairs in Cranbourne: What to Know",
+  "meta_description": "Need a Mac repaired around Cranbourne, Cranbourne East or West? Here's how to choose between local and metro options, and how to protect your data first.",
+  "intro_html": "<p>Mac repairs are more specialised than phone repairs, so in growth-corridor suburbs like Cranbourne it's worth checking whether a local repairer regularly handles Mac-specific faults before assuming any computer repair shop is the right fit. If local options are limited for your particular issue, a metro or mail-in specialist is often a reasonable alternative.</p>",
+  "key_takeaways": [
+    "Mac repairs — especially logic board and liquid damage work — require more specialised tools and experience than general computer repair.",
+    "Back up your Mac and sign out of iCloud before sending it anywhere for repair.",
+    "If no local specialist handles your specific fault, a metro-based or mail-in service is a realistic option.",
+    "Ask how a repairer handles your personal data and accounts while the Mac is in their possession.",
+    "The same questions about parts, warranty and turnaround apply whether you're repairing a Mac or a phone."
+  ],
+  "sections": [
+    {
+      "heading": "Why Mac repairs are more specialised than phone repairs",
+      "html": "<p>Modern Macs pack components tightly into thin bodies, with memory and storage often soldered directly to the logic board rather than user-replaceable. This means faults like liquid damage, a failing logic board, or a swollen battery usually require specific diagnostic tools and experience that a general computer repair shop may not have. Before booking, it's worth asking directly how often a repairer handles Mac-specific issues, rather than general PC repairs.</p>"
+    },
+    {
+      "heading": "Local options vs metro or mail-in services",
+      "html": "<p>Cranbourne East and Cranbourne West are part of a fast-growing outer Melbourne area, and while general computer repair is usually available locally, a specialist with deep Mac experience may be based further into Melbourne. For common faults like a cracked screen or failing battery, a local option is often fine. For logic board work, data recovery, or less common models, it's worth weighing a slightly longer trip — or a mail-in service — against the benefit of more specialised experience.</p>"
+    },
+    {
+      "heading": "Protecting your data and privacy during a Mac repair",
+      "html": "<p>Back up your Mac fully before handing it over, using Time Machine or a cloud backup. Sign out of iCloud and disable Find My Mac so the device can be properly tested, and ask the repairer directly how they handle access to your data during the repair — a professional business should be able to explain this clearly and will generally avoid needing your full login beyond what's required for testing.</p>"
+    },
+    {
+      "heading": "What about phone repairs in the same area?",
+      "html": "<p>Phone repairs are generally more straightforward to find locally than Mac-specific repairs, since screens, batteries and charging ports for popular phone models are commonly stocked parts. The same basic questions apply regardless of device — ask about part type, warranty, and turnaround before booking.</p>"
+    },
+    {
+      "heading": "What affects the cost of a Mac repair?",
+      "html": "<p>The model and age of the Mac, whether genuine or aftermarket parts are used, and the complexity of the fault all influence price, with logic board or liquid damage repairs generally taking more technician time than a straightforward part swap. Because these factors vary so much, it's worth checking a current, itemised price list for your exact model rather than relying on a number you've seen for a different Mac.</p>"
+    }
+  ],
+  "table": null,
+  "faq": [
+    {
+      "q": "Do I need to go into Melbourne for Mac logic board repairs?",
+      "a": "<p>Not always, but specialist logic board and micro-soldering work is more commonly found at metro-based specialists, so it's worth checking local options first and comparing against a metro or mail-in alternative if needed.</p>"
+    },
+    {
+      "q": "Is it safe to leave personal data on a Mac sent for repair?",
+      "a": "<p>Back up your data and sign out of accounts like iCloud beforehand where possible — a reputable repairer will only need the access required to test the specific fault, not your full accounts.</p>"
+    },
+    {
+      "q": "Can the same shop repair both my Mac and my phone?",
+      "a": "<p>Many general repair businesses handle both, but it's worth confirming how much specific experience they have with Mac repairs versus phone repairs before booking anything beyond a simple fix.</p>"
+    },
+    {
+      "q": "How long does a Mac logic board repair usually take?",
+      "a": "<p>It varies considerably depending on the fault, but logic board work typically takes longer than a standard part swap because it needs proper diagnostic time before a repairer can even confirm what's wrong.</p>"
+    }
+  ],
+  "word_count_estimate": 691
+}

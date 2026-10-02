@@ -1,0 +1,53 @@
+{
+  "title": "Phone Tech Explained: How Your Phone Really Works",
+  "meta_title": "Phone Tech Explained: Parts, Repairs & Lifespan",
+  "meta_description": "A plain-English guide to phone technology: what's inside your phone, why parts fail, and how understanding your device helps you make smarter repair decisions.",
+  "intro_html": "<p>\"Phone tech\" covers the hardware and software inside a modern smartphone — the screen, battery, processor, cameras and sensors — and understanding the basics helps you make better decisions when something breaks. You don't need to be an engineer to know what's likely wrong and what a fair fix looks like.</p><p>This guide breaks down the core components of a phone, how they typically fail, and how that knowledge translates into smarter repair choices.</p>",
+  "key_takeaways": [
+    "A phone is built from a handful of replaceable modules: screen, battery, charging port, cameras and speakers",
+    "Most everyday phone problems trace back to just three parts: the screen, the battery, or the charging port",
+    "Software issues (freezing, slow performance) are often mistaken for hardware failure and vice versa",
+    "Right-to-repair momentum has made more phones easier to open and service than a decade ago",
+    "Understanding your phone's components helps you ask better questions when getting a repair quote"
+  ],
+  "sections": [
+    {
+      "heading": "What's actually inside a smartphone?",
+      "html": "<p>Strip away the glass and metal and a phone is a set of modular components connected by ribbon cables to a central logic board (the main circuit board holding the processor and memory). The key parts are the display assembly (screen plus touch digitizer), the battery, the charging port assembly (which often includes the microphone and sometimes a speaker), the rear camera module, the front camera and sensors, and the speakers.</p><p>Each of these is a separate, swappable part in most modern phones, which is exactly why repairs are possible without replacing the entire device. Knowing this breakdown helps when a repairer explains what's actually broken — it's rarely \"the whole phone,\" it's usually one of these specific modules.</p>"
+    },
+    {
+      "heading": "Why do phones develop faults over time?",
+      "html": "<p>Lithium-ion batteries degrade with every charge cycle, which is a well-documented chemical process, not a manufacturing flaw — this is why phones feel like they hold less charge after a year or two. Charging ports wear out from repeated plugging and from dust or lint building up inside. Screens fail mostly from physical impact or pressure, not from software issues.</p><p>Software-related slowdowns are a separate category entirely. A phone that's laggy but has no physical damage is more likely suffering from storage nearly full, an outdated operating system, or a battery that can no longer supply peak power efficiently (which can throttle performance). It's worth ruling out software causes with a restart, storage clean-up, or OS update before assuming hardware is at fault.</p>"
+    },
+    {
+      "heading": "Hardware problem or software problem — how do you tell?",
+      "html": "<p>A simple way to separate the two: if the issue is visual or physical — a cracked screen, a phone that won't charge at all, a speaker that crackles — it's almost always hardware. If the issue is behavioural — apps crashing, the phone running hot without being charged, battery draining unusually fast with no physical damage — it could be software or a battery health issue rather than a broken part.</p><ul><li>Hardware signs: cracked glass, unresponsive touch areas, no charging light, distorted sound, camera showing black or blurry image</li><li>Software/battery health signs: random reboots, apps force-closing, battery percentage jumping erratically, overall sluggishness after an update</li></ul><p>A diagnostic check from a repairer (many offer this as a quick, often free, assessment) can usually confirm which category you're dealing with before you commit to any work.</p>"
+    },
+    {
+      "heading": "What does a repair actually cost to perform, and what affects it?",
+      "html": "<p>Repair cost is driven by the part itself (OEM versus aftermarket), the complexity of the disassembly (some phones require removing the battery or logic board just to reach the screen connector), and the device's age and part availability. Newer flagship models often have more expensive, harder-to-source parts, while older or more common models tend to have cheaper, more readily available parts.</p><p>Rather than expecting a flat number, ask for a breakdown of parts and labour, and check a current, itemised price list for your specific model before committing, since prices shift as part supply changes.</p>"
+    },
+    {
+      "heading": "How is phone repair technology changing?",
+      "html": "<p>Right-to-repair reforms in several countries have pushed manufacturers to make official parts, repair manuals and diagnostic tools more available to independent repairers, not just brand-authorised stores. Some manufacturers now offer part-pairing systems that need specific calibration after a repair (for example, matching a new screen to a phone's Face ID sensor), which has made tool access more relevant than it used to be.</p><p>For consumers, this generally means more repair options over time, not fewer, as independent repairers gain better access to genuine parts and documentation.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Common phone problems and their likely source",
+    "headers": ["Symptom", "Likely cause"],
+    "rows": [
+      ["Screen cracked or unresponsive in spots", "Physical damage to display assembly"],
+      ["Won't hold charge / drains fast", "Battery health decline"],
+      ["Charges intermittently or not at all", "Worn or dirty charging port"],
+      ["Apps crash, phone feels slow", "Software/storage issue, not hardware"],
+      ["Distorted or muffled sound", "Speaker or debris in speaker grille"]
+    ]
+  },
+  "faq": [
+    {"q": "What is phone tech?", "a": "<p>Phone tech refers to the hardware and software systems that make up a smartphone, including the display, battery, processor, cameras, sensors and the operating system that ties them together.</p>"},
+    {"q": "What are phonetech services?", "a": "<p>Phonetech services typically refer to repair, maintenance and diagnostic services for mobile phones, covering things like screen replacement, battery swaps, charging port repair and software troubleshooting.</p>"},
+    {"q": "How do I know if my phone problem is hardware or software?", "a": "<p>Physical symptoms like cracked glass or no charging light point to hardware, while behavioural issues like app crashes or random reboots with no physical damage often point to software or battery health.</p>"},
+    {"q": "Why do phone batteries degrade?", "a": "<p>Lithium-ion batteries lose capacity gradually with each charge cycle due to chemical wear inside the cell, which is a normal process rather than a fault.</p>"}
+  ],
+  "word_count_estimate": 820
+}

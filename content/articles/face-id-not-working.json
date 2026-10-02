@@ -1,0 +1,55 @@
+{
+  "title": "Face ID Not Working? Causes and How to Fix It",
+  "meta_title": "Face ID Not Working: Causes & How to Fix It",
+  "meta_description": "Face ID not working on your iPhone? Here are the real software and hardware causes, step-by-step fixes, and when a screen repair can be the culprit.",
+  "intro_html": "<p>Face ID usually stops working because something is physically blocking the TrueDepth camera at the top of the screen, a software setting needs resetting, or — less commonly — a recent screen replacement has disrupted the sensor's connection. Most cases are fixed with a quick software check rather than a hardware repair.</p><p>Working through the common causes in order, from simplest to most involved, will tell you fairly quickly which category your phone falls into.</p>",
+  "key_takeaways": [
+    "A dirty, obstructed or covered TrueDepth camera (the sensor cluster in the screen notch/cutout) is the most common cause of Face ID failing.",
+    "Thick or poorly fitted screen protectors and cases can physically block the sensors even when the screen itself looks fine.",
+    "Resetting Face ID in Settings and re-enrolling your face solves many persistent software-level issues.",
+    "A non-genuine or improperly paired screen replacement can disable Face ID on several iPhone models, because the TrueDepth module needs to be paired with the device during repair.",
+    "If Face ID is greyed out or shows an error message about an unavailable accessory, that's a stronger sign of a hardware or pairing issue rather than a setting."
+  ],
+  "sections": [
+    {
+      "heading": "Why is my Face ID not working?",
+      "html": "<p>Face ID relies on the TrueDepth camera system — a cluster of sensors including an infrared camera, dot projector and flood illuminator housed in the notch or Dynamic Island area at the top of the screen. If any of these is blocked, dirty, or damaged, Face ID can fail or become unreliable.</p><p>The most frequent causes, roughly in order of likelihood, are: something physically obstructing the sensors (dirt, a case, a screen protector), software needing a reset, changes to your appearance or the way you're holding the phone, and — in less common cases — a hardware issue following a drop or a screen repair. Working through these from simplest to most involved avoids jumping straight to \"I need a new phone\" when the fix might be a 30-second clean or settings change.</p>"
+    },
+    {
+      "heading": "Software and setting causes (try these first)",
+      "html": "<p>Before suspecting hardware, rule out the common software-side causes, since these account for a large share of Face ID complaints.</p><ul><li><strong>Obstructed sensors:</strong> gently clean the sensor area at the top of the screen with a soft, dry microfibre cloth — makeup, sunscreen or a smudge can be enough to interfere with recognition.</li><li><strong>Incompatible screen protector:</strong> some thick, tinted, or poorly aligned screen protectors can interfere with the infrared sensors even though they don't affect the display itself. Try removing it temporarily to test.</li><li><strong>Face ID angle or distance:</strong> hold the phone at a normal arm's length and make sure the notch/camera area isn't angled away from your face.</li><li><strong>Software glitch:</strong> restart the phone, and make sure iOS is up to date under Settings > General > Software Update.</li><li><strong>Reset and re-enroll:</strong> go to Settings > Face ID & Passcode, remove the existing Face ID setup, and set it up again from scratch, ideally in good, even lighting.</li></ul><p>These steps resolve the majority of cases where Face ID has become slow, inconsistent, or stopped recognising you properly.</p>"
+    },
+    {
+      "heading": "How to reset Face ID step by step",
+      "html": "<p>Resetting Face ID clears the existing facial data and lets you re-enroll, which fixes many lingering recognition issues caused by changes in appearance, lighting habits, or a corrupted enrollment.</p><ol><li>Open Settings and tap Face ID & Passcode (you'll need your passcode).</li><li>Tap Reset Face ID.</li><li>Tap Set Up Face ID and follow the on-screen prompts, moving your head in a slow circle to capture the full scan.</li><li>Consider setting up an alternate appearance afterwards (Settings > Face ID & Passcode > Set Up an Alternate Appearance) if you regularly wear glasses, a hat, or have another consistent change in look.</li></ol><p>If Face ID still fails to recognise you reliably straight after a fresh setup, that points away from a software cause and toward something physical.</p>"
+    },
+    {
+      "heading": "When Face ID failure points to a hardware problem",
+      "html": "<p>A few signs suggest the issue is hardware rather than software. If the Face ID option in Settings is greyed out, or you see a message saying Face ID is unavailable or referencing an unknown accessory, this usually means the TrueDepth module isn't communicating properly with the rest of the phone.</p><p>This can happen after a drop that's jolted or disconnected the internal cable running to the sensor cluster, after liquid exposure, or — importantly — after a screen replacement. On several iPhone models, the front camera and sensor assembly must be correctly transferred to the new screen and, on more recent models, is tied to a pairing process that confirms the part is working with that specific device. A screen replaced with a non-genuine part, or one not paired correctly during the repair, can result in Face ID being disabled or showing persistent warnings, even though the display itself works perfectly.</p><p>If your Face ID problems started right after a screen repair, that timing is a strong clue about the cause, and it's worth raising directly with whoever performed the repair.</p>"
+    },
+    {
+      "heading": "What to do if Face ID still won't work",
+      "html": "<p>If you've cleaned the sensors, tried without a screen protector or case, reset and re-enrolled Face ID, restarted the phone, and updated iOS — and it's still failing — the next step is a proper hardware check. This is especially worth doing if the phone has been dropped recently, gotten wet, or had screen work done.</p><p>In the meantime, your passcode always works as a fallback for unlocking and authenticating purchases, so you're not locked out of the phone while you sort out Face ID. A technician can check whether the TrueDepth module itself has failed, whether a cable has come loose, or whether a previous repair needs to be redone with a properly paired part.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Software cause vs hardware cause: what to look for",
+    "headers": ["Sign", "Likely cause"],
+    "rows": [
+      ["Works sometimes, inconsistent recognition", "Obstruction, lighting, or needs re-enrollment"],
+      ["Stopped right after cleaning/case change improves it", "Physical obstruction (case, protector, dirt)"],
+      ["Face ID toggle greyed out in Settings", "Hardware/sensor communication issue"],
+      ["Started right after a screen replacement", "Non-genuine part or pairing issue"],
+      ["Started after a drop or liquid exposure", "Possible cable or sensor damage"]
+    ]
+  },
+  "faq": [
+    {"q": "Why is my Face ID not working?", "a": "<p>The most common reasons are a blocked or dirty TrueDepth sensor, an interfering screen protector or case, or a software glitch that needs a reset. Less commonly, a drop, liquid exposure, or a non-genuine screen replacement can cause a hardware-level fault.</p>"},
+    {"q": "How do I reset Face ID?", "a": "<p>Go to Settings > Face ID & Passcode, tap Reset Face ID, then tap Set Up Face ID to re-enroll your face from scratch. This fixes many persistent recognition issues.</p>"},
+    {"q": "Why has my Face ID stopped working on my iPhone?", "a": "<p>It usually comes down to something physically blocking the sensor cluster at the top of the screen, a software issue needing a reset, or, if it started after a screen repair, a hardware pairing problem with the replacement part.</p>"},
+    {"q": "Why is Face ID not available on my phone?", "a": "<p>A message saying Face ID is unavailable typically indicates the TrueDepth camera module isn't communicating properly with the phone, which can follow a drop, liquid exposure, or an improperly paired screen replacement.</p>"},
+    {"q": "Can a screen replacement break Face ID?", "a": "<p>Yes, on several iPhone models a non-genuine screen or one not correctly paired during replacement can disable Face ID, since the sensor assembly needs to be properly transferred and recognised by the device.</p>"},
+    {"q": "How do I fix Face ID myself without a repair shop?", "a": "<p>Clean the sensor area, remove any screen protector or case to test, restart the phone, update iOS, and reset and re-enroll Face ID in Settings. If none of this works, the issue is likely hardware-related and needs a professional check.</p>"}
+  ],
+  "word_count_estimate": 890
+}

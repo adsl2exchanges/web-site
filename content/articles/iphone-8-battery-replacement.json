@@ -1,0 +1,43 @@
+{
+  "title": "iPhone 8 Battery Replacement: What to Know",
+  "meta_title": "iPhone 8 Battery Replacement Guide",
+  "meta_description": "Thinking about an iPhone 8 battery replacement? Here's how to tell it's needed, what's different about this model, and how to choose who does the job.",
+  "intro_html": "<p>If your iPhone 8 is shutting down unexpectedly, draining fast, or showing a reduced battery health reading in Settings, it's almost certainly ready for a battery replacement. The iPhone 8 is old enough now that most original batteries have gone through more than enough charge cycles to show meaningful wear.</p><p>This covers the signs to look for, what makes replacing an iPhone 8 battery slightly different from older models, and how to choose between DIY, independent and authorised repair options.</p>",
+  "key_takeaways": [
+    "An iPhone 8 showing Service Recommended under Battery Health has degraded enough to noticeably affect daily use",
+    "The iPhone 8 was Apple's first compact iPhone with water resistance, which means its battery replacement involves resealing, not just a straightforward swap",
+    "Apple ran a well-publicised discounted battery replacement program in 2018 after acknowledging it had throttled performance on ageing batteries",
+    "A genuine or high-quality third-party battery both work, but affect price and in some cases ongoing battery health reporting accuracy",
+    "A battery replacement is usually the most cost-effective way to extend an iPhone 8's life if the rest of the phone still works well"
+  ],
+  "sections": [
+    {
+      "heading": "How do you know an iPhone 8 needs a new battery?",
+      "html": "<p>Check Settings > Battery > Battery Health & Charging. A status of Service Recommended, or a maximum capacity reading well below 100%, both point to a battery that's worn enough to replace. Other signs include the phone shutting down suddenly even with charge remaining, the battery dropping quickly during normal use, or noticeably slower performance that improves temporarily after a reboot.</p><p>Because the iPhone 8 is now an older device, it's common for its original battery to have gone through enough cycles that these symptoms show up even with otherwise careful use.</p>"
+    },
+    {
+      "heading": "What's different about replacing a battery in an iPhone 8 compared with older iPhones?",
+      "html": "<p>The iPhone 8 introduced a glass back and IP67 water resistance to the standard iPhone line, which means the internals are sealed with adhesive designed to keep moisture out. Opening the phone for a battery swap breaks that seal, and a proper repair reapplies fresh adhesive to restore as much of that water resistance as possible.</p><p>This makes the iPhone 8 somewhat more involved to repair than older models like the iPhone 6 or 6s, which have no water-resistance seal to worry about, though it's still considered a routine job for an experienced repairer.</p>"
+    },
+    {
+      "heading": "What was Apple's battery replacement program about?",
+      "html": "<p>In late 2017, Apple acknowledged that iOS had been slowing down the performance of iPhones with significantly degraded batteries to prevent unexpected shutdowns, without clearly telling users this was happening. In response, Apple offered discounted battery replacements through 2018 for a range of affected models and added the Battery Health feature to iOS so people could check their own battery's condition going forward.</p><p>That program has long since ended, but it's the reason Battery Health exists as a visible setting today, and it's a useful tool for any iPhone 8 owner trying to decide if a replacement is overdue.</p>"
+    },
+    {
+      "heading": "What affects the cost of an iPhone 8 battery replacement?",
+      "html": "<p>Cost depends on whether you choose a genuine Apple battery or a third-party equivalent, whether the repairer is an Apple Authorised Service Provider or an independent, and whether the job includes properly resealing the phone's water resistance. A battery-only swap without resealing is a smaller job than one that fully restores the seal.</p><p>Because pricing varies between repairers and changes over time, it's worth checking a current, itemised price list for the iPhone 8 specifically rather than relying on a number you've seen for a different model.</p>"
+    },
+    {
+      "heading": "Is an iPhone 8 worth repairing instead of replacing?",
+      "html": "<p>If the screen, cameras and charging port are all still working well, a battery replacement is usually a sensible, low-cost way to keep the phone useful for everyday tasks, calls, and messaging. Bear in mind the iPhone 8 is old enough that it may be near or past the end of full iOS feature updates, so check current software support if you plan to rely on it as a primary phone.</p><p>For light use, a backup phone, or a budget-conscious upgrade from an even older device, a battery replacement is typically the better value option over buying new.</p>"
+    }
+  ],
+  "table": null,
+  "faq": [
+    {"q": "How do I know if my iPhone 8 battery needs replacing?", "a": "<p>Check Settings > Battery > Battery Health & Charging — if it shows Service Recommended or a notably reduced maximum capacity, the battery is worn enough to warrant replacement.</p>"},
+    {"q": "Is the battery in an iPhone 8 easy to replace?", "a": "<p>It's a routine job for an experienced repairer, though it's somewhat more involved than older iPhones because the iPhone 8's water-resistant design needs to be resealed properly afterwards.</p>"},
+    {"q": "Does replacing an iPhone 8 battery affect water resistance?", "a": "<p>Opening the phone breaks the original factory seal, so a proper repair includes reapplying adhesive to restore as much water resistance as possible, though it may not fully match the original factory seal.</p>"},
+    {"q": "Is it worth fixing an iPhone 8 in 2026?", "a": "<p>If the rest of the phone still works well, a battery replacement is usually a cost-effective way to keep using it, though it's worth checking current iOS support if it's your main device.</p>"}
+  ],
+  "word_count_estimate": 800
+}

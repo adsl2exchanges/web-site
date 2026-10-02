@@ -1,0 +1,55 @@
+{
+  "title": "Mac Repairs in Sunshine North: A Short Guide",
+  "meta_title": "Mac Repairs in Sunshine North: Quick Guide",
+  "meta_description": "Need a Mac repaired around Sunshine North or Sunshine? Here's how to back up safely first, what actually affects cost, and how to choose a repairer you trust.",
+  "intro_html": "<p>Before anything else, back up your Mac and note its warranty status — those two steps determine both how safely a repair can proceed and whether an Authorised Service Provider or an independent repairer is the better starting point around Sunshine North and Sunshine. From there, the process is largely the same as anywhere else in greater Melbourne.</p>",
+  "key_takeaways": [
+    "Backing up your Mac before any repair is the single most important preparation step.",
+    "Check your AppleCare or warranty status before choosing between an authorised provider and an independent repairer.",
+    "If a local specialist isn't available for your specific fault, mail-in or wider-Melbourne options are worth considering.",
+    "Ask about parts, warranty and turnaround before booking, regardless of who you choose.",
+    "A diagnostic fee for complex faults like liquid damage is normal and reflects real technician time."
+  ],
+  "sections": [
+    {
+      "heading": "Common Mac issues worth knowing about",
+      "html": "<p>Batteries that no longer hold charge the way they used to are a normal result of lithium-ion wear over time, not necessarily a defect. Screens can crack or develop display lines after a knock, keyboards and trackpads can fail with age and use, and liquid spills can cause corrosion that affects several components at once. Storage or performance issues — a Mac that's become noticeably slow — are sometimes a failing drive, and sometimes simply a storage volume that's nearly full, so it's worth checking available space before assuming a hardware fault.</p>"
+    },
+    {
+      "heading": "Backing up your Mac before a repair",
+      "html": "<p>Use Time Machine with an external drive, or a cloud backup service, to create a full backup before any repair — this matters most for anything involving the logic board, storage or a liquid-damage assessment, where data loss is a real possibility. It costs nothing but time, and it's the simplest way to protect yourself regardless of which repairer you choose.</p>"
+    },
+    {
+      "heading": "What if there's no local Mac specialist nearby?",
+      "html": "<p>Not every suburb has a dedicated Mac specialist close by, and that's fine — many reputable repairers across greater Melbourne accept mail-in devices for logic board work, data recovery, or less common repairs. If you go this route, ask about how the Mac will be packaged and insured in transit, and get a written quote before sending it anywhere.</p>"
+    },
+    {
+      "heading": "What affects the cost of a Mac repair?",
+      "html": "<p>Cost depends on the model and its age, whether genuine or aftermarket parts are used, and the complexity of the fault — a liquid damage assessment or logic board repair takes considerably more technician time than a standard battery or screen swap. Because of this variation, check a current, itemised price list for your specific model rather than relying on a figure you've seen elsewhere.</p>"
+    },
+    {
+      "heading": "Choosing a trustworthy repairer",
+      "html": "<p>Ask what parts they use, what warranty applies to the repair, and how they'll handle your data during the process. A business that answers these questions clearly and confirms everything in writing is generally a safe choice, whether it's a large Authorised Service Provider or a smaller independent operator.</p>"
+    }
+  ],
+  "table": null,
+  "faq": [
+    {
+      "q": "How do I back up my Mac before a repair?",
+      "a": "<p>Use Time Machine with an external drive or a cloud backup service to create a full backup, ideally shortly before you hand the Mac over for repair.</p>"
+    },
+    {
+      "q": "Can I send my Mac away for repair if there's no local specialist?",
+      "a": "<p>Yes — many reputable repairers accept mail-in devices for specialist work like logic board repair, though it's worth confirming how the device will be insured in transit.</p>"
+    },
+    {
+      "q": "What should I ask about parts and warranty?",
+      "a": "<p>Ask whether the repairer uses genuine or aftermarket parts, how long the warranty on the repair lasts, and what that warranty actually covers before you agree to anything.</p>"
+    },
+    {
+      "q": "Is a diagnostic fee normal for a Mac repair?",
+      "a": "<p>Yes — a modest diagnostic fee for a complex fault like liquid damage or a logic board issue is normal and reflects the technician time needed to properly identify the problem before any quote can be given.</p>"
+    }
+  ],
+  "word_count_estimate": 652
+}

@@ -1,0 +1,47 @@
+{
+  "title": "How to Change an iPhone 8 Screen",
+  "meta_title": "iPhone 8 Screen Replacement Explained",
+  "meta_description": "What's involved in changing an iPhone 8 screen: LCD panel basics, Touch ID home button, DIY steps, and what affects the repair's cost.",
+  "intro_html": "<p>Changing an iPhone 8 screen means replacing a relatively simple LCD display with a Touch ID home button built into the glass front, making it one of the more approachable iPhone screen repairs. Parts are widely available since the model has been out of production for several years, and the job doesn't involve the sensor complexity of a Face ID iPhone.</p>",
+  "key_takeaways": [
+    "The iPhone 8 uses an LCD screen with a physical Touch ID home button, not Face ID, which simplifies the repair compared with iPhone X and later.",
+    "The home button is paired specifically to its original logic board, so it must be carefully transferred to the new screen assembly rather than replaced with a donor button.",
+    "Parts are widely available and inexpensive relative to current iPhones, since the 8 has been superseded by several generations of newer models.",
+    "The iPhone 8 also has water resistance, so replacing the screen typically means replacing the adhesive seal too, in order to keep that protection intact.",
+    "This repair is manageable as a DIY project for a careful person, but mishandling the home button cable is the single biggest risk."
+  ],
+  "sections": [
+    {
+      "heading": "What's involved in changing an iPhone 8 screen?",
+      "html": "<p>The iPhone 8's display is an LCD panel with a fused digitizer, built around a front assembly that also houses the Touch ID home button. Changing it means removing the old glass/LCD unit, disconnecting the battery and display cables, carefully detaching the home button, and transferring it onto the replacement screen before reassembling and resealing the phone.</p><p>Unlike Face ID iPhones, there's no TrueDepth sensor array to manage, which keeps the repair relatively straightforward by iPhone standards.</p>"
+    },
+    {
+      "heading": "Why the home button needs special care",
+      "html": "<p>Since the iPhone 5s, Apple has electronically paired each Touch ID sensor to its specific logic board for security reasons. This means you cannot simply take a home button from a different iPhone 8 and expect Touch ID to work — it has to be the phone's original button, carefully removed and reattached to the new screen assembly.</p><p>If the home button's flex cable is torn, bent too sharply, or damaged during the swap, Touch ID will stop working and typically cannot be restored, even though the rest of the phone functions normally. This is the part of the repair that demands the most care.</p>"
+    },
+    {
+      "heading": "Water resistance and the adhesive seal",
+      "html": "<p>The iPhone 8 has an IP67 water and dust resistance rating, which relies partly on an adhesive seal around the edge of the screen. Once that seal is broken to open the phone, it needs to be replaced with fresh adhesive (not reused) to restore a reasonable level of resistance. A repairer who skips this step, or a DIY job without the right adhesive strips, will leave the phone more vulnerable to moisture than before.</p>"
+    },
+    {
+      "heading": "OEM vs aftermarket screens for the iPhone 8",
+      "html": "<p>As with most older iPhones, replacement screens come in a range of quality tiers. Genuine or OEM-grade panels closely match the original display's brightness, colour, and touch response. Budget aftermarket screens can be noticeably dimmer, show colour shifts at an angle, or have slightly less precise touch registration near the edges — usually acceptable for a secondary or budget device, less so if you want the phone to feel new again.</p>"
+    },
+    {
+      "heading": "DIY replacement vs professional repair",
+      "html": "<p>Changing an iPhone 8 screen is a common DIY project thanks to plentiful guides, tools, and parts. The main risks are damaging the home button cable, tearing the battery connector, or not resealing the phone properly for water resistance. If you're comfortable with small screwdrivers and patient, methodical work, this is one of the friendlier iPhone screen jobs to attempt at home.</p><p>If you'd rather not risk Touch ID or water resistance, a professional repair removes that risk for a modest labour cost, and a repairer will typically also test Touch ID and reseal the device properly before returning it.</p>"
+    },
+    {
+      "heading": "What affects the cost of this repair",
+      "html": "<p>Price depends mainly on the grade of replacement screen (budget aftermarket through to OEM-grade), whether new adhesive and other small parts are included, and the repairer's labour rate. Because figures change often and vary by provider, it's worth checking a current, itemised price list for your specific model instead of going by a number quoted elsewhere.</p>"
+    }
+  ],
+  "table": null,
+  "faq": [
+    {"q": "How do I change the screen of an iPhone 8?", "a": "<p>The process involves removing the two pentalobe screws at the bottom, opening the display with suction and prying tools, disconnecting the battery first, then carefully detaching and transferring the home button and display cables to the new screen before reassembling and resealing the phone.</p>"},
+    {"q": "Does changing the iPhone 8 screen affect Touch ID?", "a": "<p>It can if the home button cable is damaged during the swap, since Touch ID is electronically paired to the phone's original home button and can't be replaced with a donor part. Careful handling during the repair avoids this risk.</p>"},
+    {"q": "Is the iPhone 8 screen still water resistant after a repair?", "a": "<p>Only if fresh adhesive is used to reseal the display during the repair — reusing old adhesive or skipping this step reduces the phone's original water resistance.</p>"},
+    {"q": "Can I replace an iPhone 8 screen myself?", "a": "<p>Yes, it's considered one of the more approachable iPhone DIY screen repairs, though care around the home button cable and proper resealing for water resistance are the main points to get right.</p>"}
+  ],
+  "word_count_estimate": 780
+}

@@ -1,0 +1,51 @@
+{
+  "title": "iPhone Repair: A Complete Guide to Common Fixes and Choices",
+  "meta_title": "iPhone Repair Guide: Fixes, Parts and Choices",
+  "meta_description": "A full guide to iPhone repair: common issues, genuine vs third-party parts, what affects cost, and how to choose between Apple and independent repair.",
+  "intro_html": "<p>Most iPhone repairs fall into a short list of common jobs — screen, battery, charging port, camera and back glass — and for nearly all of them you have a genuine choice between Apple, an Apple Authorised Service Provider, and an independent repairer. The right option depends on your warranty status, budget, and how much you care about using only genuine parts.</p>",
+  "key_takeaways": [
+    "Screen and battery replacements are by far the most common iPhone repairs, and both are well understood by most repair shops regardless of model age.",
+    "Apple and Authorised Service Providers use genuine parts and can preserve some software integrations, but typically cost more than independent repairers.",
+    "Independent repairers often use OEM-grade or aftermarket parts, which can be more affordable, but quality varies between suppliers.",
+    "Using a non-genuine screen or battery can trigger an on-screen \"unknown part\" notification on newer iPhones — this is informational, not necessarily a sign of a bad repair.",
+    "Back up your iPhone before any repair, since some fixes (particularly board-level or water damage repairs) carry a small risk of data loss."
+  ],
+  "sections": [
+    {
+      "heading": "The most common iPhone repairs",
+      "html": "<p>Cracked screens are the single most frequent iPhone repair, followed by battery replacement once a phone is a couple of years old and holding less charge than it used to. Charging port issues (often lint or debris rather than actual damage), camera faults, and cracked back glass round out the most common jobs.</p><p>Water damage repairs are less predictable — outcomes depend heavily on how much liquid got in, what it was, and how quickly the phone was powered off, so these are usually quoted only after a proper diagnostic.</p>"
+    },
+    {
+      "heading": "Apple, Authorised Service Providers, or independent repair?",
+      "html": "<p>Apple and its Authorised Service Providers use genuine parts sourced from Apple and are generally the safest option if your iPhone is still under Apple's warranty or AppleCare, since independent repairs can affect that cover. They also tend to have the most consistent process for software-paired components.</p><p>Independent repairers aren't tied to Apple's parts supply chain, which usually means more flexibility on turnaround and part options (including genuine, OEM-grade and aftermarket), often at a more competitive price. The trade-off is that quality control sits entirely with that individual shop, so reviews and warranty terms matter more.</p>"
+    },
+    {
+      "heading": "Genuine vs OEM-grade vs aftermarket parts",
+      "html": "<p>Genuine Apple parts match the original specification exactly, including the small chips some components use to communicate with iOS. OEM-grade parts are made to closely match genuine specifications but aren't sourced from Apple. Generic aftermarket parts are the most affordable tier and vary the most in quality — some are very close to original, others noticeably dimmer, less colour-accurate, or less durable.</p><p>On newer iPhone models, fitting a non-genuine screen or battery can trigger a notification in Settings noting the part isn't genuine or its status can't be verified. This is Apple's software flagging the part, not necessarily a sign of a faulty repair — ask your repairer to explain this before you book if it concerns you.</p>"
+    },
+    {
+      "heading": "What affects the cost of an iPhone repair",
+      "html": "<p>Cost is driven primarily by the model (larger, newer iPhones generally cost more to repair than older or smaller models), the part quality chosen, and the specific fault. A simple battery swap is typically more affordable than a screen replacement, which is in turn usually less than a back glass or multi-component repair.</p><p>Because pricing varies by model, part quality and repairer, and changes over time, it's worth checking a current, itemised price list for your exact iPhone model rather than relying on a figure you saw for a different model or an older quote.</p>"
+    },
+    {
+      "heading": "Before you hand your iPhone over for repair",
+      "html": "<ul><li>Back up to iCloud or your computer, especially before anything involving water damage or internal components.</li><li>Note your passcode situation — some repairs may require it to test functions like Face ID afterwards.</li><li>Ask whether the repair affects your existing warranty or AppleCare.</li><li>Confirm what's covered by the repairer's own warranty and for how long.</li></ul><p>After the repair, test Face ID or Touch ID, all cameras, the speaker and microphone, and charging before you leave.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Genuine vs OEM-grade vs aftermarket iPhone parts",
+    "headers": ["Part type", "Source", "Typical quality", "Software compatibility"],
+    "rows": [
+      ["Genuine", "Apple-sourced", "Matches original exactly", "Full compatibility, no warnings"],
+      ["OEM-grade", "Third-party, built to original spec", "Close to original in most cases", "Usually compatible; may show a part notice on newer models"],
+      ["Generic aftermarket", "Third-party, varying standards", "Variable — ranges from very good to noticeably lower", "May show a part notice on newer models"]
+    ]
+  },
+  "faq": [
+    {"q": "Will repairing my iPhone with a non-Apple part void my warranty?", "a": "<p>If your iPhone is still covered by Apple's warranty or AppleCare, having it repaired by someone other than Apple or an Authorised Service Provider can affect that specific cover, though it doesn't necessarily void the entire warranty. Check Apple's current terms or ask the repairer directly.</p>"},
+    {"q": "Why does my iPhone say the screen part is unknown?", "a": "<p>This notification appears on newer iPhone models when a screen or battery isn't recognised as genuine Apple hardware. It's an informational message, not an error, and doesn't necessarily mean the repair was done poorly.</p>"},
+    {"q": "How long does an iPhone screen repair take?", "a": "<p>For common iPhone models with the part in stock, same-day or even while-you-wait repair is typical. Less common models or parts on order can take longer.</p>"},
+    {"q": "Should I fix my iPhone in Sydney at an Apple Store or an independent shop?", "a": "<p>If your phone is under Apple's warranty or AppleCare, Apple or an Authorised Service Provider preserves that cover. If it's out of warranty, an independent repairer can be a more flexible and often more affordable option — compare reviews and warranty terms for the specific shop.</p>"}
+  ],
+  "word_count_estimate": 860
+}

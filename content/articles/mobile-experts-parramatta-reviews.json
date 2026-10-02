@@ -1,0 +1,83 @@
+{
+  "title": "How to Judge Phone Repair Shop Reviews Properly",
+  "meta_title": "How to Read Phone Repair Shop Reviews",
+  "meta_description": "Before booking a phone repair, learn how to read online reviews properly: what signals genuine feedback, what's a red flag, and how chains vary by store.",
+  "intro_html": "<p>The most reliable way to judge a phone repair shop's reviews is to read the recent ones in detail rather than trusting the overall star rating, and to check reviews for the exact location you're considering rather than the brand as a whole. Many repair businesses operate across several suburbs or shopping centres under one name, and the experience at one location doesn't guarantee the same at another.</p>",
+  "key_takeaways": [
+    "Always check reviews for the specific store location, not just a brand's overall rating.",
+    "A sudden cluster of negative reviews after a long run of positive ones can signal a recent change in ownership, staff or quality.",
+    "Genuine reviews tend to mention specific details — the device model, the fault, the price range in general terms — rather than vague praise.",
+    "How a business responds to negative reviews tells you almost as much as the reviews themselves.",
+    "No reviews at all isn't automatically a red flag for a new store, but it means you'll need to rely more heavily on direct questions and a written warranty."
+  ],
+  "sections": [
+    {
+      "heading": "Why star ratings alone can be misleading",
+      "html": "<p>A 4.8-star average sounds reassuring, but it hides information. A store with 20 reviews and one with 2,000 can show the same average while representing very different levels of confidence. Ratings can also drift over time as staff, ownership or management changes, so an average built up over years can mask a recent decline.</p><p>Rather than stopping at the headline number, sort reviews by \"most recent\" and read the last month or two specifically for a better sense of the current experience.</p>"
+    },
+    {
+      "heading": "Why the same brand can vary between locations",
+      "html": "<p>Many phone repair businesses run multiple stores across different suburbs or shopping centres, sometimes under franchise arrangements, sometimes under direct management. Staffing, training and management quality can differ noticeably from one location to the next even under an identical shopfront and name.</p><p>If you're searching for a chain by name plus a suburb — for example checking a particular brand's reviews for a Parramatta store versus one in another city — treat each location as its own entity. A glowing reputation at one branch tells you very little about a different branch across town.</p>"
+    },
+    {
+      "heading": "What genuine reviews tend to look like",
+      "html": "<p>Credible reviews are usually specific: they mention the device model, the fault that was fixed, roughly how long it took, and some detail about the interaction — not just \"great service, highly recommend\" with nothing else. A spread of both detailed positive and a handful of fair critical reviews is actually a healthier sign than a page that's suspiciously uniform.</p><p>Photos attached to reviews, mentions of staff by first name, and reviews spread out over time rather than bunched into a short window are all good signs of authenticity.</p>"
+    },
+    {
+      "heading": "Red flags worth watching for",
+      "html": "<p>Be cautious of pages with a large batch of five-star reviews posted within days of each other, reviews that read like generic marketing copy, or a business with no response at all to legitimate-looking complaints. A defensive or dismissive response to criticism is also worth noting — a professional reply that offers to make things right says more about the business than the original complaint does.</p><p>It's also worth checking whether a business has had its name or branding changed recently, since a poor reputation under an old name can sometimes resurface under a new one.</p>"
+    },
+    {
+      "heading": "Beyond reviews: how to verify a repairer directly",
+      "html": "<p>Reviews are a starting point, not the final word. Call or message the business directly and ask specific questions — what warranty applies, what parts they use, and how they handle your data during the repair. A business that answers clearly and confidently is generally trustworthy regardless of its review count.</p><p>Where possible, ask around locally too — word of mouth from someone who's actually used a specific store recently is often more useful than any online review.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Genuine review signals vs red flags",
+    "headers": [
+      "What you see",
+      "What it usually suggests"
+    ],
+    "rows": [
+      [
+        "Specific detail about device, fault and timeframe",
+        "Likely a genuine customer experience"
+      ],
+      [
+        "Large batch of five-star reviews posted in a short window",
+        "Possible incentivised or fake reviews"
+      ],
+      [
+        "Business replies professionally to negative reviews",
+        "Good sign of accountability"
+      ],
+      [
+        "No response to any negative reviews at all",
+        "Worth treating with some caution"
+      ],
+      [
+        "Reviews spread evenly over months or years",
+        "More reliable than a page with little history"
+      ]
+    ]
+  },
+  "faq": [
+    {
+      "q": "How many reviews should a repair shop have before I trust the rating?",
+      "a": "<p>There's no fixed number, but a handful of reviews is far less reliable than dozens or hundreds — the more reviews a specific location has, the more confidently you can read the average as representative.</p>"
+    },
+    {
+      "q": "Are pages with only five-star reviews trustworthy?",
+      "a": "<p>Not necessarily — a complete absence of any critical or neutral reviews, especially alongside a large number of five-star ratings posted close together, is a pattern worth treating with caution rather than reassurance.</p>"
+    },
+    {
+      "q": "What if a repair shop has no reviews at all?",
+      "a": "<p>It isn't automatically a problem, particularly for a newer store, but it means you should lean more heavily on a written warranty, clear answers to direct questions, and word of mouth before booking.</p>"
+    },
+    {
+      "q": "Do reviews for one location of a chain apply to other locations of the same brand?",
+      "a": "<p>Not reliably — staffing and management can differ significantly between branches of the same brand, so always check reviews for the exact store you plan to use.</p>"
+    }
+  ],
+  "word_count_estimate": 899
+}

@@ -1,0 +1,43 @@
+{
+  "title": "iPhone 12 Battery Life: What to Expect Today",
+  "meta_title": "iPhone 12 Battery Life: What to Expect Now",
+  "meta_description": "iPhone 12 battery life depends on age and health, not just the original spec. Here's what Apple rated it for, and what to expect from a used or ageing unit.",
+  "intro_html": "<p>A healthy iPhone 12 was rated by Apple for up to around 17 hours of local video playback when new, but real-world battery life today depends far more on the battery's current health than on that original spec. A four-plus-year-old iPhone 12 with a worn battery will run noticeably shorter than the day it launched, even with identical usage.</p><p>This article covers what the iPhone 12's battery was designed to do, how that compares with newer iPhones, and how to tell whether yours is still performing close to its original capability.</p>",
+  "key_takeaways": [
+    "Apple rated the iPhone 12 for up to roughly 17 hours of local video playback when new, with shorter real-world battery life for mixed daily use",
+    "Battery health (checked in Settings > Battery) matters more than the original spec once a phone is a few years old",
+    "Later iPhone models generally improved on battery life through larger batteries and more efficient chips, not dramatic design changes",
+    "A battery replacement restores an iPhone 12 close to its original runtime if the rest of the phone is still in good condition",
+    "iOS updates can occasionally affect battery behaviour, so check Battery Health after a major software update if runtime suddenly changes"
+  ],
+  "sections": [
+    {
+      "heading": "What was the iPhone 12's battery life when new?",
+      "html": "<p>Apple's official ratings for the standard iPhone 12 were up to around 17 hours of local video playback, up to about 11 hours of streamed video, and up to roughly 65 hours of audio playback, all measured under Apple's own test conditions rather than typical mixed daily use. Real-world battery life for most people — a mix of browsing, messaging, camera use and some video — usually falls well short of those best-case figures, which is normal for any phone's official ratings.</p><p>The iPhone 12 mini, with its smaller body, was rated for somewhat less runtime, while the iPhone 12 Pro Max was rated for noticeably more, reflecting its larger battery.</p>"
+    },
+    {
+      "heading": "How does iPhone 12 battery life compare with the iPhone 13 and 14 Pro?",
+      "html": "<p>Later iPhone generations generally improved battery life through a combination of larger battery capacity, more power-efficient chips, and software refinements, rather than one single dramatic change. The iPhone 13 lineup extended runtime over the iPhone 12 equivalents, and the iPhone 14 Pro models pushed further again, partly due to the more efficient chip used in the Pro line.</p><p>For an iPhone 12 owner, this mostly matters if you're deciding whether to keep the phone (and possibly replace its battery) or upgrade — it's rarely a reason on its own to replace a phone that's otherwise working well.</p>"
+    },
+    {
+      "heading": "Why does an iPhone 12's battery life drop over time?",
+      "html": "<p>Like all lithium-ion batteries, the iPhone 12's battery degrades gradually with each full charge cycle, losing a small amount of maximum capacity permanently each time. This is normal and expected — it's not a defect, just the chemistry of how these batteries work.</p><p>You can check how much capacity your specific iPhone 12 has lost under Settings > Battery > Battery Health & Charging, which shows maximum capacity as a percentage of original. Heat, consistently charging to 100% and leaving it there, and frequent fast charging can all accelerate this wear over time.</p>"
+    },
+    {
+      "heading": "Should you replace the battery in an iPhone 12 today?",
+      "html": "<p>If the rest of the phone — screen, cameras, charging port — is still working well and the phone still receives reasonable iOS support, a battery replacement is usually a sensible way to extend its useful life rather than replacing the whole device. Several years into its life, a battery replacement is the single most effective upgrade for most iPhone 12 owners experiencing poor runtime.</p><p>Because pricing varies by repairer and whether you choose a genuine or third-party battery, it's worth checking a current, itemised price list for the iPhone 12 specifically rather than assuming it matches a newer model's cost.</p>"
+    },
+    {
+      "heading": "How can you get more out of an iPhone 12's current battery?",
+      "html": "<p>Turn on Optimized Battery Charging (Settings > Battery > Battery Health & Charging) so the phone learns your routine and slows charging overnight to reduce time spent at 100%. Avoid leaving the phone in direct sun or a hot car, and try to avoid letting it sit at very low charge for extended periods.</p><p>Keeping iOS updated also helps, since Apple occasionally ships battery and power-management improvements in software updates, even on older models like the iPhone 12.</p>"
+    }
+  ],
+  "table": null,
+  "faq": [
+    {"q": "How long does iPhone 12 battery life last?", "a": "<p>When new, Apple rated it for up to about 17 hours of local video playback; a few years on, actual runtime depends heavily on the battery's current health rather than that original figure.</p>"},
+    {"q": "How does iPhone 12 battery life compare to iPhone 13?", "a": "<p>The iPhone 13 generally offers somewhat longer battery life than the iPhone 12 thanks to a larger battery and efficiency improvements, though both still depend on the individual unit's battery health.</p>"},
+    {"q": "Does the iPhone 14 Pro have better battery life than the iPhone 12?", "a": "<p>Yes, the iPhone 14 Pro generally lasts longer on a charge than the iPhone 12, due to a combination of a bigger battery and a more power-efficient chip.</p>"},
+    {"q": "How do I check my iPhone 12's battery health?", "a": "<p>Go to Settings > Battery > Battery Health & Charging to see maximum capacity as a percentage of the battery's original condition.</p>"}
+  ],
+  "word_count_estimate": 800
+}

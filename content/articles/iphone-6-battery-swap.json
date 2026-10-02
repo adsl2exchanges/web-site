@@ -1,0 +1,52 @@
+{
+  "title": "iPhone 6 Battery Swap: Is DIY Worth It?",
+  "meta_title": "iPhone 6 Battery Swap: DIY vs Professional",
+  "meta_description": "An iPhone 6 battery swap is one of the easier DIY phone repairs, but it still carries real risk. Here's what's involved and when to leave it to a pro.",
+  "intro_html": "<p>A battery swap on an iPhone 6 (or 6s) is one of the more DIY-friendly phone repairs, since the design is older, has no water-resistance seal to preserve, and uses fairly simple adhesive strips rather than the heavier bonding found in newer models. That said, being DIY-friendly doesn't mean risk-free — lithium-ion batteries are pressurised, and a punctured or badly bent battery is a genuine safety hazard.</p><p>This covers why people still swap batteries on these older iPhones, what the job actually involves, and where the real risks sit.</p>",
+  "key_takeaways": [
+    "The iPhone 6/6s battery swap is considered one of the easier DIY phone repairs due to its simpler, non-water-resistant design",
+    "Pull-tab adhesive strips are commonly used to remove these older batteries, reducing (but not eliminating) the risk of damaging the cell",
+    "Never puncture, bend sharply, or apply excessive force to a lithium-ion battery — a swollen or damaged battery is a fire and burn risk",
+    "A swollen battery (bulging back, lifted screen) should be treated as urgent and the phone should stop being used and charged until it's addressed",
+    "Even on an older phone, a battery replacement can meaningfully extend its useful life if the rest of the hardware still works"
+  ],
+  "sections": [
+    {
+      "heading": "Why do people still replace the battery in an iPhone 6?",
+      "html": "<p>The iPhone 6 and 6s are now old enough that their batteries, even if the phone was well cared for, have typically gone through enough charge cycles to show meaningful capacity loss. For someone who still relies on the phone for basic tasks, or keeps it as a backup device, a battery swap is often far more practical than buying a replacement phone for a device that otherwise still works.</p><p>These models are also popular for DIY repair because parts are inexpensive relative to newer iPhones and the repair itself is comparatively simple by iPhone standards.</p>"
+    },
+    {
+      "heading": "What does an iPhone 6 battery swap actually involve?",
+      "html": "<p>At a high level, the process involves removing the two bottom screws, lifting the screen (while it's still connected by ribbon cables, so it needs to be propped carefully rather than fully detached), disconnecting the battery connector, releasing the adhesive pull-tabs that hold the battery in place, and fitting the new battery before reversing the process.</p><p>It requires a small screwdriver set (including the specific pentalobe screws Apple uses), a plastic prying tool, and patience with the ribbon cable connectors, which are delicate and easy to damage if forced.</p>"
+    },
+    {
+      "heading": "What are the real risks of a DIY iPhone 6 battery swap?",
+      "html": "<p>The biggest risk is physical damage to the battery itself. Lithium-ion batteries are pressurised pouches, and if the adhesive pull-tabs snap (which they sometimes do on an older, more brittle battery), people are sometimes tempted to pry the battery out with a flat tool — this is exactly how batteries get punctured or bent, which can cause swelling, overheating, or in rare cases a fire. If a pull-tab fails, it's safer to stop and seek professional help than to force the battery out.</p><p>Secondary risks include tearing a ribbon cable (losing Touch ID or the home button function), stripping the small screws, or cracking the screen while it's propped open during the repair.</p>"
+    },
+    {
+      "heading": "When should you avoid DIY and go to a professional instead?",
+      "html": "<p>If the battery is already visibly swollen, stop immediately and don't attempt a DIY removal — a swollen battery is more fragile and more dangerous to handle, and a professional has the tools and experience to remove it safely. Swelling often shows as the screen lifting slightly at the edges or the back case no longer sitting flush.</p><p>It's also worth going professional if you're not confident with small tools, ribbon cables, or don't have a steady, well-lit workspace — a damaged ribbon cable can turn a simple battery job into a much larger (and more expensive) repair.</p>"
+    },
+    {
+      "heading": "Is it worth repairing an iPhone 6 at all in 2026?",
+      "html": "<p>It depends on what you need the phone for. If it's a backup device, a kids' phone limited to Wi-Fi apps, or used for basic calls and texts, a battery swap is a cheap way to keep it useful. If you're relying on it as a daily driver, bear in mind these models are well past Apple's current iOS update support, so some newer apps may no longer run properly regardless of battery condition.</p><p>If the screen, buttons and charging port are all still working, the battery is usually the only thing standing between the phone and several more years of light use.</p>"
+    }
+  ],
+  "table": {
+    "caption": "DIY vs professional iPhone 6 battery swap",
+    "headers": ["Factor", "DIY", "Professional repairer"],
+    "rows": [
+      ["Tools needed", "Pentalobe screwdriver, prying tool, patience", "Already equipped"],
+      ["Risk if pull-tabs fail", "Higher, since forcing it out risks puncturing the battery", "Lower, trained to handle a stuck battery safely"],
+      ["Cost", "Cheaper part cost, your own time", "Includes labour, but faster and lower risk"],
+      ["Best for", "Confident DIYers with steady hands and the right tools", "Anyone unsure, or if the battery is already swollen"]
+    ]
+  },
+  "faq": [
+    {"q": "Can I swap the battery on an iPhone 6 myself?", "a": "<p>Yes, it's considered one of the more DIY-friendly iPhone battery swaps, but it still requires the right small tools and care around the ribbon cables and battery adhesive.</p>"},
+    {"q": "Is it safe to replace an iPhone 6 battery at home?", "a": "<p>It's generally lower risk than newer iPhone models, but the battery itself is pressurised, so it should never be punctured, bent sharply, or forced out if the pull-tabs fail.</p>"},
+    {"q": "What tools do I need to change an iPhone 6 battery?", "a": "<p>A pentalobe and Phillips screwdriver set sized for iPhones, a plastic prying tool, and ideally tweezers for handling small connectors.</p>"},
+    {"q": "What should I do if my iPhone 6 battery is swollen?", "a": "<p>Stop using and charging the phone and have the battery removed and replaced by someone experienced, since a swollen battery is more fragile and poses a safety risk if mishandled.</p>"}
+  ],
+  "word_count_estimate": 830
+}

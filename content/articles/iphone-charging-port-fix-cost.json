@@ -1,0 +1,54 @@
+{
+  "title": "What Affects iPhone Charging Port Repair Cost",
+  "meta_title": "iPhone Charging Port Fix Cost: What Affects It",
+  "meta_description": "What actually drives the cost of an iPhone charging port fix in Australia — cleaning vs replacement, model, labour, and genuine vs aftermarket parts.",
+  "intro_html": "<p>The cost of fixing an iPhone charging port depends mainly on whether the problem needs a simple clean or a full port replacement, plus the iPhone model and the type of part used. A clean is a quick, low-cost job; a replacement involves more labour and a physical part, so it sits higher on the price scale.</p><p>Rather than a single fixed price, charging port repairs cover a range of possible jobs, and understanding what drives the cost helps you judge whether a quote is reasonable for your situation.</p>",
+  "key_takeaways": [
+    "Port cleaning (clearing lint/debris) is a much simpler, lower-cost job than full port replacement.",
+    "iPhone model matters — newer Pro models and models with more complex internal layouts generally cost more to work on.",
+    "Genuine/OEM-equivalent parts typically cost more than generic aftermarket connectors, but tend to be more reliable long-term.",
+    "Labour time varies because some iPhones require more disassembly to reach the charging port than others.",
+    "Because prices are updated often, it's worth checking a current, itemised price list for your exact model rather than going by a figure you've seen elsewhere."
+  ],
+  "sections": [
+    {
+      "heading": "What determines the cost of an iPhone charging port repair?",
+      "html": "<p>Charging port repair costs are driven by the type of fix needed, the iPhone model, and the quality of the replacement part used. These three factors interact: a simple clean on any model is relatively inexpensive, while a full port replacement on a newer Pro-series phone with tightly packed internals sits at the higher end.</p><p>Repairers typically price charging port jobs as a diagnostic and clean, a port replacement, or occasionally a logic board repair if the charging chip itself has failed rather than the port. Each of these is a genuinely different job with different parts, tools and time involved, which is why asking what exactly is being quoted matters more than comparing a single number.</p>"
+    },
+    {
+      "heading": "Port cleaning vs port replacement: what's the real difference?",
+      "html": "<p>A port cleaning job involves removing lint, dust or light corrosion from the existing connector without replacing any hardware. It's typically quick, doesn't require opening the phone's casing, and resolves the majority of charging complaints since debris buildup is the most common cause of charging issues.</p><p>A port replacement is a different scale of job. It means removing the old Lightning connector assembly — which is often soldered or integrated into a flex cable near the battery and speaker — and fitting a new one. This requires opening the phone, careful handling of surrounding components, and precise reassembly, which naturally costs more in labour and parts than a clean.</p><p>A reputable repairer should diagnose which of these you actually need before quoting, rather than jumping straight to a full replacement quote for what might be a five-minute clean.</p>"
+    },
+    {
+      "heading": "Does the iPhone model change the price?",
+      "html": "<p>Yes. Newer and larger iPhones, particularly Pro and Pro Max models, often have more tightly packed internals and additional components (like larger batteries and extra camera hardware) positioned near the charging port, which can mean more careful disassembly and more time on the bench.</p><p>Older iPhone models are often quicker to access since repairers have more experience and established processes for them, which can offset some of the cost even though the part itself might be an older design. Ultimately, model-specific labour time and part availability both feed into the final price.</p>"
+    },
+    {
+      "heading": "Genuine vs aftermarket charging port parts",
+      "html": "<p>Charging port components come in a range of quality tiers, broadly split into genuine/OEM-equivalent and generic aftermarket parts. Genuine-grade parts are manufactured to match the original specification closely and tend to carry a higher part cost, but generally offer better long-term reliability and more consistent charging performance.</p><p>Generic aftermarket connectors are cheaper to source and can bring the overall repair cost down, but quality varies significantly between suppliers. A poorly made port can lead to loose connections, inconsistent charging speeds, or a repeat failure sooner than expected.</p><p>It's reasonable to ask a repairer which type of part they're fitting and what warranty applies to it — this tells you more about value than the price alone.</p>"
+    },
+    {
+      "heading": "Other factors that can affect the final price",
+      "html": "<p>A few less obvious factors can shift the cost of a charging port fix up or down. Liquid damage adds complexity, since a technician may need to clean corrosion from surrounding components, not just the port itself, and check whether the battery or logic board was also affected.</p><p>Turnaround time can matter too — a same-day or express service sometimes carries a premium over a standard multi-day turnaround. Warranty terms are worth weighing against price as well: a slightly higher quote that includes a longer warranty on parts and labour can work out better value than the cheapest option with no guarantee.</p><p>Because prices move often and vary between repairers, it's worth checking a current, itemised price list for your specific iPhone model rather than relying on a figure you've seen in a forum or from a friend's repair.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Port cleaning vs port replacement: what differs",
+    "headers": ["Factor", "Port cleaning", "Port replacement"],
+    "rows": [
+      ["Typical cause addressed", "Lint, dust, light residue", "Worn, corroded or physically damaged connector"],
+      ["Phone opened?", "Usually not", "Yes"],
+      ["Relative time involved", "Low", "Higher"],
+      ["Parts required", "None", "New port/flex assembly"],
+      ["Relative cost", "Lower", "Higher"]
+    ]
+  },
+  "faq": [
+    {"q": "How much does it cost to fix a charging port on an iPhone?", "a": "<p>It depends on whether the port just needs cleaning or full replacement, the iPhone model, and whether genuine or aftermarket parts are used. Because pricing varies and changes often, check a current itemised price list for your specific model rather than relying on a fixed figure.</p>"},
+    {"q": "Is iPhone charging port repair cost higher in Australia than elsewhere?", "a": "<p>Repair pricing reflects local labour, part sourcing and import costs, so it can differ from other countries, but within Australia it mainly comes down to the repairer, the model, and whether a clean or full replacement is needed.</p>"},
+    {"q": "Does an iPhone 13 charging port replacement cost more than cleaning?", "a": "<p>Yes, replacement is a more involved job requiring disassembly and a new part, so it typically costs more than a simple clean of lint or debris from the existing port.</p>"},
+    {"q": "What's the difference between a charger port repair and a full phone service?", "a": "<p>A charger port repair targets just the charging connector and related flex cable, while a full phone service might include additional checks like battery health, speaker function and water-resistance seals.</p>"},
+    {"q": "Can a charging port be fixed without replacing it?", "a": "<p>Often yes — cleaning out debris resolves most charging port complaints without needing a replacement part, which is why a proper diagnosis before any repair is worthwhile.</p>"}
+  ],
+  "word_count_estimate": 810
+}

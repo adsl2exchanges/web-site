@@ -1,0 +1,52 @@
+{
+  "title": "Computer and Laptop Repair Services: What to Expect",
+  "meta_title": "Computer & Laptop Repair Services Explained",
+  "meta_description": "Thinking about computer or laptop repair? Here's what services shops actually offer, how to choose an IT repair store, and what affects turnaround and cost.",
+  "intro_html": "<p>Computer and laptop repair services generally cover hardware fixes (screens, keyboards, batteries, power issues), software troubleshooting, and data recovery — and most IT repair shops can handle both PCs and laptops across major brands. Which service you need depends on whether the problem is physical damage, something that's stopped working on its own, or a performance issue that's crept up over time.</p>",
+  "key_takeaways": [
+    "Laptop repairs split broadly into hardware (screens, keyboards, hinges, batteries, ports) and software (operating system issues, malware, slow performance).",
+    "A cracked laptop screen is usually a straightforward panel swap; a laptop that won't power on at all needs proper diagnostics, since the cause could be the charger, battery, motherboard or something else entirely.",
+    "Back up your data before any repair — a repair shop handling hardware work isn't the same as a data recovery specialist, and some repairs carry a small risk to stored files.",
+    "Ask whether a shop services your specific brand and whether they use manufacturer parts or compatible third-party parts.",
+    "Desktop PC repairs are often cheaper to diagnose than laptops since components are easier to isolate and swap individually."
+  ],
+  "sections": [
+    {
+      "heading": "What computer and laptop repair services actually cover",
+      "html": "<p>Most IT repair shops offer a mix of: screen replacement, keyboard and trackpad repair, battery replacement, charging port and power jack repair, fan and cooling fixes for overheating, data recovery from failed drives, virus and malware removal, and operating system reinstalls. Some also do component-level repairs like replacing a failed hard drive or adding more memory.</p><p>Not every shop does everything — some specialise in hardware only, others focus on software and \"tech support\" style fixes. It's worth confirming a shop handles your specific issue before dropping the device off.</p>"
+    },
+    {
+      "heading": "Diagnosing a laptop or PC that won't turn on",
+      "html": "<p>A device that won't power on at all has several possible causes: a faulty charger or power brick, a dead or swollen battery, a failed power jack, or a deeper motherboard fault. These all look identical from the outside, which is why a proper diagnostic — not a guess — is the right first step.</p><p>A reasonable repairer will test the charger and battery independently before assuming the fault is internal, since the cheapest possible cause should always be ruled out first.</p>"
+    },
+    {
+      "heading": "Screen repair for laptops vs desktop monitors",
+      "html": "<p>A cracked or damaged laptop screen is usually replaced as a single panel, and is one of the more predictable repairs since the part is specific to that laptop model. A desktop monitor with a cracked screen is often more cost-effective to replace outright than repair, since monitors are generally cheaper and more standardised than laptop panels, but a shop can advise once they've seen the exact fault (lines, dead pixels, backlight failure, or physical cracking all have different likely causes).</p>"
+    },
+    {
+      "heading": "DIY vs calling in an IT specialist",
+      "html": "<p>Software issues — slow performance, malware, failing updates — are sometimes fixable yourself with some research, though a specialist can usually do it faster and more thoroughly, particularly with malware removal where a partial fix can leave something behind. Hardware repairs are a different matter: opening a laptop involves small screws, ribbon cables and sometimes glued-in batteries, and a mistake can turn a simple fix into a much bigger one.</p><p>If you're comfortable with computers generally, adding RAM or swapping a hard drive for an SSD on an older laptop is a reasonable DIY project on many models. Screen, keyboard and logic board work is best left to a specialist.</p>"
+    },
+    {
+      "heading": "What drives the cost, and how to compare quotes",
+      "html": "<p>Cost depends on the type of repair, the device brand and model (business and gaming laptops can have less standardised, pricier parts than mainstream consumer models), and whether genuine manufacturer parts or compatible third-party parts are used. Data recovery costs vary hugely depending on the type of failure and how much is involved in retrieving the data.</p><p>Because pricing varies this much by device and fault, it's worth checking a current, itemised price list for your exact situation rather than relying on a number you've seen for a different brand or model.</p>"
+    }
+  ],
+  "table": {
+    "caption": "Signs of a hardware fault vs a software fault",
+    "headers": ["Symptom", "More likely hardware", "More likely software"],
+    "rows": [
+      ["Won't turn on at all", "Yes — check charger, battery, power jack", "Rare, unless it's stuck in a boot loop"],
+      ["Running slow over time", "Possible if drive is failing", "Common — malware, too many startup programs, full drive"],
+      ["Screen flickers or has lines", "Yes — panel or cable fault", "Rare, usually driver-related if intermittent"],
+      ["Random crashes or blue screens", "Possible — RAM or drive fault", "Common — driver conflicts or corrupted files"]
+    ]
+  },
+  "faq": [
+    {"q": "How do I find a good computer repair shop near me?", "a": "<p>Check whether they service your specific brand, ask if they offer a diagnostic before quoting, and read recent reviews. A shop that explains the likely cause before starting work is generally more trustworthy than one that quotes without inspecting the device.</p>"},
+    {"q": "Is it worth fixing an old laptop or should I replace it?", "a": "<p>It depends on the fault and the laptop's age. A single, inexpensive fix like a battery or RAM upgrade can extend a laptop's life well, while a motherboard-level fault on an already old machine may not be worth the cost compared with a replacement.</p>"},
+    {"q": "Can a repair shop recover data from a broken laptop?", "a": "<p>Many can for common failure types, such as a failing hard drive, though success and cost vary depending on the type and severity of the failure. Specialised data recovery services exist for more serious cases, such as physically damaged drives.</p>"},
+    {"q": "How long does laptop repair usually take?", "a": "<p>Simple jobs like a battery or RAM swap can often be done same-day if the part is in stock. Screen replacements, motherboard repairs, or anything needing a part ordered in can take several days to a couple of weeks.</p>"}
+  ],
+  "word_count_estimate": 840
+}
